@@ -21,7 +21,7 @@ layout:
 # Operation Handbook
 
 <p align="center">
-  <img src=".gitbook/assets/ChatGPT Image Jul 25, 2026, 03_22_48 PM.png" alt="Operation Handbook Banner" width="100%">
+  <img src=".gitbook/assets/ChatGPT Image Jul 25, 2026, 03_22_48 PM.png" width="100%">
 </p>
 
 | |
