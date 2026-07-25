@@ -6,10 +6,6 @@ description: Mẫu sơ đồ bố trí phòng thi — Bước 5.
 
 # Sơ đồ phòng thi
 
-{% hint style="warning" %}
-Đây là bản nháp — cần Exam Coordinator rà soát và điều chỉnh trước khi áp dụng chính thức.
-{% endhint %}
-
 ## Thông tin chung
 
 - Tên kỳ thi:
