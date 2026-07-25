@@ -47,13 +47,13 @@ Các ô **in đậm** bên dưới là ngoại lệ so với mặc định — c
 | 5 | [Phân công nhân sự & CSVC](buoc-05-phan-cong-va-csvc.md) | A | R | C | I | I |
 | 6 | [Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md) | A | R | C | I | I |
 
-### 🟢 Trong kỳ thi
+### 🟠 Trong kỳ thi
 
 | # | Hoạt động | Exam Director | Exam Coordinator | Exam Operations Team | Invigilator / Examiner | Marketing Team |
 | ---: | --- | :---: | :---: | :---: | :---: | :---: |
 | 7 | [Tổ chức kỳ thi](buoc-07-to-chuc-ky-thi/README.md) | A | R | C | **R** | I |
 
-### 🟠 Sau kỳ thi
+### 🟢 Sau kỳ thi
 
 | # | Hoạt động | Exam Director | Exam Coordinator | Exam Operations Team | Invigilator / Examiner | Marketing Team |
 | ---: | --- | :---: | :---: | :---: | :---: | :---: |
