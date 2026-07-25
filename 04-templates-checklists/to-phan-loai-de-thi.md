@@ -24,9 +24,9 @@ layout:
 
 # Tờ phân loại đề thi
 
-{% embed url="https://docs.google.com/document/d/1dZY8WxwL1rNBY4em1jEkYn-vxXPmaLAG92u9HRdz274/edit?usp=sharing" %}
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
-## Tài liệu liên quan
+<p align="center"><a href="https://docs.google.com/document/d/1dZY8WxwL1rNBY4em1jEkYn-vxXPmaLAG92u9HRdz274/edit?usp=sharing">Link</a></p>
 
 {% content-ref url="../02-processes/buoc-06-chuan-bi-de-thi.md" %}
 [buoc-06-chuan-bi-de-thi.md](../02-processes/buoc-06-chuan-bi-de-thi.md)
