@@ -34,8 +34,6 @@ Thực hiện 1 ngày trước kỳ thi
 {% column %}
 #### 👤 Phụ trách
 
-[Exam Operations Officer](../03-roles/exam-operations-officer.md)
-
 [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
@@ -52,8 +50,7 @@ Thực hiện 1 ngày trước kỳ thi
 
 | Vai trò                                                       | Trách nhiệm                                        |
 | ------------------------------------------------------------- | -------------------------------------------------- |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Lập kế hoạch và giám sát công tác chuẩn bị đề thi. |
-| [Exam Coordinator](../03-roles/exam-coordinator.md)           | Kiểm tra, phân loại, đóng gói và chuẩn bị đề thi.  |
+| [Exam Coordinator](../03-roles/exam-coordinator.md)           | Lập kế hoạch, giám sát, kiểm tra, phân loại, đóng gói và chuẩn bị đề thi.  |
 | [Exam Director](../03-roles/exam-director.md)                 | Giám sát việc mở niêm phong đề thi theo quy định.  |
 
 ### 📋 Chuẩn bị
