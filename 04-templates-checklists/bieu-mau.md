@@ -18,7 +18,7 @@ layout:
   actions:
     visible: true
 ---
-# Biểu mẫu
+# 📋 Biểu mẫu
 Các biểu mẫu sử dụng xuyên suốt quy trình tổ chức kỳ thi ÖSD.
 {% content-ref url="ke-hoach-ky-thi.md" %}
 [ke-hoach-ky-thi.md](ke-hoach-ky-thi.md)
@@ -27,7 +27,7 @@ Mẫu kế hoạch tổ chức kỳ thi trình Exam Director phê duyệt — B�
 {% content-ref url="danh-sach-thi-cac-ky-nang.md" %}
 [danh-sach-thi-cac-ky-nang.md](danh-sach-thi-cac-ky-nang.md)
 {% endcontent-ref %}
-Mẫu danh sách phân bổ thí sinh theo kỹ năng, phòng, giờ thi — Bước 3.
+Mẫu danh sách thi Viết và thi Nói, kèm sơ đồ phòng thi — Bước 3, Bước 7.
 {% content-ref url="to-phan-loai-de-thi.md" %}
 [to-phan-loai-de-thi.md](to-phan-loai-de-thi.md)
 {% endcontent-ref %}
