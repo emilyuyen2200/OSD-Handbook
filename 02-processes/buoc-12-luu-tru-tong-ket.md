@@ -191,6 +191,9 @@ Exam Director
 [risk-register.md](../05-risk-management/risk-register.md)
 {% endcontent-ref %}
 
-{% content-ref url="../04-templates-checklists/danh-muc-mau-bieu.md" %}
-[danh-muc-mau-bieu.md](../04-templates-checklists/danh-muc-mau-bieu.md)
+{% content-ref url="../04-templates-checklists/bieu-mau.md" %}
+[bieu-mau.md](../04-templates-checklists/bieu-mau.md)
+{% endcontent-ref %}
+{% content-ref url="../04-templates-checklists/checklist.md" %}
+[checklist.md](../04-templates-checklists/checklist.md)
 {% endcontent-ref %}
