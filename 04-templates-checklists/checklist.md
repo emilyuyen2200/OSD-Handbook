@@ -33,6 +33,11 @@ Checklist chuẩn bị nhân sự hỗ trợ kỳ thi — Bước 5.
 {% endcontent-ref %}
 Checklist thiết bị và setup phòng thi — Bước 5.
 
+{% content-ref url="checklist-chuan-bi-csvc-thiet-bi.md" %}
+[checklist-chuan-bi-csvc-thiet-bi.md](checklist-chuan-bi-csvc-thiet-bi.md)
+{% endcontent-ref %}
+Checklist chi tiết chuẩn bị CSVC, thiết bị, hồ sơ và vật dụng theo từng mốc thời gian — Bước 5.
+
 {% content-ref url="checklist-check-in.md" %}
 [checklist-check-in.md](checklist-check-in.md)
 {% endcontent-ref %}
