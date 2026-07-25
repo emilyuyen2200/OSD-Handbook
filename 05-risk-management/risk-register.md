@@ -27,10 +27,10 @@ Tài liệu này tổng hợp các rủi ro có thể phát sinh trong quá trì
 
 ## 🎯 Mục đích
 
-- Chủ động nhận diện các rủi ro trong quá trình tổ chức kỳ thi.
-- Thống nhất nguyên tắc xử lý giữa các bộ phận.
-- Hạn chế ảnh hưởng đến thí sinh và tiến độ kỳ thi.
-- Làm cơ sở cập nhật và cải tiến quy trình sau mỗi kỳ thi.
+* Chủ động nhận diện các rủi ro trong quá trình tổ chức kỳ thi.
+* Thống nhất nguyên tắc xử lý giữa các bộ phận.
+* Hạn chế ảnh hưởng đến thí sinh và tiến độ kỳ thi.
+* Làm cơ sở cập nhật và cải tiến quy trình sau mỗi kỳ thi.
 
 ***
 
@@ -49,27 +49,7 @@ Khi phát hiện sự cố hoặc rủi ro:
 
 ## 📋 Danh mục rủi ro
 
-| Rủi ro | Bước | Mức độ | Nguyên tắc xử lý | Phụ trách |
-| --- | --- | --- | --- | --- |
-| Mất điện | 5, 7 | 🔴 Cao | Chuyển sang phương án nguồn điện dự phòng, báo Technical Team và Exam Coordinator. | Technical Team |
-| Mất mạng Internet | 5, 7 | 🔴 Cao | Kiểm tra đường truyền, chuyển sang mạng dự phòng nếu có. | Technical Team |
-| Lỗi phần mềm thi | 5, 7 | 🔴 Cao | Ghi nhận sự cố, hỗ trợ khởi động lại hoặc chuyển sang thiết bị dự phòng. | Technical Team |
-| Hỏng máy tính hoặc thiết bị | 5, 7 | 🔴 Cao | Thay thế bằng thiết bị dự phòng, đảm bảo không ảnh hưởng thời gian thi. | Technical Team |
-| Thiếu hoặc sai đề thi | 4, 6, 7 | 🔴 Rất cao | Ngừng phát đề, niêm phong tài liệu liên quan và báo ngay Exam Coordinator. | Exam Coordinator |
-| Nghi ngờ lộ đề thi | 4, 6, 7 | 🔴 Rất cao | Dừng sử dụng bộ đề liên quan và báo ngay Exam Director. | Exam Director |
-| Thí sinh đến muộn | 7 | 🟠 Trung bình | Xử lý theo Quy chế thi và hướng dẫn của Exam Coordinator. | Exam Coordinator |
-| Thí sinh thiếu hồ sơ | 7 | 🟠 Trung bình | Kiểm tra điều kiện dự thi và xử lý theo quy định hiện hành. | Check-in Officer |
-| Không xác minh được danh tính | 7 | 🔴 Cao | Không cho phép tham gia thi cho đến khi được xác minh theo quy định. | Exam Coordinator |
-| Thí sinh mang vật dụng không được phép | 7 | 🟠 Trung bình | Yêu cầu gửi đồ hoặc xử lý theo Quy chế thi. | Security Officer |
-| Thí sinh vi phạm quy chế | 7 | 🔴 Cao | Lập biên bản và báo ngay Exam Coordinator, Exam Director nếu cần. | Invigilator |
-| Sự cố sức khỏe của thí sinh | 7 | 🔴 Cao | Hỗ trợ sơ cứu, liên hệ người phụ trách và cơ sở y tế khi cần. | Exam Coordinator |
-| Chậm tiến độ kỳ thi | 7 | 🟠 Trung bình | Điều chỉnh kế hoạch điều phối, ưu tiên đảm bảo đúng quy chế. | Exam Coordinator |
-| Thiếu nhân sự vận hành | 5, 7 | 🟠 Trung bình | Điều động nhân sự dự phòng hoặc điều chỉnh phân công. | Exam Coordinator |
-| Sai lịch thi hoặc phân phòng | 3, 7 | 🔴 Cao | Xác minh thông tin và điều chỉnh trước khi thí sinh vào phòng thi. | Exam Coordinator |
-| Sai điểm hoặc sai dữ liệu bài thi | 8, 10 | 🔴 Cao | Đối soát hồ sơ trước khi cập nhật lên hệ thống. | Exam Coordinator |
-| Thất lạc bài thi | 8, 9 | 🔴 Rất cao | Khoanh vùng, kiểm tra hồ sơ bàn giao và báo ngay Exam Director. | Exam Coordinator |
-| Sai hoặc thiếu hồ sơ gửi ÖSD | 9 | 🔴 Cao | Đối soát lại toàn bộ hồ sơ trước khi niêm phong. | Exam Coordinator |
-| Chậm nhận chứng chỉ | 11 | 🟡 Thấp | Thông báo cho thí sinh và cập nhật tình trạng xử lý. | Exam Coordinator |
+<table><thead><tr><th width="137.8125">Rủi ro</th><th width="87.4375">Bước</th><th width="91.53515625">Mức độ</th><th width="260.09765625">Nguyên tắc xử lý</th><th>Phụ trách</th></tr></thead><tbody><tr><td>Mất điện</td><td>5, 7</td><td>🔴 Cao</td><td>Chuyển sang phương án nguồn điện dự phòng, báo Technical Team và Exam Coordinator.</td><td>Technical Team</td></tr><tr><td>Mất mạng Internet</td><td>5, 7</td><td>🔴 Cao</td><td>Kiểm tra đường truyền, chuyển sang mạng dự phòng nếu có.</td><td>Technical Team</td></tr><tr><td>Lỗi phần mềm thi</td><td>5, 7</td><td>🔴 Cao</td><td>Ghi nhận sự cố, hỗ trợ khởi động lại hoặc chuyển sang thiết bị dự phòng.</td><td>Technical Team</td></tr><tr><td>Hỏng máy tính hoặc thiết bị</td><td>5, 7</td><td>🔴 Cao</td><td>Thay thế bằng thiết bị dự phòng, đảm bảo không ảnh hưởng thời gian thi.</td><td>Technical Team</td></tr><tr><td>Thiếu hoặc sai đề thi</td><td>4, 6, 7</td><td>🔴 Rất cao</td><td>Ngừng phát đề, niêm phong tài liệu liên quan và báo ngay Exam Coordinator.</td><td>Exam Coordinator</td></tr><tr><td>Nghi ngờ lộ đề thi</td><td>4, 6, 7</td><td>🔴 Rất cao</td><td>Dừng sử dụng bộ đề liên quan và báo ngay Exam Director.</td><td>Exam Director</td></tr><tr><td>Thí sinh đến muộn</td><td>7</td><td>🟠 Trung bình</td><td>Xử lý theo Quy chế thi và hướng dẫn của Exam Coordinator.</td><td>Exam Coordinator</td></tr><tr><td>Thí sinh thiếu hồ sơ</td><td>7</td><td>🟠 Trung bình</td><td>Kiểm tra điều kiện dự thi và xử lý theo quy định hiện hành.</td><td>Check-in Officer</td></tr><tr><td>Không xác minh được danh tính</td><td>7</td><td>🔴 Cao</td><td>Không cho phép tham gia thi cho đến khi được xác minh theo quy định.</td><td>Exam Coordinator</td></tr><tr><td>Thí sinh mang vật dụng không được phép</td><td>7</td><td>🟠 Trung bình</td><td>Yêu cầu gửi đồ hoặc xử lý theo Quy chế thi.</td><td>Security Officer</td></tr><tr><td>Thí sinh vi phạm quy chế</td><td>7</td><td>🔴 Cao</td><td>Lập biên bản và báo ngay Exam Coordinator, Exam Director nếu cần.</td><td>Invigilator</td></tr><tr><td>Sự cố sức khỏe của thí sinh</td><td>7</td><td>🔴 Cao</td><td>Hỗ trợ sơ cứu, liên hệ người phụ trách và cơ sở y tế khi cần.</td><td>Exam Coordinator</td></tr><tr><td>Chậm tiến độ kỳ thi</td><td>7</td><td>🟠 Trung bình</td><td>Điều chỉnh kế hoạch điều phối, ưu tiên đảm bảo đúng quy chế.</td><td>Exam Coordinator</td></tr><tr><td>Thiếu nhân sự vận hành</td><td>5, 7</td><td>🟠 Trung bình</td><td>Điều động nhân sự dự phòng hoặc điều chỉnh phân công.</td><td>Exam Coordinator</td></tr><tr><td>Sai lịch thi hoặc phân phòng</td><td>3, 7</td><td>🔴 Cao</td><td>Xác minh thông tin và điều chỉnh trước khi thí sinh vào phòng thi.</td><td>Exam Coordinator</td></tr><tr><td>Sai điểm hoặc sai dữ liệu bài thi</td><td>8, 10</td><td>🔴 Cao</td><td>Đối soát hồ sơ trước khi cập nhật lên hệ thống.</td><td>Exam Coordinator</td></tr><tr><td>Thất lạc bài thi</td><td>8, 9</td><td>🔴 Rất cao</td><td>Khoanh vùng, kiểm tra hồ sơ bàn giao và báo ngay Exam Director.</td><td>Exam Coordinator</td></tr><tr><td>Sai hoặc thiếu hồ sơ gửi ÖSD</td><td>9</td><td>🔴 Cao</td><td>Đối soát lại toàn bộ hồ sơ trước khi niêm phong.</td><td>Exam Coordinator</td></tr><tr><td>Chậm nhận chứng chỉ</td><td>11</td><td>🟡 Thấp</td><td>Thông báo cho thí sinh và cập nhật tình trạng xử lý.</td><td>Exam Coordinator</td></tr></tbody></table>
 
 ***
 
