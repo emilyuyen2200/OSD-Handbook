@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# Phòng Marketing
+# Marketing Team
 
 Phụ trách truyền thông kỳ thi, tiếp nhận đăng ký và phối hợp với Exam Coordinator trong quá trình quản lý thông tin thí sinh trước kỳ thi.
 
@@ -47,7 +47,7 @@ Exam Coordinator
 
 ## 👥 Vai trò & Trách nhiệm
 
-Phòng Marketing chịu trách nhiệm truyền thông kỳ thi, mở đăng ký và hỗ trợ thí sinh trong giai đoạn trước kỳ thi.
+Marketing Team chịu trách nhiệm truyền thông kỳ thi, mở đăng ký và hỗ trợ thí sinh trong giai đoạn trước kỳ thi.
 
 ### Trách nhiệm chính
 
