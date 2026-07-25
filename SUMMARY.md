@@ -25,7 +25,7 @@
   * [08-01. Đối soát bài thi Viết](02-processes/buoc-08-doi-soat/08-01-doi-soat-bai-thi-viet.md)
   * [08-02. Đối soát bài thi Nói](02-processes/buoc-08-doi-soat/08-02-doi-soat-bai-thi-noi.md)
   * [08-03. Quản lý bài thi nhận kết quả nhanh](02-processes/buoc-08-doi-soat/08-03-quan-ly-bai-thi-nhan-ket-qua-nhanh.md)
-  * [08-04. Hoàn tất hồ sơ sau ngày thi cuối](quy-trinh-to-chuc-thi-osd/buoc-08-doi-soat/08-04.-hoan-tat-ho-so-sau-ngay-thi-cuoi.md)
+  * [08-04. Hoàn tất hồ sơ sau ngày thi cuối](02-processes/buoc-08-doi-soat/08-04-dong-goi-va-luu-tru-bai-thi.md)
 * [Bước 9 — Đóng gói & Bàn giao Bài thi](02-processes/buoc-09-dong-goi-ban-giao.md)
 * [Bước 10 — Công bố kết quả thi](02-processes/buoc-10-cong-bo-ket-qua.md)
 * [Bước 11 — Cấp phát chứng chỉ](02-processes/buoc-11-cap-phat-chung-chi.md)
@@ -46,28 +46,14 @@
   * [Room Coordinator](03-roles/exam-operations-team/room-coordinator.md)
 * [Examiner](03-roles/examiner.md)
 * [Invigilator](03-roles/invigilator.md)
-* [Marketing Team](03-roles/marketing.md)
+* [Phòng Marketing](03-roles/marketing.md)
 
 ## Mẫu biểu & Checklist
 
-* [Danh mục mẫu biểu](04-templates-checklists/danh-muc-mau-bieu.md)
-* [Sơ đồ phòng thi](04-templates-checklists/so-do-phong-thi.md)
-* [Giấy nháp thi](04-templates-checklists/giay-nhap-thi.md)
-* [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
-* [Tờ phân loại đề thi](04-templates-checklists/to-phan-loai-de-thi.md)
-* [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
-* [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
-* [Danh sách thi các kỹ năng](04-templates-checklists/danh-sach-thi-cac-ky-nang.md)
-* [Protokol](04-templates-checklists/protokol.md)
-* [Checklist Phân công Nhân sự](04-templates-checklists/checklist-phan-cong-nhan-su.md)
-* [Checklist Hồ sơ & Biểu mẫu Phòng thi](04-templates-checklists/checklist-ho-so-bieu-mau-phong-thi.md)
-* [Checklist Thiết bị](04-templates-checklists/checklist-thiet-bi.md)
-* [Checklist Setup Phòng thi](04-templates-checklists/checklist-setup-phong-thi.md)
-* [Checklist Phần mềm & Hệ thống](04-templates-checklists/checklist-phan-mem-va-he-thong.md)
-* [Checklist Check-in](04-templates-checklists/checklist-check-in.md)
-* [Checklist phòng thi Viết](04-templates-checklists/checklist-phong-thi-Viet.md)
-* [Checklist phòng thi Nói](04-templates-checklists/checklist-phong-thi-Noi.md)
-* [Checklist Thu bài & Bàn giao](04-templates-checklists/checklist-thu-bai-va-ban-giao.md)
+* [Biểu mẫu](04-templates-checklists/bieu-mau.md)
+* [Checklist](04-templates-checklists/checklist.md)
+* [Tài liệu hỗ trợ](04-templates-checklists/tai-lieu-ho-tro.md)
+
 
 ## Quản lý rủi ro
 
