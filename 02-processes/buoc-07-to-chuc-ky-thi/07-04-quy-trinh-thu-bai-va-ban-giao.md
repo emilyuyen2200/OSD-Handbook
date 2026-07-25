@@ -24,25 +24,23 @@ layout:
 
 # 07-04. Quy trình Thu bài & Bàn giao
 
-
-
 {% columns %}
 {% column %}
-#### 📅 Thời điểm
+<h4 align="center">📅 Thời điểm</h4>
 
-Ngay sau khi kết thúc từng buổi thi.
+<p align="center">Ngay sau khi kết thúc từng buổi thi.</p>
 {% endcolumn %}
 
 {% column %}
-#### 👤 Phụ trách
+<h4 align="center">👤 Phụ trách</h4>
 
-Invigilator
+<p align="center">Invigilator</p>
 {% endcolumn %}
 
 {% column %}
-#### ✅ Phê duyệt
+<h4 align="center">✅ Phê duyệt</h4>
 
-Exam Coordinator
+<p align="center">Exam Coordinator</p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -148,7 +146,6 @@ Bàn giao toàn bộ bài thi và hồ sơ cho Exam Coordinator để tiếp t�
 
 ## 📎 Tài liệu liên quan
 
-{% content-ref url="../buoc-08-doi-soat/README.md" %}
-[buoc-8-doi-soat-bai-thi-de-thi](../buoc-08-doi-soat/README.md)
+{% content-ref url="../buoc-08-doi-soat/" %}
+[buoc-08-doi-soat](../buoc-08-doi-soat/)
 {% endcontent-ref %}
-

@@ -26,21 +26,21 @@ layout:
 
 {% columns %}
 {% column width="33.33333333333333%" %}
-#### 📅 **Thời điểm**&#x20;
+<h4 align="center">📅 <strong>Thời điểm</strong></h4>
 
-Trước ngày thi 2–3 tuần
+<p align="center">Trước ngày thi 2–3 tuần</p>
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-#### 👤 **Phụ trách**&#x20;
+<h4 align="center">👤 <strong>Phụ trách</strong></h4>
 
-[Exam Coordinator](../03-roles/exam-coordinator.md)
+<p align="center"><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
 {% endcolumn %}
 
 {% column %}
-#### ✅ **Phê duyệt**&#x20;
+<h4 align="center">✅ <strong>Phê duyệt</strong></h4>
 
-[Exam Director](../03-roles/exam-director.md)
+<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -48,13 +48,13 @@ Trước ngày thi 2–3 tuần
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                                       | Trách nhiệm                                                                       |
-| ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Vai trò                                             | Trách nhiệm                                                                       |
+| --------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Exam Coordinator](../03-roles/exam-coordinator.md) | Theo dõi, tiếp nhận và lưu trữ lô đề thi.                                         |
-| [Exam Director](../03-roles/exam-director.md)                 | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
+| [Exam Director](../03-roles/exam-director.md)       | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
 
 {% hint style="info" %}
-### Chuẩn bị&#x20;
+### Chuẩn bị
 {% endhint %}
 
 {% columns %}

@@ -26,21 +26,21 @@ layout:
 
 {% columns %}
 {% column %}
-#### 📅 Thời điểm
+<h4 align="center">📅 Thời điểm</h4>
 
-Thực hiện 1 ngày trước kỳ thi
+<p align="center">Thực hiện 1 ngày trước kỳ thi</p>
 {% endcolumn %}
 
 {% column %}
-#### 👤 Phụ trách
+<h4 align="center">👤 Phụ trách</h4>
 
-[Exam Coordinator](../03-roles/exam-coordinator.md)
+<p align="center"><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
 {% endcolumn %}
 
 {% column %}
-#### ✅ Phê duyệt
+<h4 align="center">✅ Phê duyệt</h4>
 
-[Exam Director](../03-roles/exam-director.md)
+<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -48,10 +48,10 @@ Thực hiện 1 ngày trước kỳ thi
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                                       | Trách nhiệm                                        |
-| ------------------------------------------------------------- | -------------------------------------------------- |
-| [Exam Coordinator](../03-roles/exam-coordinator.md)           | Lập kế hoạch, giám sát, kiểm tra, phân loại, đóng gói và chuẩn bị đề thi.  |
-| [Exam Director](../03-roles/exam-director.md)                 | Giám sát việc mở niêm phong đề thi theo quy định.  |
+| Vai trò                                             | Trách nhiệm                                                               |
+| --------------------------------------------------- | ------------------------------------------------------------------------- |
+| [Exam Coordinator](../03-roles/exam-coordinator.md) | Lập kế hoạch, giám sát, kiểm tra, phân loại, đóng gói và chuẩn bị đề thi. |
+| [Exam Director](../03-roles/exam-director.md)       | Giám sát việc mở niêm phong đề thi theo quy định.                         |
 
 ### 📋 Chuẩn bị
 
@@ -155,11 +155,11 @@ Thực hiện 1 ngày trước kỳ thi
 {% step %}
 ### 4. Đóng gói đề thi
 
-* Chuẩn bị riêng cho từng phòng thi.&#x20;
-* Mỗi bộ đề gồm:&#x20;
+* Chuẩn bị riêng cho từng phòng thi.
+* Mỗi bộ đề gồm:
   * Đề thi
   * file nghe tương ứng (nếu có)
-  * Tài liệu đi kèm theo quy định.&#x20;
+  * Tài liệu đi kèm theo quy định.
 * Dán nhãn và niêm phong sau khi hoàn tất.
 {% endstep %}
 

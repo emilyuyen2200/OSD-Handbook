@@ -1,4 +1,7 @@
 ---
+description: >-
+  Tổ chức và điều phối phòng thi Viết theo đúng quy chế ÖSD, đảm bảo kỳ thi diễn
+  ra đúng quy trình, đúng thời gian và an toàn.
 layout:
   width: wide
   title:
@@ -21,25 +24,23 @@ layout:
 
 # 07-02. Quy trình phòng thi Viết
 
-Tổ chức và điều phối phòng thi Viết theo đúng quy chế ÖSD, đảm bảo kỳ thi diễn ra đúng quy trình, đúng thời gian và an toàn.
-
 {% columns %}
 {% column %}
-#### 📅 Thời điểm
+<h4 align="center">📅 Thời điểm</h4>
 
-Trong suốt thời gian diễn ra buổi thi Viết.
+<p align="center">Trong suốt thời gian diễn ra buổi thi Viết.</p>
 {% endcolumn %}
 
 {% column %}
-#### 👤 Phụ trách
+<h4 align="center">👤 Phụ trách</h4>
 
-Invigilator
+<p align="center">Invigilator</p>
 {% endcolumn %}
 
 {% column %}
-#### ✅ Phê duyệt
+<h4 align="center">✅ Phê duyệt</h4>
 
-Exam Director
+<p align="center">Exam Director</p>
 {% endcolumn %}
 {% endcolumns %}
 

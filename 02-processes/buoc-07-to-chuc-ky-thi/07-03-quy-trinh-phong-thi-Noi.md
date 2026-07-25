@@ -25,21 +25,21 @@ Tổ chức và điều phối phòng thi Nói theo đúng quy chế ÖSD, đả
 
 {% columns %}
 {% column %}
-#### 📅 Thời điểm
+<h4 align="center">📅 Thời điểm</h4>
 
-Trong suốt thời gian diễn ra các ca thi Nói.
+<p align="center">Trong suốt thời gian diễn ra các ca thi Nói.</p>
 {% endcolumn %}
 
 {% column %}
-#### 👤 Phụ trách
+<h4 align="center">👤 Phụ trách</h4>
 
-Invigilator
+<p align="center">Invigilator</p>
 {% endcolumn %}
 
 {% column %}
-#### ✅ Phê duyệt
+<h4 align="center">✅ Phê duyệt</h4>
 
-Exam Director
+<p align="center">Exam Director</p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -47,18 +47,18 @@ Exam Director
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
+| Vai trò     | Trách nhiệm                                                                                |
+| ----------- | ------------------------------------------------------------------------------------------ |
 | Invigilator | Điều phối toàn bộ hoạt động của phòng chuẩn bị và chuyển tiếp thí sinh sang phòng thi Nói. |
 
 ### 📋 Chuẩn bị
 
-- 📄 Đề thi theo từng cặp.
-- 📄 Phiếu đánh giá.
-- 📄 Phiếu xanh.
-- 📄 Giấy nháp.
-- 🔖 Các dấu mộc theo quy định.
-- 🏫 Phòng chuẩn bị đã sẵn sàng.
+* 📄 Đề thi theo từng cặp.
+* 📄 Phiếu đánh giá.
+* 📄 Phiếu xanh.
+* 📄 Giấy nháp.
+* 🔖 Các dấu mộc theo quy định.
+* 🏫 Phòng chuẩn bị đã sẵn sàng.
 
 ***
 
@@ -67,25 +67,25 @@ Exam Director
 {% hint style="danger" %}
 ### Đề thi
 
-- Chỉ phát đề theo đúng thời điểm quy định.
-- Đối chiếu và phát đúng mã đề cho từng cặp thí sinh.
-- Không giải thích, diễn giải hoặc gợi ý nội dung đề thi.
+* Chỉ phát đề theo đúng thời điểm quy định.
+* Đối chiếu và phát đúng mã đề cho từng cặp thí sinh.
+* Không giải thích, diễn giải hoặc gợi ý nội dung đề thi.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Phòng chuẩn bị
 
-- Điều phối đúng cặp thí sinh theo lịch thi.
-- Khu vực chuẩn bị luôn giữ trật tự và tuyệt đối im lặng.
-- Không để thí sinh trao đổi hoặc xem lại đề sau khi kết thúc thời gian chuẩn bị.
+* Điều phối đúng cặp thí sinh theo lịch thi.
+* Khu vực chuẩn bị luôn giữ trật tự và tuyệt đối im lặng.
+* Không để thí sinh trao đổi hoặc xem lại đề sau khi kết thúc thời gian chuẩn bị.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Kết thúc
 
-- Thu đầy đủ đề thi, giấy nháp và biểu mẫu.
-- Chuyển đúng hồ sơ của từng cặp sang phòng thi Nói.
-- Hoàn tất bàn giao sau khi kết thúc ngày thi.
+* Thu đầy đủ đề thi, giấy nháp và biểu mẫu.
+* Chuyển đúng hồ sơ của từng cặp sang phòng thi Nói.
+* Hoàn tất bàn giao sau khi kết thúc ngày thi.
 {% endhint %}
 
 ***
@@ -93,7 +93,6 @@ Exam Director
 ## 📖 Hướng dẫn thực hiện
 
 {% stepper %}
-
 {% step %}
 ### Chuẩn bị đề thi
 
@@ -129,7 +128,6 @@ Giám sát quá trình chuẩn bị, thu lại tài liệu và đảm bảo đú
 
 Thu hồi đề thi, giấy nháp, biểu mẫu và hoàn tất bàn giao hồ sơ theo quy định.
 {% endstep %}
-
 {% endstepper %}
 
 ***
@@ -139,12 +137,12 @@ Thu hồi đề thi, giấy nháp, biểu mẫu và hoàn tất bàn giao hồ s
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-- [ ] Đề thi đã được chuẩn bị.
-- [ ] Thí sinh đã vào đúng phòng chuẩn bị.
-- [ ] Đã phổ biến quy định và phát đề.
-- [ ] Đã điều phối đúng thời gian chuẩn bị.
-- [ ] Đã chuyển đầy đủ hồ sơ sang phòng thi Nói.
-- [ ] Đã hoàn tất bàn giao cuối ngày.
+* [ ] Đề thi đã được chuẩn bị.
+* [ ] Thí sinh đã vào đúng phòng chuẩn bị.
+* [ ] Đã phổ biến quy định và phát đề.
+* [ ] Đã điều phối đúng thời gian chuẩn bị.
+* [ ] Đã chuyển đầy đủ hồ sơ sang phòng thi Nói.
+* [ ] Đã hoàn tất bàn giao cuối ngày.
 {% endhint %}
 {% endcolumn %}
 
@@ -152,8 +150,8 @@ Thu hồi đề thi, giấy nháp, biểu mẫu và hoàn tất bàn giao hồ s
 {% hint style="success" %}
 ### Hoàn thành khi
 
-- Toàn bộ các cặp thí sinh đã hoàn thành phần chuẩn bị và được điều phối vào phòng thi Nói.
-- Hồ sơ và tài liệu đã được bàn giao đầy đủ.
+* Toàn bộ các cặp thí sinh đã hoàn thành phần chuẩn bị và được điều phối vào phòng thi Nói.
+* Hồ sơ và tài liệu đã được bàn giao đầy đủ.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -161,8 +159,8 @@ Thu hồi đề thi, giấy nháp, biểu mẫu và hoàn tất bàn giao hồ s
 {% hint style="warning" %}
 ### Lưu ý
 
-- Quy trình này mô tả luồng vận hành của phòng chuẩn bị cho phần thi Nói.
-- Hướng dẫn thao tác chi tiết được trình bày trong **Role Guide – Invigilator**.
+* Quy trình này mô tả luồng vận hành của phòng chuẩn bị cho phần thi Nói.
+* Hướng dẫn thao tác chi tiết được trình bày trong **Role Guide – Invigilator**.
 {% endhint %}
 
 ***

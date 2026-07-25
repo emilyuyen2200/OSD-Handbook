@@ -1,31 +1,48 @@
 ---
 description: >-
   Bước này gồm hai hoạt động được triển khai song song ngay sau khi kế hoạch kỳ
-  thi được phê duyệt: 2A. Quản lý đăng ký kỳ thi — Exam Coordinator phụ trách.
-  2B. Truyền thông kỳ thi — Phòng Marketing phụ
+  thi được phê duyệt: 2A. Quản lý đăng ký kỳ thi và 2B. Truyền thông kỳ thi.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# Bước 2 — Quản lý đăng ký và truyền thông cho kỳ thi
+# Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi
 
 {% columns %}
 {% column %}
-#### 📅 **Thời điểm**&#x20;
+<h4 align="center">📅 <strong>Thời điểm</strong></h4>
 
 Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](buoc-01-lap-ke-hoach-dang-ky.md) và kết thúc khi đóng đăng ký.
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-#### 👤 **Phụ trách**&#x20;
+<h4 align="center">👤 <strong>Phụ trách</strong></h4>
 
-2A: [Exam Coordinator](../03-roles/exam-coordinator.md)&#x20;
+<p align="center">2A: <a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
 
-2B: [Phòng Marketing](../03-roles/marketing.md)
+<p align="center">2B: <a href="../03-roles/marketing.md">Phòng Marketing</a></p>
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-#### ✅ **Phê duyệt**&#x20;
+<h4 align="center">✅ <strong>Phê duyệt</strong></h4>
 
-[Exam Director](../03-roles/exam-director.md)
+<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -52,8 +69,6 @@ Bắt đầu ngay sau khi hoàn thành [Bước 1. Lập kế hoạch kỳ thi](
 <table><thead><tr><th width="141.9296875">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/marketing.md">Phòng Marketing</a></td><td>Triển khai truyền thông và theo dõi hiệu quả đăng ký.</td></tr></tbody></table>
 {% endcolumn %}
 {% endcolumns %}
-
-
 
 {% columns %}
 {% column width="50%" %}

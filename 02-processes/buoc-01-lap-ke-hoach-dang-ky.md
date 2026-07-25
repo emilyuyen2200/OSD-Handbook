@@ -1,4 +1,7 @@
 ---
+description: >-
+  Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đăng ký kỳ thi với ÖSD
+  trước khi triển khai các hoạt động tiếp theo.
 layout:
   width: wide
   title:
@@ -21,25 +24,23 @@ layout:
 
 # Bước 1 — Lập kế hoạch & đăng ký
 
-Xác định thời gian tổ chức, trình độ mở thi và hoàn tất đăng ký kỳ thi với ÖSD trước khi triển khai các hoạt động tiếp theo.
-
 {% columns %}
 {% column %}
-#### 📅 **Thời điểm**&#x20;
+<h4 align="center">📅 <strong>Thời điểm</strong></h4>
 
-Trước ngày thi 1,5–2 tháng
+<p align="center">Trước ngày thi 1,5–2 tháng</p>
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-#### 👤 **Phụ trách**&#x20;
+<h4 align="center">👤 <strong>Phụ trách</strong></h4>
 
-[Exam Coordinator](../03-roles/exam-coordinator.md)
+<p align="center"><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-#### ✅ **Phê duyệt**&#x20;
+<h4 align="center">✅ <strong>Phê duyệt</strong></h4>
 
-[Exam Director](../03-roles/exam-director.md)
+<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -60,8 +61,6 @@ Trước ngày thi 1,5–2 tháng
 * 📃 Thông tin đăng ký theo yêu cầu của ÖSD.
 
 ***
-
-
 
 ## 📖 Hướng dẫn thực hiện
 
@@ -102,8 +101,6 @@ Trước ngày thi 1,5–2 tháng
 {% hint style="info" %}
 **Kết quả:** Có ngày tổ chức kỳ thi được xác định.
 {% endhint %}
-
-
 {% endcolumn %}
 
 {% column %}

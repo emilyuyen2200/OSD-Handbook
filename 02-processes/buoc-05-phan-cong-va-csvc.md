@@ -26,23 +26,23 @@ layout:
 
 {% columns %}
 {% column %}
-#### **📅 Thời điểm**&#x20;
+<h4 align="center"><strong>📅 Thời điểm</strong></h4>
 
-Từ 5 ngày trước kỳ thi
+<p align="center">Từ 5 ngày trước kỳ thi</p>
 {% endcolumn %}
 
 {% column %}
-#### 👤 **Phụ trách**&#x20;
+<h4 align="center">👤 <strong>Phụ trách</strong></h4>
 
-[Exam Operations Teams](../03-roles/exam-operations-team/)
+<p align="center"><a href="../03-roles/exam-operations-team/">Exam Operations Teams</a></p>
 
-[Exam Coordinator](../03-roles/exam-coordinator.md)
+<p align="center"><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
 {% endcolumn %}
 
 {% column %}
-#### ✅ **Phê duyệt**
+<h4 align="center">✅ <strong>Phê duyệt</strong></h4>
 
-&#x20;[Exam Director](../03-roles/exam-director.md)
+<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -50,12 +50,12 @@ Từ 5 ngày trước kỳ thi
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                                                            | Trách nhiệm                                  |
-| ---------------------------------------------------------------------------------- | -------------------------------------------- |
-| [Exam Coordinator](../03-roles/exam-coordinator.md)                                | Quyết định phương án, lập kế hoạch chuẩn bị và điều phối thực hiện. |
-| [Technical Team](../03-roles/exam-operations-team/technical-team.md) | Chuẩn bị thiết bị, phần mềm.                 |
-| Các bộ phận liên quan                                                              | Thực hiện theo phân công.                    |
-| [Exam Director](../03-roles/exam-director.md)                                      | Phê duyệt kế hoạch cuối cùng.                |
+| Vai trò                                                              | Trách nhiệm                                                         |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| [Exam Coordinator](../03-roles/exam-coordinator.md)                  | Quyết định phương án, lập kế hoạch chuẩn bị và điều phối thực hiện. |
+| [Technical Team](../03-roles/exam-operations-team/technical-team.md) | Chuẩn bị thiết bị, phần mềm.                                        |
+| Các bộ phận liên quan                                                | Thực hiện theo phân công.                                           |
+| [Exam Director](../03-roles/exam-director.md)                        | Phê duyệt kế hoạch cuối cùng.                                       |
 
 ***
 

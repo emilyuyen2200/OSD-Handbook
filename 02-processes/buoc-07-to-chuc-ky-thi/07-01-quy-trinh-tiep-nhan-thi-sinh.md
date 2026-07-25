@@ -1,5 +1,7 @@
 ---
-description: Tiếp nhận và điều phối thí sinh từ khi đến điểm thi đến khi vào đúng phòng thi, đảm bảo quy trình diễn ra thống nhất, đúng thời gian và đúng quy chế ÖSD.
+description: >-
+  Tiếp nhận và điều phối thí sinh từ khi đến điểm thi đến khi vào đúng phòng
+  thi, đảm bảo quy trình diễn ra thống nhất, đúng thời gian và đúng quy chế ÖSD.
 layout:
   width: wide
   title:
@@ -24,28 +26,25 @@ layout:
 
 {% columns %}
 {% column %}
-#### 📅 Thời điểm
+<h4 align="center">📅 Thời điểm</h4>
 
-Trước mỗi buổi thi, từ khi bắt đầu đón thí sinh đến khi toàn bộ thí sinh đã vào phòng thi.
-
+<p align="center">Trước mỗi buổi thi, từ khi bắt đầu đón thí sinh đến khi toàn bộ thí sinh đã vào phòng thi.</p>
 {% endcolumn %}
 
 {% column %}
-#### 👤 Phụ trách
+<h4 align="center">👤 Phụ trách</h4>
 
-Exam Coordinator
+<p align="center">Exam Coordinator</p>
 
-Exam Operations Team
+<p align="center">Exam Operations Team</p>
 
-Invigilator
-
+<p align="center">Invigilator</p>
 {% endcolumn %}
 
 {% column %}
-#### ✅ Phê duyệt
+<h4 align="center">✅ Phê duyệt</h4>
 
-Exam Director
-
+<p align="center">Exam Director</p>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -53,32 +52,32 @@ Exam Director
 
 ## 👥 Vai trò & Trách nhiệm
 
-| Vai trò | Trách nhiệm |
-| --- | --- |
-| Exam Coordinator | Điều phối toàn bộ quy trình tiếp nhận thí sinh. |
-| Welcome Officer | Đón tiếp và hướng dẫn thí sinh. |
-| Check-in Officer | Kiểm tra hồ sơ và xác nhận thông tin dự thi. |
-| Locker Officer | Quản lý khu vực gửi đồ cá nhân. |
-| Security Officer | Kiểm tra an ninh và vật dụng mang vào phòng thi. |
+| Vai trò          | Trách nhiệm                                          |
+| ---------------- | ---------------------------------------------------- |
+| Exam Coordinator | Điều phối toàn bộ quy trình tiếp nhận thí sinh.      |
+| Welcome Officer  | Đón tiếp và hướng dẫn thí sinh.                      |
+| Check-in Officer | Kiểm tra hồ sơ và xác nhận thông tin dự thi.         |
+| Locker Officer   | Quản lý khu vực gửi đồ cá nhân.                      |
+| Security Officer | Kiểm tra an ninh và vật dụng mang vào phòng thi.     |
 | Room Coordinator | Điều phối thí sinh tại khu vực chờ và phòng thi Nói. |
-| Invigilator | Tiếp nhận và hướng dẫn thí sinh vào phòng thi. |
+| Invigilator      | Tiếp nhận và hướng dẫn thí sinh vào phòng thi.       |
 
 ***
 
 ## 📋 Chuẩn bị
 
-- 📄 Danh sách thí sinh.
-- 📄 Danh sách phân phòng.
-- 📄 Lịch thi.
-- 📄 Danh sách phân công nhân sự.
-- 🏫 Khu vực tiếp nhận đã sẵn sàng.
-- 🚪 Phòng thi đã sẵn sàng đón thí sinh.
+* 📄 Danh sách thí sinh.
+* 📄 Danh sách phân phòng.
+* 📄 Lịch thi.
+* 📄 Danh sách phân công nhân sự.
+* 🏫 Khu vực tiếp nhận đã sẵn sàng.
+* 🚪 Phòng thi đã sẵn sàng đón thí sinh.
 
 ### ▶️ Điều kiện bắt đầu
 
-- Nhân sự đã có mặt đầy đủ theo phân công.
-- Hồ sơ, biểu mẫu và thiết bị phục vụ tiếp nhận đã sẵn sàng.
-- Các khu vực Check-in, Gửi đồ, Kiểm tra an ninh và Khu vực chờ đã sẵn sàng hoạt động.
+* Nhân sự đã có mặt đầy đủ theo phân công.
+* Hồ sơ, biểu mẫu và thiết bị phục vụ tiếp nhận đã sẵn sàng.
+* Các khu vực Check-in, Gửi đồ, Kiểm tra an ninh và Khu vực chờ đã sẵn sàng hoạt động.
 
 ***
 
@@ -87,16 +86,16 @@ Exam Director
 {% hint style="danger" %}
 ### Điều phối thí sinh
 
-- Thí sinh phải hoàn thành đầy đủ từng bước của quy trình tiếp nhận trước khi chuyển sang bước tiếp theo.
-- Điều phối số lượng thí sinh phù hợp với sức chứa của từng khu vực.
-- Đảm bảo luồng di chuyển thông suốt, tránh ùn tắc tại các điểm tiếp nhận.
+* Thí sinh phải hoàn thành đầy đủ từng bước của quy trình tiếp nhận trước khi chuyển sang bước tiếp theo.
+* Điều phối số lượng thí sinh phù hợp với sức chứa của từng khu vực.
+* Đảm bảo luồng di chuyển thông suốt, tránh ùn tắc tại các điểm tiếp nhận.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Xử lý tình huống
 
-- Mọi trường hợp phát sinh được xử lý theo quy định của Hội đồng thi.
-- Các trường hợp vượt thẩm quyền phải báo ngay cho Exam Coordinator.
+* Mọi trường hợp phát sinh được xử lý theo quy định của Hội đồng thi.
+* Các trường hợp vượt thẩm quyền phải báo ngay cho Exam Coordinator.
 {% endhint %}
 
 ***
@@ -167,38 +166,34 @@ Gọi tên, hướng dẫn thí sinh vào đúng phòng thi và bắt đầu quy
 
 {% columns %}
 {% column %}
-
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-- [ ] Toàn bộ thí sinh đã hoàn tất thủ tục Check-in.
-- [ ] Đã hoàn thành gửi đồ cá nhân.
-- [ ] Đã hoàn tất kiểm tra an ninh.
-- [ ] Đã điều phối toàn bộ thí sinh vào đúng khu vực chờ.
-- [ ] Đã bàn giao toàn bộ thí sinh cho Giám thị.
+* [ ] Toàn bộ thí sinh đã hoàn tất thủ tục Check-in.
+* [ ] Đã hoàn thành gửi đồ cá nhân.
+* [ ] Đã hoàn tất kiểm tra an ninh.
+* [ ] Đã điều phối toàn bộ thí sinh vào đúng khu vực chờ.
+* [ ] Đã bàn giao toàn bộ thí sinh cho Giám thị.
 {% endhint %}
-
 {% endcolumn %}
 
 {% column %}
-
 {% hint style="success" %}
 ### Hoàn thành khi
 
-- Toàn bộ thí sinh đủ điều kiện đã vào đúng phòng thi.
-- Không còn thí sinh tại khu vực tiếp nhận hoặc khu vực chờ.
-- Sẵn sàng triển khai quy trình phòng thi.
+* Toàn bộ thí sinh đủ điều kiện đã vào đúng phòng thi.
+* Không còn thí sinh tại khu vực tiếp nhận hoặc khu vực chờ.
+* Sẵn sàng triển khai quy trình phòng thi.
 {% endhint %}
-
 {% endcolumn %}
 {% endcolumns %}
 
 {% hint style="warning" %}
 ### Lưu ý
 
-- Quy trình này chỉ mô tả luồng tiếp nhận và điều phối thí sinh.
-- Hướng dẫn thao tác chi tiết được trình bày trong Role Guide của từng vị trí.
-- Các trường hợp ngoại lệ được xử lý theo quy định của Hội đồng thi và hướng dẫn của Exam Coordinator.
+* Quy trình này chỉ mô tả luồng tiếp nhận và điều phối thí sinh.
+* Hướng dẫn thao tác chi tiết được trình bày trong Role Guide của từng vị trí.
+* Các trường hợp ngoại lệ được xử lý theo quy định của Hội đồng thi và hướng dẫn của Exam Coordinator.
 {% endhint %}
 
 ***
@@ -206,9 +201,7 @@ Gọi tên, hướng dẫn thí sinh vào đúng phòng thi và bắt đầu quy
 ## 📎 Tài liệu liên quan
 
 {% columns %}
-
 {% column %}
-
 {% content-ref url="../../03-roles/exam-operations-team/welcome-officer.md" %}
 [welcome-officer.md](../../03-roles/exam-operations-team/welcome-officer.md)
 {% endcontent-ref %}
@@ -220,11 +213,9 @@ Gọi tên, hướng dẫn thí sinh vào đúng phòng thi và bắt đầu quy
 {% content-ref url="../../03-roles/exam-operations-team/locker-officer.md" %}
 [locker-officer.md](../../03-roles/exam-operations-team/locker-officer.md)
 {% endcontent-ref %}
-
 {% endcolumn %}
 
 {% column %}
-
 {% content-ref url="../../03-roles/exam-operations-team/security-officer.md" %}
 [security-officer.md](../../03-roles/exam-operations-team/security-officer.md)
 {% endcontent-ref %}
@@ -236,9 +227,7 @@ Gọi tên, hướng dẫn thí sinh vào đúng phòng thi và bắt đầu quy
 {% content-ref url="../../03-roles/invigilator.md" %}
 [invigilator.md](../../03-roles/invigilator.md)
 {% endcontent-ref %}
-
 {% endcolumn %}
-
 {% endcolumns %}
 
 {% content-ref url="07-02-quy-trinh-phong-thi-Viet.md" %}
