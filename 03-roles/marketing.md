@@ -1,7 +1,4 @@
 ---
-description: >-
-  Phụ trách truyền thông kỳ thi, tiếp nhận đăng ký và phối hợp với Exam
-  Coordinator trong quá trình quản lý thông tin thí sinh trước kỳ thi.
 layout:
   width: wide
   title:
@@ -21,20 +18,21 @@ layout:
   actions:
     visible: true
 ---
+# Marketing Team
 
-# Phòng Marketing
+Truyền thông thông tin kỳ thi và quản lý cổng đăng ký, đảm bảo thí sinh tiếp cận đầy đủ thông tin và hoàn tất đăng ký đúng hạn.
 
 {% columns %}
 {% column %}
 #### 👤 Vị trí
 
-Bộ phận truyền thông và tuyển sinh.
+Phụ trách truyền thông & đăng ký kỳ thi.
 {% endcolumn %}
 
 {% column %}
 #### 👨‍💼 Báo cáo cho
 
-Exam Director
+Exam Coordinator
 {% endcolumn %}
 
 {% column %}
@@ -48,52 +46,29 @@ Exam Coordinator
 
 ## 👥 Vai trò & Trách nhiệm
 
-Marketing Team chịu trách nhiệm truyền thông kỳ thi, mở đăng ký và hỗ trợ thí sinh trong giai đoạn trước kỳ thi.
+Marketing Team chịu trách nhiệm truyền thông thông tin kỳ thi và vận hành cổng đăng ký, phối hợp với Exam Coordinator để theo dõi tiến độ đăng ký.
 
 ### Trách nhiệm chính
 
-* Cập nhật thông tin kỳ thi trên website.
-* Mở cổng đăng ký và cổng thanh toán.
-* Triển khai truyền thông trên các kênh chính thức.
-* Tiếp nhận và hỗ trợ các câu hỏi của thí sinh.
-* Theo dõi số lượng đăng ký và phối hợp với Exam Coordinator để cập nhật tình hình tuyển sinh.
+- Cập nhật thông tin kỳ thi trên website (lịch thi, lệ phí, địa điểm, hạn đăng ký).
+- Mở đăng ký và cổng thanh toán.
+- Triển khai truyền thông (Facebook, Zalo, tin nhắn học viên).
+- Theo dõi số lượng đăng ký, phối hợp báo cáo với Exam Coordinator.
 
 ***
 
 ## 📋 Quy trình tham gia
 
-| Bước                                           | Vai trò                                         |
-| ---------------------------------------------- | ----------------------------------------------- |
-| Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi | Chủ trì                                         |
-| Bước 3 — Sắp xếp lịch thi chi tiết             | Phối hợp _(cung cấp danh sách đăng ký đã chốt)_ |
+| Bước | Vai trò |
+| --- | --- |
+| [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](../02-processes/buoc-02-quan-ly-va-truyen-thong.md) | Chủ trì (2.2 — Truyền thông) |
 
 ***
-
-## 📄 Hồ sơ & Công cụ sử dụng
-
-* Website đăng ký kỳ thi.
-* Hệ thống quản lý kỳ thi.
-* Facebook.
-* Zalo.
-* Email.
-* Danh sách đăng ký thí sinh.
-
-***
-
-{% hint style="info" %}
-### Tài liệu thường sử dụng
-
-* Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi.
-* Hệ thống quản lý kỳ thi → Quản lý đăng ký.
-* Hệ thống quản lý kỳ thi → Quản lý thanh toán.
-{% endhint %}
 
 {% hint style="warning" %}
 ### Lưu ý
 
-* Chỉ công bố thông tin kỳ thi sau khi được Exam Coordinator xác nhận.
-* Không tự ý thay đổi lịch thi, lệ phí hoặc các thông tin chính thức khi chưa được phê duyệt.
-* Mọi thay đổi liên quan đến danh sách thí sinh phải được phối hợp với Exam Coordinator.
+Marketing Team chỉ phụ trách truyền thông và cổng đăng ký — không quyết định lịch thi hay nội dung quy chế. Mọi thay đổi về lịch thi hoặc thông tin kỳ thi cần được Exam Coordinator xác nhận trước khi công bố.
 {% endhint %}
 
 ***
