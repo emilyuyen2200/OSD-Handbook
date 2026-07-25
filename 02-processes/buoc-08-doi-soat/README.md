@@ -105,9 +105,9 @@ Scan và upload bài thi của các thí sinh đăng ký nhận kết quả nhan
 {% endstep %}
 
 {% step %}
-### Đóng gói & lưu trữ bài thi
+### Hoàn tất hồ sơ sau ngày thi cuối
 
-Sắp xếp, đóng gói, niêm phong và lưu trữ bài thi trước khi gửi về ÖSD.
+Thống kê bài thi, hoàn thiện tờ bìa thông tin, nhập liệu hệ thống và thống kê đề thi còn thừa trước khi chuyển sang Bước 9.
 {% endstep %}
 
 {% endstepper %}
