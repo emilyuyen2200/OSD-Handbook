@@ -1,81 +1,98 @@
 ---
-title: Ma trận phân công trách nhiệm (RACI Matrix)
-description: Phân công trách nhiệm giữa các vai trò trong quá trình tổ chức kỳ thi ÖSD.
-owner: Exam Director
-reviewer: Exam Coordinator
-version: "1.1"
-status: Draft
-last_updated: 2026-07-25
+description: >-
+  Đảm bảo toàn bộ nhân sự, hồ sơ, thiết bị và phòng thi đã sẵn sàng trước ngày
+  tổ chức kỳ thi.
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: false
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
-# Ma trận phân công trách nhiệm (RACI Matrix)
+# Bước 5 — Phân công nhân sự & CSVC
 
-Ma trận này xác định vai trò và mức độ tham gia của từng vị trí trong 12 bước tổ chức kỳ thi ÖSD tại Phuong Nam Education.
+{% columns %}
+{% column %}
+#### **📅 Thời điểm**&#x20;
 
-{% hint style="info" %}
-**Cách đọc:** **R** = Responsible (Thực hiện) · **A** = Accountable (Chịu trách nhiệm chính) · **C** = Consulted (Tham vấn) · **I** = Informed (Được thông tin)
-{% endhint %}
+Từ 5 ngày trước kỳ thi
+{% endcolumn %}
 
-## Nguyên tắc phân công
+{% column %}
+#### 👤 **Phụ trách**&#x20;
 
-Trong mỗi hoạt động:
+[Exam Operations Teams](../03-roles/exam-operations-team/)
 
-- **Phụ trách chính (A)** là người chịu trách nhiệm điều phối và đảm bảo công việc được hoàn thành.
-- **Phối hợp (R/C)** là các cá nhân hoặc bộ phận tham gia thực hiện.
-- **Phê duyệt** là người xác nhận kết quả trước khi chuyển sang bước tiếp theo.
-- **Được thông tin (I)** là người cần biết tiến độ nhưng không trực tiếp thực hiện hay phê duyệt.
+[Exam Coordinator](../03-roles/exam-coordinator.md)
+{% endcolumn %}
 
-## Ma trận phân công
+{% column %}
+#### ✅ **Phê duyệt**
 
-| # | Hoạt động | Exam Director | Exam Coordinator | Exam Operations Team | Invigilator / Examiner | Marketing Team |
-| ---: | --- | :---: | :---: | :---: | :---: | :---: |
-| 1 | Lập kế hoạch & đăng ký kỳ thi | A | R | C | I | I |
-| 2.1 | Quản lý đăng ký kỳ thi | A | R | C | I | I |
-| 2.2 | Truyền thông cho kỳ thi | A | C | C | I | R |
-| 3 | Sắp xếp lịch thi chi tiết | A | R | C | I | I |
-| 4 | Tiếp nhận đề thi | A | R | C | I | I |
-| 5 | Phân công nhân sự & chuẩn bị cơ sở vật chất | A | R | C | I | I |
-| 6 | Chuẩn bị đề thi | A | R | C | I | I |
-| 7 | Tổ chức kỳ thi | A | R | C | R | I |
-| 8 | Đối soát bài thi – đề thi | A | R | C | I | I |
-| 9 | Đóng gói & bàn giao bài thi | A | R | C | I | I |
-| 10 | Công bố kết quả | A | R | C | I | I |
-| 11 | Cấp phát chứng chỉ | A | C | R | I | I |
-| 12 | Lưu trữ, tổng kết & cải tiến | A | R | C | I | I |
+&#x20;[Exam Director](../03-roles/exam-director.md)
+{% endcolumn %}
+{% endcolumns %}
 
-## Tóm tắt theo vai trò
+***
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h4><strong>Exam Director</strong></h4></td><td>13/13 hoạt động phê duyệt (A)</td><td><a href="../03-roles/exam-director.md">../03-roles/exam-director.md</a></td></tr>
-<tr><td><h4><strong>Exam Coordinator</strong></h4></td><td>11 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-coordinator.md">../03-roles/exam-coordinator.md</a></td></tr>
-<tr><td><h4><strong>Exam Operations Team</strong></h4></td><td>1 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-operations-team/README.md">../03-roles/exam-operations-team/README.md</a></td></tr>
-<tr><td><h4><strong>Invigilator / Examiner</strong></h4></td><td>1 hoạt động phụ trách trực tiếp (R)</td><td><a href="../03-roles/invigilator.md">../03-roles/invigilator.md</a></td></tr>
-<tr><td><h4><strong>Marketing Team</strong></h4></td><td>1 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/marketing.md">../03-roles/marketing.md</a></td></tr>
-</tbody></table>
+### 👥 Vai trò & Trách nhiệm
 
-*Examiner: xem thêm [Vai trò Examiner](../03-roles/examiner.md).*
+| Vai trò                                                                            | Trách nhiệm                                  |
+| ---------------------------------------------------------------------------------- | -------------------------------------------- |
+| [Exam Coordinator](../03-roles/exam-coordinator.md)                                | Quyết định phương án, lập kế hoạch chuẩn bị và điều phối thực hiện. |
+| [Technical Team](../03-roles/exam-operations-team/technical-team.md) | Chuẩn bị thiết bị, phần mềm.                 |
+| Các bộ phận liên quan                                                              | Thực hiện theo phân công.                    |
+| [Exam Director](../03-roles/exam-director.md)                                      | Phê duyệt kế hoạch cuối cùng.                |
 
-## Đã xác nhận
+***
+
+## 📋 Các hạng mục cần chuẩn bị
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>👥</h3></td><td><h4><strong>1. Nhân sự</strong></h4></td><td>Phân công nhiệm vụ · Xác nhận lịch làm việc · Thông báo nhân sự</td><td><a href="../04-templates-checklists/checklist-phan-cong-nhan-su.md">checklist-phan-cong-nhan-su.md</a></td></tr><tr><td><h3>🏫</h3></td><td><h4><strong>2. Chuẩn bị phòng thi</strong></h4></td><td>Laptop · Tai nghe · Internet · iPad · Setup · Layout · Biển chỉ dẫn</td><td><a href="../04-templates-checklists/checklist-chuan-bi-phong-thi.md">checklist-chuan-bi-phong-thi.md</a></td></tr></tbody></table>
 
 {% hint style="success" %}
-2 điểm chưa thống nhất trước đây đã được xác nhận:
+### Hoàn thành khi
 
-1. Người phụ trách chính của **Bước 1** — **Exam Coordinator**.
-2. Người phụ trách chính của **Bước 4–6** — **Exam Coordinator**.
+Hoàn thành toàn bộ 5 checklist trên trước khi chuyển sang [Bước 6 — Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md).
 {% endhint %}
 
-## Tài liệu liên quan
+***
 
-{% content-ref url="tong-quan-quy-trinh.md" %}
-[Tổng quan quy trình tổ chức kỳ thi](tong-quan-quy-trinh.md)
+## 📎 Tài liệu liên quan
+
+{% columns %}
+{% column %}
+{% content-ref url="buoc-04-tiep-nhan-de-thi.md" %}
+[buoc-04-tiep-nhan-de-thi.md](buoc-04-tiep-nhan-de-thi.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+{% content-ref url="buoc-06-chuan-bi-de-thi.md" %}
+[buoc-06-chuan-bi-de-thi.md](buoc-06-chuan-bi-de-thi.md)
+{% endcontent-ref %}
+{% endcolumn %}
+
+{% column %}
+{% content-ref url="../04-templates-checklists/bieu-mau.md" %}
+[bieu-mau.md](../04-templates-checklists/bieu-mau.md)
 {% endcontent-ref %}
 
-- Danh mục SOP *(chưa có tài liệu riêng)*
-- Danh mục Work Instruction *(chưa có tài liệu riêng)*
-
-## Lịch sử cập nhật
-
-| Phiên bản | Ngày | Nội dung |
-| --- | --- | --- |
-| 1.0 | 24/07/2026 | Khởi tạo theo thiết kế Ma trận phân công trách nhiệm (RACI Matrix). |
-| 1.1 | 25/07/2026 | Xác nhận Exam Coordinator là người phụ trách chính Bước 1 và Bước 4–6; cập nhật ma trận RACI và bảng tóm tắt theo vai trò tương ứng. |
+{% content-ref url="../04-templates-checklists/checklist.md" %}
+[checklist.md](../04-templates-checklists/checklist.md)
+{% endcontent-ref %}
+{% endcolumn %}
+{% endcolumns %}
