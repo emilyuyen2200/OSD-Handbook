@@ -6,10 +6,6 @@ description: Checklist tiếp nhận và hướng dẫn thí sinh trước giờ
 
 # Checklist Check-in
 
-{% hint style="warning" %}
-Đây là bản nháp — cần Exam Coordinator rà soát và điều chỉnh trước khi áp dụng chính thức.
-{% endhint %}
-
 ## Chuẩn bị trước giờ check-in
 
 - [ ] Đã in đủ Danh sách thí sinh theo từng phòng, khớp Seat Number với sơ đồ phòng thi.
