@@ -23,7 +23,7 @@ layout:
 
 ## Quy trình tổ chức kỳ thi ÖSD
 
-![Operation Handbook Banner](.gitbook/assets/Quy%20Trinh%20To%20Chuc%20Ky%20Thi%20OSD-selection.png)
+![Operation Handbook Banner](.gitbook/assets/4a8c5a45-9b28-40b7-8a37-95a1dfacedb9.png)
 
 {% hint style="success" %}
 ### Chào mừng đến với Operation Handbook
