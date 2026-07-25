@@ -12,7 +12,7 @@ layout:
   tableOfContents:
     visible: true
   outline:
-    visible: true
+    visible: false
   pagination:
     visible: true
   metadata:
@@ -66,7 +66,7 @@ Nắm toàn bộ 12 bước tổ chức kỳ thi, từ lập kế hoạch đến
 Đọc chi tiết từng bước, bắt đầu từ Bước 1 — Lập kế hoạch & đăng ký.
 {% endstep %}
 {% step %}
-### [Mẫu biểu & Checklist](../04-templates-checklists/danh-muc-mau-bieu.md)
+### [Biểu mẫu](../04-templates-checklists/bieu-mau.md) & [Checklist](../04-templates-checklists/checklist.md)
 
 Tra cứu biểu mẫu, checklist sử dụng trong từng bước của kỳ thi.
 {% endstep %}
@@ -90,8 +90,11 @@ Tham khảo phương án xử lý khi có tình huống phát sinh.
 {% endcontent-ref %}
 {% endcolumn %}
 {% column %}
-{% content-ref url="../04-templates-checklists/danh-muc-mau-bieu.md" %}
-[danh-muc-mau-bieu.md](../04-templates-checklists/danh-muc-mau-bieu.md)
+{% content-ref url="../04-templates-checklists/bieu-mau.md" %}
+[bieu-mau.md](../04-templates-checklists/bieu-mau.md)
+{% endcontent-ref %}
+{% content-ref url="../04-templates-checklists/checklist.md" %}
+[checklist.md](../04-templates-checklists/checklist.md)
 {% endcontent-ref %}
 {% content-ref url="../05-risk-management/risk-register.md" %}
 [risk-register.md](../05-risk-management/risk-register.md)
