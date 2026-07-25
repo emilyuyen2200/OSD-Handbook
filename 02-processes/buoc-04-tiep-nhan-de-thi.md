@@ -34,7 +34,7 @@ Trước ngày thi 2–3 tuần
 {% column width="33.33333333333333%" %}
 #### 👤 **Phụ trách**&#x20;
 
-[Exam Operations Officer](../03-roles/exam-operations-officer.md) ·&#x20;
+[Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
 {% column %}
@@ -50,7 +50,7 @@ Trước ngày thi 2–3 tuần
 
 | Vai trò                                                       | Trách nhiệm                                                                       |
 | ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md) | Theo dõi, tiếp nhận và lưu trữ lô đề thi.                                         |
+| [Exam Coordinator](../03-roles/exam-coordinator.md) | Theo dõi, tiếp nhận và lưu trữ lô đề thi.                                         |
 | [Exam Director](../03-roles/exam-director.md)                 | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
 
 {% hint style="info" %}
@@ -80,7 +80,7 @@ Trước ngày thi 2–3 tuần
 {% hint style="info" %}
 ### 🔐 Quy định bảo mật
 
-**Ai được tiếp cận** Chỉ [Exam Operations Officer](../03-roles/exam-operations-officer.md) và [Exam Director](../03-roles/exam-director.md).
+**Ai được tiếp cận** Chỉ [Exam Coordinator](../03-roles/exam-coordinator.md) và [Exam Director](../03-roles/exam-director.md).
 
 **Chìa khóa / Phòng lưu trữ** Đề thi lưu trong phòng kho, trang bị 02 két sắt. Chỉ 03 nhân sự Exam Operations Team được biết chìa khóa và mật khẩu.
 
@@ -94,7 +94,7 @@ Trước ngày thi 2–3 tuần
 {% endhint %}
 
 * Kiểm tra email thông báo từ DHL, ghi nhận thông tin vận đơn và thời gian giao hàng dự kiến.
-* Thông báo cho Exam Operations Officer.
+* Thông báo cho Exam Coordinator.
 * Bắt đầu theo dõi trạng thái vận chuyển của lô đề thi.
 
 {% hint style="info" icon="2" %}
