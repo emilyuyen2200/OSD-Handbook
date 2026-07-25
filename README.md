@@ -35,7 +35,6 @@ Handbook tập trung toàn bộ quy trình, vai trò, biểu mẫu và checklist
 giúp mọi kỳ thi được triển khai thống nhất theo tiêu chuẩn của PNE và ÖSD.
 
 </div>
----
 
 # 🚀 Chọn giai đoạn làm việc
 
