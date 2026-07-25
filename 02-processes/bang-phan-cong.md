@@ -48,7 +48,7 @@ Trong mỗi hoạt động:
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
 <tr><td><h4><strong>Exam Director</strong></h4></td><td>13/13 hoạt động phê duyệt (A)</td><td><a href="../03-roles/exam-director.md">../03-roles/exam-director.md</a></td></tr>
 <tr><td><h4><strong>Exam Coordinator</strong></h4></td><td>11 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-coordinator.md">../03-roles/exam-coordinator.md</a></td></tr>
-<tr><td><h4><strong>Exam Operations Team</strong></h4></td><td>1 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-operations-officer.md">../03-roles/exam-operations-officer.md</a></td></tr>
+<tr><td><h4><strong>Exam Operations Team</strong></h4></td><td>1 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-operations-team/README.md">../03-roles/exam-operations-team/README.md</a></td></tr>
 <tr><td><h4><strong>Invigilator / Examiner</strong></h4></td><td>1 hoạt động phụ trách trực tiếp (R)</td><td><a href="../03-roles/invigilator.md">../03-roles/invigilator.md</a></td></tr>
 <tr><td><h4><strong>Marketing Team</strong></h4></td><td>1 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/marketing.md">../03-roles/marketing.md</a></td></tr>
 </tbody></table>
