@@ -129,6 +129,11 @@ Exam Director
 - Hoàn thiện hồ sơ của từng thí sinh.
 - Đối với thí sinh đăng ký **nhận kết quả nhanh**, tách riêng hồ sơ để chuyển sang quy trình **03. Quản lý bài thi nhận kết quả nhanh**.
 - Đối với thí sinh còn lịch thi ở ngày tiếp theo, bàn giao lại **tờ bìa thông tin** kèm hồ sơ cho giám thị để tiếp tục ghi nhận kết quả phần thi Nói.
+
+Kiểm tra lịch thi tiếp theo của thí sinh để xử lý theo 1 trong 2 trường hợp:
+
+- **Nếu thí sinh không còn lịch thi tiếp theo:** chuyển sang lưu trữ bài thi — phân loại bài thi theo từng thùng giấy, cất vào két sắt, kèm giấy ghi chú nếu cần.
+- **Nếu thí sinh còn lịch thi Đọc – Nghe – Viết tiếp theo:** chuẩn bị tờ bìa thông tin để đưa cho giám thị ở phòng thi của bạn cho lịch thi tiếp theo.
 {% endstep %}
 
 {% step %}
@@ -152,6 +157,7 @@ Exam Director
 - [ ] Đã đối soát kết quả phần thi Nói.
 - [ ] Đã kiểm tra file ghi âm.
 - [ ] Đã hoàn thiện hồ sơ của từng thí sinh.
+- [ ] Đã xử lý lưu trữ hoặc bàn giao hồ sơ theo đúng lịch thi tiếp theo của thí sinh.
 - [ ] Không còn sai lệch chưa xử lý.
 {% endhint %}
 {% endcolumn %}
