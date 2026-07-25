@@ -45,7 +45,7 @@
   * [Room Coordinator](03-roles/exam-operations-team/room-coordinator.md)
 * [Examiner](03-roles/examiner.md)
 * [Invigilator](03-roles/invigilator.md)
-* [Phòng Marketing](03-roles/marketing.md)
+* [Marketing Team](03-roles/marketing.md)
 
 ## Mẫu biểu & Checklist
 
