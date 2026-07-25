@@ -1,8 +1,5 @@
 ## Checklist đối soát bài thi
 
-{% hint style="warning" %}
-Đây là bản nháp — cần Exam Coordinator rà soát và điều chỉnh trước khi áp dụng chính thức.
-{% endhint %}
 
 Hoàn tất đối soát toàn bộ bài thi và hồ sơ trước khi đóng gói.
 
