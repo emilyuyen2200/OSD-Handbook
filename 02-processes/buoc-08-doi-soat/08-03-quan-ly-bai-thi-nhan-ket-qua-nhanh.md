@@ -27,7 +27,7 @@ Quản lý và xử lý hồ sơ của các thí sinh đăng ký **nhận kết 
 {% column %}
 #### 📅 Thời điểm
 
-Sau khi hoàn tất đối soát bài thi của các thí sinh đăng ký nhận kết quả nhanh.
+Sau khi các thí sinh nhận kết quả nhanh đã hoàn tất thi.
 {% endcolumn %}
 
 {% column %}
