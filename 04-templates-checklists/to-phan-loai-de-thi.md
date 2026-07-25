@@ -1,32 +1,33 @@
 ---
-hidden: true
 title: Tờ phân loại đề thi
 description: Mẫu tờ phân loại đề thi theo phòng/buổi thi — Bước 6.
+hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Tờ phân loại đề thi
 
-{% hint style="warning" %}
-Đây là bản nháp — cần Exam Coordinator rà soát và điều chỉnh trước khi áp dụng chính thức.
-{% endhint %}
-
-## Thông tin chung
-
-- Kỳ thi / Trình độ:
-- Ngày thi:
-- Buổi thi:
-- Phòng thi:
-
-## Nội dung
-
-- [ ] Mã đề thi tương ứng với từng phòng/buổi.
-- [ ] Số lượng đề theo từng phòng.
-- [ ] File nghe tương ứng (nếu có kỹ năng Nghe).
-- [ ] Xác nhận đã niêm phong theo đúng phân loại.
-- [ ] Chữ ký người phân loại và người kiểm tra lại.
+{% embed url="https://docs.google.com/document/d/1dZY8WxwL1rNBY4em1jEkYn-vxXPmaLAG92u9HRdz274/edit?usp=sharing" %}
 
 ## Tài liệu liên quan
 
 {% content-ref url="../02-processes/buoc-06-chuan-bi-de-thi.md" %}
-[Bước 6 — Chuẩn bị đề thi](../02-processes/buoc-06-chuan-bi-de-thi.md)
+[buoc-06-chuan-bi-de-thi.md](../02-processes/buoc-06-chuan-bi-de-thi.md)
 {% endcontent-ref %}
