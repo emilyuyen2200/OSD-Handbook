@@ -45,11 +45,11 @@
   * [Room Coordinator](03-roles/exam-operations-team/room-coordinator.md)
 * [Examiner](03-roles/examiner.md)
 * [Invigilator](03-roles/invigilator.md)
-* [Marketing Team](03-roles/marketing.md)
+* [Phòng Marketing](03-roles/marketing.md)
 
 ## Mẫu biểu & Checklist
 
-* [📋 Biểu mẫu](04-templates-checklists/bieu-mau.md)
+* [Biểu mẫu](04-templates-checklists/bieu-mau.md)
   * [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
   * [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
   * [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
