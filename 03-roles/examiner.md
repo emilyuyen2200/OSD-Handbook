@@ -1,7 +1,4 @@
 ---
-description: >-
-  Thực hiện đánh giá phần thi Nói theo quy định của ÖSD, đảm bảo việc chấm điểm
-  khách quan, thống nhất và đúng quy trình.
 layout:
   width: wide
   title:
@@ -21,8 +18,9 @@ layout:
   actions:
     visible: true
 ---
+# Examiner (Giám khảo)
 
-# Examiner
+Đánh giá phần thi Nói của thí sinh theo đúng quy chế ÖSD, phối hợp với giám khảo còn lại để thống nhất kết quả chấm điểm.
 
 {% columns %}
 {% column %}
@@ -34,13 +32,13 @@ Giám khảo phần thi Nói.
 {% column %}
 #### 👨‍💼 Báo cáo cho
 
-Exam Director
+Exam Coordinator
 {% endcolumn %}
 
 {% column %}
 #### 🤝 Phối hợp
 
-Exam Coordinator
+Room Coordinator
 
 Invigilator
 {% endcolumn %}
@@ -50,66 +48,59 @@ Invigilator
 
 ## 👥 Vai trò & Trách nhiệm
 
-Examiner chịu trách nhiệm đánh giá phần thi Nói theo tiêu chuẩn của ÖSD, xác nhận kết quả và phối hợp xử lý các tình huống chuyên môn trong suốt quá trình tổ chức kỳ thi.
+Examiner chịu trách nhiệm đánh giá kỹ năng Nói của thí sinh, thống nhất kết quả với giám khảo còn lại và xác nhận điểm số trước khi bàn giao hồ sơ.
 
 ### Trách nhiệm chính
 
-* Đánh giá phần thi Nói theo đúng quy chế và tiêu chí của ÖSD.
-* Tham gia xây dựng và xác nhận lịch thi phần thi Nói theo phân công.
-* Chấm điểm và ghi nhận kết quả đầy đủ trên các biểu mẫu.
-* Xác nhận kết quả để Exam Coordinator thực hiện các bước đối soát và quản lý hồ sơ.
-* Phối hợp xử lý các tình huống chuyên môn phát sinh trong quá trình thi.
+- Đánh giá kỹ năng Nói theo slot và phòng đã sắp xếp.
+- Phối hợp với Exam Coordinator khi sắp xếp lịch thi kỹ năng Nói.
+- Thống nhất điểm số với giám khảo còn lại trên phiếu chấm điểm chung.
+- Ký xác nhận Tờ bìa xanh và phiếu chấm điểm theo đúng thứ tự quy định (Giám khảo 1 – dòng 1, Giám khảo 2 – dòng 2).
+- Xác nhận kết quả thi Nói để nhập hệ thống.
 
 ***
 
 ## 📋 Quy trình tham gia
 
-| Bước                               | Vai trò   |
-| ---------------------------------- | --------- |
-| Bước 3 — Sắp xếp lịch thi chi tiết | Phối hợp  |
-| Bước 7 — Tổ chức kỳ thi            | Thực hiện |
-| Bước 8 — Đối soát                  | Phối hợp  |
+| Bước | Vai trò |
+| --- | --- |
+| [Bước 3 — Sắp xếp lịch thi chi tiết](../02-processes/buoc-03-sap-xep-lich-thi.md) | Phối hợp |
+| [Bước 7 — Tổ chức Kỳ thi](../02-processes/buoc-07-to-chuc-ky-thi/README.md) | Thực hiện |
+| [Bước 8 — Đối soát](../02-processes/buoc-08-doi-soat/README.md) | Phối hợp |
 
 ***
 
 ## 📄 Hồ sơ & Biểu mẫu sử dụng
 
-* Lịch thi phần thi Nói.
-* Phiếu chấm điểm phần thi Nói.
-* Phiếu chấm điểm chung.
-* Protokoll.
+- Lịch thi.
+- Phiếu chấm điểm (Einzelbewertung, Bewertungsbogen).
+- Tờ bìa xanh.
+- Protokol.
 
 ***
 
 {% hint style="info" %}
 ### Tài liệu thường sử dụng
 
-* Lịch thi phần thi Nói.
-* Danh sách thí sinh.
-* Phiếu chấm điểm.
-* Protokoll.
+- Quy trình phòng thi Nói.
+- Checklist phòng thi Nói.
 {% endhint %}
 
 {% hint style="warning" %}
 ### Lưu ý
 
-* Examiner chỉ chịu trách nhiệm về nội dung chuyên môn của phần thi Nói.
-* Không tham gia điều phối hoạt động tại điểm thi hoặc xử lý hồ sơ kỳ thi.
-* Mọi sai lệch về kết quả chấm điểm phải được xác minh và thống nhất trước khi chuyển sang bước đối soát.
+- Chỉ ghi nhận kết quả khi đã được **cả 2 giám khảo** thống nhất và xác nhận.
+- Điểm trên Tờ bìa xanh phải khớp với phiếu chấm điểm chung — nếu phát hiện sai lệch, dừng lại và báo ngay Exam Coordinator trước khi tiếp tục.
 {% endhint %}
 
 ***
 
 ## 📎 Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-03-sap-xep-lich-thi.md" %}
-[buoc-03-sap-xep-lich-thi.md](../02-processes/buoc-03-sap-xep-lich-thi.md)
+{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md" %}
+[07-03-quy-trinh-phong-thi-Noi.md](../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md)
 {% endcontent-ref %}
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/" %}
-[buoc-07-to-chuc-ky-thi](../02-processes/buoc-07-to-chuc-ky-thi/)
-{% endcontent-ref %}
-
-{% content-ref url="../02-processes/buoc-08-doi-soat/" %}
-[buoc-08-doi-soat](../02-processes/buoc-08-doi-soat/)
+{% content-ref url="../04-templates-checklists/checklist-phong-thi-Noi.md" %}
+[checklist-phong-thi-Noi.md](../04-templates-checklists/checklist-phong-thi-Noi.md)
 {% endcontent-ref %}
