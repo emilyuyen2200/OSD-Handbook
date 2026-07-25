@@ -55,12 +55,6 @@ Trong mỗi hoạt động:
 
 *Examiner: xem thêm [Vai trò Examiner](../03-roles/examiner.md).*
 
-## Luồng trách nhiệm chính
-
-| 1 | 2 | 3 | 4–6 | 7 | 8–12 |
-| --- | --- | --- | --- | --- | --- |
-| Lập kế hoạch | Quản lý đăng ký & Truyền thông | Lập lịch thi | Tiếp nhận & Chuẩn bị | Tổ chức kỳ thi | Hậu kỳ & Tổng kết |
-
 ## Cần xác nhận trước khi áp dụng chính thức
 
 {% hint style="warning" %}
