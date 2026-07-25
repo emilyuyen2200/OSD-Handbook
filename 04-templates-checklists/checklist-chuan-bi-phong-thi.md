@@ -6,9 +6,6 @@ description: Checklist thiết bị và setup phòng thi — Bước 5 (gộp t�
 
 # Checklist Chuẩn bị phòng thi
 
-{% hint style="warning" %}
-Đây là bản nháp — nội dung do đội vận hành soạn ban đầu, cần Exam Coordinator và Bộ phận Kỹ thuật rà soát và điều chỉnh trước khi áp dụng chính thức.
-{% endhint %}
 
 Kiểm tra và hoàn tất việc chuẩn bị phòng thi trước khi đón thí sinh. Mọi hạng mục phải được xác nhận hoàn thành trước giờ mở cửa phòng thi.
 
