@@ -10,9 +10,12 @@ description: Checklist chi tiết chuẩn bị cơ sở vật chất, thiết b�
 Đây là bản nháp — nội dung do đội vận hành soạn ban đầu, cần Exam Coordinator rà soát và điều chỉnh trước khi áp dụng chính thức. Số lượng (thiết bị, văn phòng phẩm, nhân sự...) cần được điều chỉnh theo số lượng thí sinh thực tế của từng kỳ thi.
 {% endhint %}
 
-## 🕐 Trước kỳ thi 05 ngày
+{% tabs %}
+{% tab title="🕐 Trước 5 ngày" %}
 
-### Thiết bị
+{% columns %}
+{% column %}
+#### 💻 Thiết bị
 
 - [ ] Kiểm tra laptop (25 bộ) — cập nhật phần mềm, kiểm tra camera, micro, bàn phím.
 - [ ] Kiểm tra tai nghe (25 cái) — test âm thanh từng bộ.
@@ -20,9 +23,11 @@ description: Checklist chi tiết chuẩn bị cơ sở vật chất, thiết b�
 - [ ] Kiểm tra đồng hồ (4 cái) — chỉnh đúng giờ.
 - [ ] Kiểm tra iPad (4 cái) — phục vụ camera giám sát.
 - [ ] Kiểm tra đường truyền Internet (4 phòng) — test tốc độ mạng.
-- [ ] Chuẩn bị ổ cắm điện và dây nối (theo phòng) — đủ cho toàn bộ laptop.
+- [ ] Chuẩn bị ổ cắm điện và dây nối (theo phòng).
+{% endcolumn %}
 
-### Hồ sơ & In ấn
+{% column %}
+#### 📄 Hồ sơ & In ấn
 
 - [ ] In sơ đồ phòng thi (4 bộ) — mỗi phòng 1 bộ.
 - [ ] In danh sách thí sinh từng phòng (theo session).
@@ -30,28 +35,37 @@ description: Checklist chi tiết chuẩn bị cơ sở vật chất, thiết b�
 - [ ] In hướng dẫn bàn phím tiếng Đức (25 bản) — dán lên laptop.
 - [ ] In bảng thông báo khu vực thi (theo nhu cầu).
 - [ ] Chuẩn bị hồ sơ phòng thi (theo session) — Attendance List, biên bản...
+{% endcolumn %}
+{% endcolumns %}
 
-### Văn phòng phẩm
+{% columns %}
+{% column %}
+#### ✏️ Văn phòng phẩm
 
 - [ ] Chuẩn bị giấy nháp (500 tờ).
 - [ ] Chuẩn bị bút bi (200 cây).
 - [ ] Chuẩn bị kéo, băng keo, bút lông (1 bộ).
+{% endcolumn %}
 
-### Vật dụng
+{% column %}
+#### 📦 Vật dụng
 
 - [ ] Giặt, ủi khăn trải bàn (2 cái, có logo).
 - [ ] Kiểm tra từ điển B2 (20 quyển) — đầy đủ phụ lục.
-- [ ] Chuẩn bị dây đeo (theo số nhân sự).
-- [ ] Chuẩn bị thẻ đeo (theo số nhân sự).
+- [ ] Chuẩn bị dây đeo và thẻ đeo (theo số nhân sự).
 - [ ] Chuẩn bị brochure (theo nhu cầu).
 - [ ] Chuẩn bị bảng Welcome (1 bộ).
 - [ ] Chuẩn bị mộc và USB (1 bộ).
+{% endcolumn %}
+{% endcolumns %}
 
-***
+{% endtab %}
 
-## 🕐 Trước kỳ thi 01 ngày
+{% tab title="🕐 Trước 1 ngày" %}
 
-### Phòng thi
+{% columns %}
+{% column %}
+#### 🏫 Phòng thi
 
 - [ ] Setup từng phòng thi theo layout chuẩn.
 - [ ] Kiểm tra sơ đồ và khoảng cách bàn (4 phòng).
@@ -61,55 +75,68 @@ description: Checklist chi tiết chuẩn bị cơ sở vật chất, thiết b�
 - [ ] Chuẩn bị nước uống (3 thùng).
 - [ ] Chuẩn bị từ điển B2 (20 quyển) — chỉ phòng B2.
 - [ ] Chuẩn bị thùng rác (2 cái).
+{% endcolumn %}
 
-### Thiết bị
+{% column %}
+#### 💻 Thiết bị
 
 - [ ] Setup laptop tại phòng (25 bộ).
 - [ ] Setup tai nghe (25 cái).
 - [ ] Setup iPad (4 cái).
 - [ ] Kiểm tra âm thanh phòng thi (4 phòng).
 
-### Chỉ dẫn
+#### 🧭 Chỉ dẫn
 
 - [ ] Đặt flipchart (6 cái) — theo vị trí quy định.
 - [ ] Dán số tầng trong thang máy (2 vị trí).
+{% endcolumn %}
+{% endcolumns %}
 
-### Kiểm tra cuối cùng
+#### ✅ Kiểm tra cuối cùng
 
 - [ ] Kiểm tra toàn bộ thiết bị lần cuối.
 - [ ] Kiểm tra hồ sơ từng phòng.
 - [ ] Kiểm tra vật dụng từng phòng.
 
-***
+{% endtab %}
 
-## 🕐 Trong kỳ thi
+{% tab title="🕐 Trong kỳ thi" %}
 
 - [ ] Xử lý sự cố laptop khi phát sinh.
 - [ ] Thay tai nghe lỗi (dự phòng).
 - [ ] Bổ sung giấy nháp khi cần.
 - [ ] Bổ sung nước uống khi cần.
 
-***
+{% endtab %}
 
-## 🕐 Sau kỳ thi
+{% tab title="🕐 Sau kỳ thi" %}
 
-### Thu hồi thiết bị
+{% columns %}
+{% column %}
+#### 💻 Thu hồi thiết bị
 
 - [ ] Thu hồi laptop (25 bộ).
 - [ ] Thu hồi tai nghe (25 cái).
 - [ ] Thu hồi máy quét an ninh (4 cái).
 - [ ] Thu hồi đồng hồ (4 cái).
+{% endcolumn %}
 
-### Thu hồi vật dụng
+{% column %}
+#### 📦 Thu hồi vật dụng
 
 - [ ] Thu hồi từ điển B2 (20 quyển).
 - [ ] Thu hồi flipchart và bảng chỉ dẫn (6 cái).
+{% endcolumn %}
+{% endcolumns %}
 
-### Kiểm kê & Hồ sơ
+#### 📋 Kiểm kê & Hồ sơ
 
 - [ ] Kiểm kê toàn bộ thiết bị và vật dụng — đối chiếu danh mục.
 - [ ] Thu và lưu hồ sơ kỳ thi (theo session).
 - [ ] Bàn giao hồ sơ theo quy định.
+
+{% endtab %}
+{% endtabs %}
 
 ***
 
