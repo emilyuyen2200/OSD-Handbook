@@ -167,7 +167,7 @@ Kiểm tra lịch thi tiếp theo của thí sinh để xử lý theo 1 trong 2 
 ### Hoàn thành khi
 
 - Hồ sơ, kết quả và file ghi âm của phần thi Nói đã được đối soát đầy đủ.
-- Sẵn sàng chuyển sang **03. Quản lý bài thi nhận kết quả nhanh** hoặc **04. Đóng gói & Lưu trữ bài thi**.
+- Sẵn sàng chuyển sang **03. Quản lý bài thi nhận kết quả nhanh** hoặc **04. Hoàn tất hồ sơ sau ngày thi cuối**.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
