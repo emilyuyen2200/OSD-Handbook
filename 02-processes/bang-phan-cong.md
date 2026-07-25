@@ -13,7 +13,15 @@ description: Phân công trách nhiệm giữa các vai trò trong quá trình t
 Ma trận này xác định vai trò và mức độ tham gia của từng vị trí trong 12 bước tổ chức kỳ thi ÖSD tại Phuong Nam Education.
 
 {% hint style="info" %}
-**Cách đọc:** **R** = Responsible (Thực hiện) · **A** = Accountable (Chịu trách nhiệm chính) · **C** = Consulted (Tham vấn) · **I** = Informed (Được thông tin)
+**Cách đọc:**&#x20;
+
+**R** = Responsible (Thực hiện) ·&#x20;
+
+**A** = Accountable (Chịu trách nhiệm chính) ·&#x20;
+
+**C** = Consulted (Tham vấn) ·
+
+**I** = Informed (Được thông tin)
 {% endhint %}
 
 ## Nguyên tắc phân công
@@ -48,15 +56,6 @@ Trong mỗi hoạt động:
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4><strong>Exam Director</strong></h4></td><td>13/13 hoạt động phê duyệt (A)</td><td><a href="../03-roles/exam-director.md">exam-director.md</a></td></tr><tr><td><h4><strong>Exam Coordinator</strong></h4></td><td>8 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-coordinator.md">exam-coordinator.md</a></td></tr><tr><td><h4><strong>Exam Operations Team</strong></h4></td><td>4 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-operations-officer.md">exam-operations-officer.md</a></td></tr><tr><td><h4><strong>Invigilator / Examiner</strong></h4></td><td>1 hoạt động phụ trách trực tiếp (R)</td><td><a href="../03-roles/invigilator.md">invigilator.md</a></td></tr><tr><td><h4><strong>Marketing Team</strong></h4></td><td>1 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/marketing.md">marketing.md</a></td></tr></tbody></table>
 
 _Examiner: xem thêm_ [_Vai trò Examiner_](../03-roles/examiner.md)_._
-
-| 1            | 2                              | 3            | 4–6                  | 7              | 8–12              |
-| ------------ | ------------------------------ | ------------ | -------------------- | -------------- | ----------------- |
-| Lập kế hoạch | Quản lý đăng ký & Truyền thông | Lập lịch thi | Tiếp nhận & Chuẩn bị | Tổ chức kỳ thi | Hậu kỳ & Tổng kết |
-
-| 1            | 2                              | 3            | 4–6                  | 7              | 8–12              |
-| ------------ | ------------------------------ | ------------ | -------------------- | -------------- | ----------------- |
-| Lập kế hoạch | Quản lý đăng ký & Truyền thông | Lập lịch thi | Tiếp nhận & Chuẩn bị | Tổ chức kỳ thi | Hậu kỳ & Tổng kết |
-|              |                                |              |                      |                |                   |
 
 ## Cần xác nhận trước khi áp dụng chính thức
 
