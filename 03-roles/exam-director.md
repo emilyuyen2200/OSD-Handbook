@@ -9,7 +9,7 @@ Người phê duyệt cuối cùng cho toàn bộ Quy trình Tổ chức thi.
 * Phê duyệt kế hoạch kỳ thi trước khi triển khai.
 * Phê duyệt/giám sát các bước trong [Quy trình Tổ chức thi](../02-processes/tong-quan-quy-trinh.md).
 * Nhận báo cáo tổng kết sau mỗi kỳ thi và quyết định các cải tiến.
-* Phê duyệt thay đổi đối với [Quy chế thi](../01-policies/ban-hanh-quy-che.md).
+* Phê duyệt thay đổi đối với [Quy chế thi](/broken/pages/IdP4wZYKBQaXhA60poOh).
 
 ## Không phụ trách
 

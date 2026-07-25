@@ -1,5 +1,4 @@
-
-# Bước 12 — Lưu trữ, tổng kết & cải tiến quy trình
+# Bước 12 — Lưu trữ, tổng kết & cải tiến
 
 ## Dùng để làm gì
 
@@ -37,9 +36,9 @@ Chưa có hướng dẫn xử lý ngoại lệ chính thức cho bước này.
 
 ## Tài liệu liên quan
 
-- [Quy chế thi](../01-policies/ban-hanh-quy-che.md)
-- [Danh mục rủi ro & phương án xử lý](../05-risk-management/risk-register.md)
+* [Quy chế thi](/broken/pages/IdP4wZYKBQaXhA60poOh)
+* [Danh mục rủi ro & phương án xử lý](../05-risk-management/risk-register.md)
 
 ## Lịch sử thay đổi
 
-- 2026-07-24: Biên soạn lại theo văn phong nội bộ PNE.
+* 2026-07-24: Biên soạn lại theo văn phong nội bộ PNE.
