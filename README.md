@@ -18,17 +18,26 @@ layout:
   actions:
     visible: false
 ---
+
 # Operation Handbook
 
+## Quy trình tổ chức kỳ thi ÖSD
+
 <p align="center">
-  <img src=".gitbook/assets/ChatGPT Image Jul 25, 2026, 03_22_48 PM.png" width="100%">
+  <img src=".gitbook/assets/ChatGPT Image Jul 25, 2026, 03_22_48 PM.png" alt="Operation Handbook Banner" width="100%">
 </p>
 
-| |
-|---|
-| <div align="center"><h3>Chào mừng đến với Operation Handbook</h3><br>Đây là tài liệu hướng dẫn chính thức về quy trình tổ chức kỳ thi ÖSD tại <b>Phuong Nam Education (PNE)</b>.</div> |
+{% hint style="success" %}
+### Chào mừng đến với Operation Handbook
 
-# Chọn giai đoạn làm việc
+Đây là tài liệu chính thức hướng dẫn toàn bộ quy trình tổ chức kỳ thi ÖSD tại **Phuong Nam Education**.
+
+Mọi quy trình, biểu mẫu và hướng dẫn nghiệp vụ đều được quản lý tập trung tại đây.
+{% endhint %}
+
+---
+
+# 🚀 Chọn giai đoạn làm việc
 
 <table data-view="cards">
 <thead>
@@ -68,7 +77,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 <tr>
 
-<td>🟠</td>
+<td>🟢</td>
 
 <td>
 
@@ -92,7 +101,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 <tr>
 
-<td>🟢</td>
+<td>🟠</td>
 
 <td>
 
@@ -120,7 +129,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 ---
 
-# Tra cứu theo vai trò
+# 👥 Tra cứu theo vai trò
 
 <table data-view="cards">
 <thead>
@@ -175,7 +184,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 ---
 
-# Tài liệu hỗ trợ
+# 📚 Tài liệu hỗ trợ
 
 {% columns %}
 
@@ -266,5 +275,5 @@ Sử dụng **Ctrl + K** hoặc **⌘ + K** để tìm kiếm.
 {% hint style="info" %}
 ### 💡 Lần đầu sử dụng Handbook?
 
-Xem [Mục tiêu & Cách sử dụng](00-overview/muc-tieu-va-cach-su-dung.md) để hiểu cấu trúc tài liệu, quy ước và cách tra cứu hiệu quả.
+Xem [Giới thiệu Handbook](00-overview/muc-tieu-va-cach-su-dung.md) để hiểu cấu trúc tài liệu, quy ước và cách tra cứu hiệu quả.
 {% endhint %}
