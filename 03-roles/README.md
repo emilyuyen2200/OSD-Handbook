@@ -2,7 +2,7 @@
 description: >-
   Tổng hợp các vai trò tham gia trong quy trình tổ chức kỳ thi ÖSD tại PNE. Mỗi
   vai trò có phạm vi trách nhiệm, quyền hạn và hướng dẫn công việc riêng nhằm
-  đảm bảo kỳ thi được triển khai thống nhất và đ
+  đảm bảo kỳ thi được triển khai thống nhất
 layout:
   width: wide
   title:
@@ -86,4 +86,3 @@ Mỗi trang vai trò mô tả **trách nhiệm**, **phạm vi công việc**, **
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>📣</td><td><h3>Marketing Team</h3><p>Phụ trách truyền thông, tiếp nhận đăng ký và hỗ trợ thông tin cho thí sinh trước kỳ thi.</p></td><td><a href="marketing.md">marketing.md</a></td></tr></tbody></table>
 
 ***
-

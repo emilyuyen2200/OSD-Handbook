@@ -36,7 +36,6 @@
 * [Tổng quan vai trò](03-roles/README.md)
 * [Exam Director](03-roles/exam-director.md)
 * [Exam Coordinator](03-roles/exam-coordinator.md)
-* [Exam Operations Officer](vai-tro-and-phan-quyen/exam-operations-officer.md)
 * [Exam Operations Team](03-roles/exam-operations-team/README.md)
   * [Technical Team](03-roles/exam-operations-team/technical-team.md)
   * [Welcome Officer](03-roles/exam-operations-team/welcome-officer.md)
