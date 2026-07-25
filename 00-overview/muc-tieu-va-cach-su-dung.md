@@ -28,47 +28,13 @@ Tài liệu được xây dựng nhằm chuẩn hóa cách vận hành kỳ thi,
 
 ---
 
-## Mục tiêu
+## 🎯 Mục tiêu
 
-{% columns %}
-
-{% column %}
-
-### Chuẩn hóa quy trình
-
-Đảm bảo mọi kỳ thi được triển khai theo cùng một quy trình, hạn chế sai sót và phụ thuộc vào kinh nghiệm cá nhân.
-
-{% endcolumn %}
-
-{% column %}
-
-### Thống nhất phối hợp
-
-Làm rõ trách nhiệm của từng vai trò, giúp các bộ phận phối hợp hiệu quả trong suốt quá trình tổ chức kỳ thi.
-
-{% endcolumn %}
-
-{% column %}
-
-### Đào tạo nhân sự
-
-Là tài liệu đào tạo và hướng dẫn công việc cho nhân sự mới cũng như tài liệu tham khảo cho nhân sự hiện tại.
-
-{% endcolumn %}
-
-{% column %}
-
-### Cải tiến liên tục
-
-Lưu trữ kinh nghiệm vận hành, cập nhật quy trình và bài học sau mỗi kỳ thi.
-
-{% endcolumn %}
-
-{% endcolumns %}
+![4 mục tiêu của Operation Handbook](../.gitbook/assets/muc-tieu-illustration.svg)
 
 ---
 
-## Nội dung của Handbook
+## 📚 Nội dung của Handbook
 
 <table data-view="cards">
 <thead>
@@ -128,7 +94,7 @@ Lưu trữ kinh nghiệm vận hành, cập nhật quy trình và bài học sau
 
 ---
 
-## Cách sử dụng
+## 🧭 Cách sử dụng
 
 {% stepper %}
 
@@ -164,9 +130,9 @@ Sử dụng **Ctrl + K** (Windows) hoặc **⌘ + K** (macOS) để tìm nhanh q
 
 ---
 
-## Nguyên tắc sử dụng
+## ⚠️ Nguyên tắc sử dụng
 
-{% hint style="info" %}
+{% hint style="warning" %}
 - Handbook là tài liệu tham khảo chính thức trong quá trình tổ chức kỳ thi.
 - Chỉ sử dụng phiên bản đang được công bố trên GitBook.
 - Không tự ý chỉnh sửa quy trình khi chưa được phê duyệt.
@@ -175,15 +141,17 @@ Sử dụng **Ctrl + K** (Windows) hoặc **⌘ + K** (macOS) để tìm nhanh q
 
 ---
 
-## Cập nhật tài liệu
+## 🔄 Cập nhật tài liệu
 
+{% hint style="success" %}
 Handbook được rà soát sau mỗi kỳ thi hoặc khi có thay đổi từ ÖSD, quy định nội bộ hoặc yêu cầu cải tiến.
 
 Mọi thay đổi đều được ghi nhận trong **Lịch sử thay đổi** của từng tài liệu.
+{% endhint %}
 
 ---
 
-## Tài liệu liên quan
+## 📎 Tài liệu liên quan
 
 {% content-ref url="../02-processes/tong-quan-quy-trinh.md" %}
 [tong-quan-quy-trinh.md](../02-processes/tong-quan-quy-trinh.md)
