@@ -1,8 +1,6 @@
 ---
-title: Mục đích và cách sử dụng
-description: >-
-  Hướng dẫn cách sử dụng Operation Handbook hiệu quả và tra cứu đúng tài liệu
-  khi cần.
+title: Giới thiệu Handbook
+description: Giới thiệu mục tiêu, nội dung và cách sử dụng Operation Handbook.
 layout:
   width: wide
   title:
@@ -22,88 +20,183 @@ layout:
   actions:
     visible: true
 ---
-# Mục tiêu & Cách sử dụng
+# Giới thiệu Handbook
+
+Handbook là **nguồn tài liệu chính thức** về quy trình tổ chức kỳ thi ÖSD tại **Phuong Nam Education (PNE)**.
+
+Tài liệu được xây dựng nhằm chuẩn hóa cách vận hành kỳ thi, thống nhất cách phối hợp giữa các bộ phận và lưu trữ tri thức để phục vụ đào tạo, bàn giao công việc và cải tiến liên tục.
+
+---
+
 ## Mục tiêu
+
 {% columns %}
+
 {% column %}
-🎯 **Chuẩn hóa quy trình**
-Đảm bảo mọi kỳ thi được vận hành thống nhất theo tiêu chuẩn của PNE.
+
+### Chuẩn hóa quy trình
+
+Đảm bảo mọi kỳ thi được triển khai theo cùng một quy trình, hạn chế sai sót và phụ thuộc vào kinh nghiệm cá nhân.
+
 {% endcolumn %}
+
 {% column %}
-👥 **Hướng dẫn nhân sự**
-Giúp nhân sự nắm rõ vai trò và nhiệm vụ trong từng giai đoạn.
+
+### Thống nhất phối hợp
+
+Làm rõ trách nhiệm của từng vai trò, giúp các bộ phận phối hợp hiệu quả trong suốt quá trình tổ chức kỳ thi.
+
 {% endcolumn %}
+
 {% column %}
-📋 **Tra cứu nhanh chóng**
-Dễ dàng tìm đúng quy trình, biểu mẫu và hướng dẫn khi cần.
+
+### Đào tạo nhân sự
+
+Là tài liệu đào tạo và hướng dẫn công việc cho nhân sự mới cũng như tài liệu tham khảo cho nhân sự hiện tại.
+
 {% endcolumn %}
+
 {% column %}
-🛡️ **Quản lý chất lượng**
-Hỗ trợ kiểm soát chất lượng và giảm thiểu rủi ro trong kỳ thi.
+
+### Cải tiến liên tục
+
+Lưu trữ kinh nghiệm vận hành, cập nhật quy trình và bài học sau mỗi kỳ thi.
+
 {% endcolumn %}
+
 {% endcolumns %}
-## Bắt đầu từ đâu?
-Gợi ý thứ tự đọc dành cho người dùng mới.
+
+---
+
+## Nội dung của Handbook
+
+<table data-view="cards">
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th data-hidden data-card-target data-type="content-ref"></th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+<td>Quy trình</td>
+<td><strong>Quy trình tổ chức kỳ thi</strong></td>
+<td>Hướng dẫn toàn bộ 12 bước từ lập kế hoạch đến tổng kết.</td>
+<td><a href="../02-processes/tong-quan-quy-trinh.md">Quy trình</a></td>
+</tr>
+
+<tr>
+<td>Vai trò</td>
+<td><strong>Vai trò & Phân quyền</strong></td>
+<td>Mô tả trách nhiệm và phạm vi công việc của từng vị trí.</td>
+<td><a href="../03-roles/README.md">Vai trò</a></td>
+</tr>
+
+<tr>
+<td>Biểu mẫu</td>
+<td><strong>Biểu mẫu</strong></td>
+<td>Các biểu mẫu sử dụng trong quá trình vận hành.</td>
+<td><a href="../04-templates-checklists/bieu-mau.md">Biểu mẫu</a></td>
+</tr>
+
+<tr>
+<td>Checklist</td>
+<td><strong>Checklist</strong></td>
+<td>Các checklist sử dụng trong từng bước của kỳ thi.</td>
+<td><a href="../04-templates-checklists/checklist.md">Checklist</a></td>
+</tr>
+
+<tr>
+<td>Rủi ro</td>
+<td><strong>Quản lý rủi ro</strong></td>
+<td>Danh mục rủi ro và nguyên tắc xử lý.</td>
+<td><a href="../05-risk-management/risk-register.md">Rủi ro</a></td>
+</tr>
+
+<tr>
+<td>Thuật ngữ</td>
+<td><strong>Thuật ngữ</strong></td>
+<td>Giải thích các thuật ngữ được sử dụng trong Handbook.</td>
+<td><a href="../06-glossary/thuat-ngu.md">Thuật ngữ</a></td>
+</tr>
+
+</tbody>
+</table>
+
+---
+
+## Cách sử dụng
+
 {% stepper %}
-{% step %}
-### [Vai trò & Phân quyền](../03-roles/README.md)
 
-Nắm rõ ai chịu trách nhiệm việc gì trước khi đi vào quy trình.
-{% endstep %}
 {% step %}
-### [Bảng phân công trách nhiệm](../02-processes/bang-phan-cong.md)
+### Xác định vai trò
 
-Xem ma trận phân công giữa các vai trò theo từng bước.
+Đọc **Vai trò & Phân quyền** để hiểu phạm vi trách nhiệm của vị trí bạn đảm nhiệm.
+
 {% endstep %}
+
 {% step %}
-### [Tổng quan quy trình](../02-processes/tong-quan-quy-trinh.md)
+### Xác định giai đoạn
 
-Nắm toàn bộ 12 bước tổ chức kỳ thi, từ lập kế hoạch đến tổng kết.
+Chọn đúng giai đoạn của kỳ thi để tra cứu quy trình tương ứng.
+
 {% endstep %}
+
 {% step %}
-### [Quy trình chi tiết từng bước](../02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
+### Thực hiện theo quy trình
 
-Đọc chi tiết từng bước, bắt đầu từ Bước 1 — Lập kế hoạch & đăng ký.
+Thực hiện lần lượt các bước trong quy trình và sử dụng đúng biểu mẫu, checklist được liên kết tại từng trang.
+
 {% endstep %}
+
 {% step %}
-### [Biểu mẫu](../04-templates-checklists/bieu-mau.md) & [Checklist](../04-templates-checklists/checklist.md)
+### Tra cứu
 
-Tra cứu biểu mẫu, checklist sử dụng trong từng bước của kỳ thi.
-{% endstep %}
-{% step %}
-### [Quản lý rủi ro](../05-risk-management/risk-register.md)
+Sử dụng **Ctrl + K** (Windows) hoặc **⌘ + K** (macOS) để tìm nhanh quy trình, vai trò hoặc biểu mẫu.
 
-Tham khảo phương án xử lý khi có tình huống phát sinh.
 {% endstep %}
+
 {% endstepper %}
-## Tra cứu nhanh
-{% columns %}
-{% column %}
+
+---
+
+## Nguyên tắc sử dụng
+
+{% hint style="info" %}
+- Handbook là tài liệu tham khảo chính thức trong quá trình tổ chức kỳ thi.
+- Chỉ sử dụng phiên bản đang được công bố trên GitBook.
+- Không tự ý chỉnh sửa quy trình khi chưa được phê duyệt.
+- Mọi đề xuất cải tiến cần được tổng hợp sau kỳ thi và cập nhật theo quy trình quản lý tài liệu.
+{% endhint %}
+
+---
+
+## Cập nhật tài liệu
+
+Handbook được rà soát sau mỗi kỳ thi hoặc khi có thay đổi từ ÖSD, quy định nội bộ hoặc yêu cầu cải tiến.
+
+Mọi thay đổi đều được ghi nhận trong **Lịch sử thay đổi** của từng tài liệu.
+
+---
+
+## Tài liệu liên quan
+
 {% content-ref url="../02-processes/tong-quan-quy-trinh.md" %}
 [tong-quan-quy-trinh.md](../02-processes/tong-quan-quy-trinh.md)
 {% endcontent-ref %}
-{% content-ref url="../02-processes/bang-phan-cong.md" %}
-[bang-phan-cong.md](../02-processes/bang-phan-cong.md)
-{% endcontent-ref %}
+
 {% content-ref url="../03-roles/README.md" %}
 [README.md](../03-roles/README.md)
 {% endcontent-ref %}
-{% endcolumn %}
-{% column %}
+
 {% content-ref url="../04-templates-checklists/bieu-mau.md" %}
 [bieu-mau.md](../04-templates-checklists/bieu-mau.md)
 {% endcontent-ref %}
+
 {% content-ref url="../04-templates-checklists/checklist.md" %}
 [checklist.md](../04-templates-checklists/checklist.md)
 {% endcontent-ref %}
-{% content-ref url="../05-risk-management/risk-register.md" %}
-[risk-register.md](../05-risk-management/risk-register.md)
-{% endcontent-ref %}
-{% content-ref url="../06-glossary/thuat-ngu.md" %}
-[thuat-ngu.md](../06-glossary/thuat-ngu.md)
-{% endcontent-ref %}
-{% endcolumn %}
-{% endcolumns %}
-{% hint style="info" %}
-Need help? Liên hệ Exam Coordinator nếu bạn cần hỗ trợ.
-{% endhint %}
