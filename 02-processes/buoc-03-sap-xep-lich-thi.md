@@ -47,7 +47,7 @@ Trước ngày thi 5–7 ngày
 
 ### 👥 Vai trò & Trách nhiệm
 
-<table><thead><tr><th width="266.5">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></td><td>Lập lịch thi, phân công nhân sự và phát hành lịch thi.</td></tr><tr><td><a href="../03-roles/exam-operations-officer.md">Exam Operations Officer</a></td><td>Kiểm tra lịch thi, cập nhật theo yêu cầu chỉnh sửa và trình phê duyệt.</td></tr><tr><td><a href="../03-roles/exam-director.md">Exam Director</a></td><td>Phê duyệt lịch thi cuối cùng.</td></tr></tbody></table>
+<table><thead><tr><th width="266.5">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></td><td>Lập lịch thi, phân công nhân sự, phát hành lịch thi; kiểm tra và cập nhật lịch thi theo yêu cầu chỉnh sửa trước khi trình phê duyệt.</td></tr><tr><td><a href="../03-roles/exam-director.md">Exam Director</a></td><td>Phê duyệt lịch thi cuối cùng.</td></tr></tbody></table>
 
 {% hint style="info" %}
 ### Chuẩn bị
@@ -189,7 +189,7 @@ Trước khi trình phê duyệt, xác nhận:
 
 ### 6. Trình phê duyệt
 
-<table><thead><tr><th width="268.28515625">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/exam-operations-officer.md">Exam Operations Officer</a></td><td>Kiểm tra lần cuối.</td></tr><tr><td><a href="../03-roles/exam-director.md">Exam Director</a></td><td>Phê duyệt lịch thi.</td></tr><tr><td><a href="../03-roles/exam-operations-officer.md">Exam Operations Officer</a></td><td>Cập nhật lịch thi theo yêu cầu chỉnh sửa (nếu có).</td></tr></tbody></table>
+<table><thead><tr><th width="268.28515625">Vai trò</th><th>Trách nhiệm</th></tr></thead><tbody><tr><td><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></td><td>Kiểm tra lần cuối; cập nhật lịch thi theo yêu cầu chỉnh sửa (nếu có).</td></tr><tr><td><a href="../03-roles/exam-director.md">Exam Director</a></td><td>Phê duyệt lịch thi.</td></tr></tbody></table>
 
 ### 7. Phát hành lịch thi
 
