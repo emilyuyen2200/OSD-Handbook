@@ -18,7 +18,7 @@ layout:
   actions:
     visible: true
 ---
-# 📋 Biểu mẫu
+# Biểu mẫu
 Các biểu mẫu sử dụng xuyên suốt quy trình tổ chức kỳ thi ÖSD.
 {% content-ref url="ke-hoach-ky-thi.md" %}
 [ke-hoach-ky-thi.md](ke-hoach-ky-thi.md)
