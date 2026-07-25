@@ -35,8 +35,6 @@ Trong suốt thời gian diễn ra kỳ thi
 #### 👤 Phụ trách
 
 [Exam Coordinator](../../03-roles/exam-coordinator.md)
-
-[Exam Operations Officer](../../03-roles/exam-operations-officer.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -46,8 +44,7 @@ Trong suốt thời gian diễn ra kỳ thi
 
 | Vai trò                                                              | Trách nhiệm                                                                                          |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| [Exam Coordinator](../../03-roles/exam-coordinator.md)               | Điều phối toàn bộ hoạt động trong ngày thi.                                                          |
-| [Exam Operations Officer](../../03-roles/exam-operations-officer.md) | Giám sát vận hành và hỗ trợ xử lý các tình huống phát sinh.                                          |
+| [Exam Coordinator](../../03-roles/exam-coordinator.md)               | Điều phối toàn bộ hoạt động trong ngày thi; giám sát vận hành và hỗ trợ xử lý các tình huống phát sinh. |
 | Các vị trí vận hành                                                  | Thực hiện công việc theo Role Guide và SOP tương ứng — xem mục [Role Guide](./#role-guide) bên dưới. |
 
 ### 📋 Chuẩn bị
