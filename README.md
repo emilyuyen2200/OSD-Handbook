@@ -35,7 +35,7 @@ layout:
 
 ## 🚀 Bắt đầu
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🗂️</td><td><h4>Quy trình tổ chức kỳ thi</h4><p>Xem toàn bộ quy trình theo từng bước.</p></td><td><a href="02-processes/tong-quan-quy-trinh.md">tong-quan-quy-trinh.md</a></td></tr><tr><td>👥</td><td><h4>Vai trò &#x26; Phân quyền</h4><p>Tra cứu nhiệm vụ theo từng vị trí.</p></td><td><a href="03-roles/exam-director.md">exam-director.md</a></td></tr><tr><td>📋</td><td><h4>Mẫu biểu &#x26; Checklist</h4><p>Biểu mẫu và checklist sử dụng trong kỳ thi.</p></td><td><a href="04-templates-checklists/danh-muc-mau-bieu.md">danh-muc-mau-bieu.md</a></td></tr><tr><td>⚠️</td><td><h4>Quản lý rủi ro</h4><p>Các tình huống phát sinh và phương án xử lý.</p></td><td><a href="05-risk-management/risk-register.md">risk-register.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🗂️</td><td><h4>Quy trình tổ chức kỳ thi</h4><p>Xem toàn bộ quy trình theo từng bước.</p></td><td><a href="02-processes/tong-quan-quy-trinh.md">tong-quan-quy-trinh.md</a></td></tr><tr><td>👥</td><td><h4>Vai trò &#x26; Phân quyền</h4><p>Tra cứu nhiệm vụ theo từng vị trí.</p></td><td><a href="03-roles/exam-director.md">exam-director.md</a></td></tr><tr><td>📋</td><td><h4>Biểu mẫu</h4><p>Biểu mẫu sử dụng trong kỳ thi.</p></td><td><a href="04-templates-checklists/bieu-mau.md">bieu-mau.md</a></td></tr><tr><td>✅</td><td><h4>Checklist</h4><p>Checklist vận hành sử dụng trong kỳ thi.</p></td><td><a href="04-templates-checklists/checklist.md">checklist.md</a></td></tr><tr><td>⚠️</td><td><h4>Quản lý rủi ro</h4><p>Các tình huống phát sinh và phương án xử lý.</p></td><td><a href="05-risk-management/risk-register.md">risk-register.md</a></td></tr></tbody></table>
 
 ***
 
@@ -205,24 +205,9 @@ layout:
 
 ### Mẫu biểu & Checklist
 
-* [Danh mục mẫu biểu](04-templates-checklists/danh-muc-mau-bieu.md)
-* [Sơ đồ phòng thi](04-templates-checklists/so-do-phong-thi.md)
-* [Giấy nháp thi](04-templates-checklists/giay-nhap-thi.md)
-* [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
-* [Tờ phân loại đề thi](04-templates-checklists/to-phan-loai-de-thi.md)
-* [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
-* [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
-* [Danh sách thi các kỹ năng](04-templates-checklists/danh-sach-thi-cac-ky-nang.md)
-* [Protokol](04-templates-checklists/protokol.md)
-* [Checklist Phân công Nhân sự](04-templates-checklists/checklist-phan-cong-nhan-su.md)
-* [Checklist Hồ sơ & Biểu mẫu Phòng thi](04-templates-checklists/checklist-ho-so-bieu-mau-phong-thi.md)
-* [Checklist Thiết bị](04-templates-checklists/checklist-thiet-bi.md)
-* [Checklist Setup Phòng thi](04-templates-checklists/checklist-setup-phong-thi.md)
-* [Checklist Phần mềm & Hệ thống](04-templates-checklists/checklist-phan-mem-va-he-thong.md)
-* [Checklist Check-in](04-templates-checklists/checklist-check-in.md)
-* [Checklist phòng thi Viết](04-templates-checklists/checklist-phong-thi-Viet.md)
-* [Checklist phòng thi Nói](04-templates-checklists/checklist-phong-thi-Noi.md)
-* [Checklist Thu bài & Bàn giao](04-templates-checklists/checklist-thu-bai-va-ban-giao.md)
+* [Biểu mẫu](04-templates-checklists/bieu-mau.md)
+* [Checklist](04-templates-checklists/checklist.md)
+* [Tài liệu hỗ trợ](04-templates-checklists/tai-lieu-ho-tro.md)
 
 ### Quản lý rủi ro
 
