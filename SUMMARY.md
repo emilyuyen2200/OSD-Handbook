@@ -51,9 +51,23 @@
 ## Mẫu biểu & Checklist
 
 * [Biểu mẫu](04-templates-checklists/bieu-mau.md)
+  * [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
+  * [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
+  * [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
+  * [Danh sách thi các kỹ năng](04-templates-checklists/danh-sach-thi-cac-ky-nang.md)
+  * [Protokol](04-templates-checklists/protokol.md)
+  * [Tờ phân loại đề thi](04-templates-checklists/to-phan-loai-de-thi.md)
 * [Checklist](04-templates-checklists/checklist.md)
+  * [Checklist Phân công Nhân sự](04-templates-checklists/checklist-phan-cong-nhan-su.md)
+  * [Checklist Chuẩn bị phòng thi](04-templates-checklists/checklist-chuan-bi-phong-thi.md)
+  * [Checklist Check-in](04-templates-checklists/checklist-check-in.md)
+  * [Checklist phòng thi Viết](04-templates-checklists/checklist-phong-thi-Viet.md)
+  * [Checklist phòng thi Nói](04-templates-checklists/checklist-phong-thi-Noi.md)
+  * [Checklist Thu bài & Bàn giao](04-templates-checklists/checklist-thu-bai-va-ban-giao.md)
+  * [Checklist Đối soát bài thi](04-templates-checklists/checklist-doi-soat-bai-thi.md)
 * [Tài liệu hỗ trợ](04-templates-checklists/tai-lieu-ho-tro.md)
-
+  * [Sơ đồ phòng thi](04-templates-checklists/so-do-phong-thi.md)
+  * [Giấy nháp thi](04-templates-checklists/giay-nhap-thi.md)
 
 ## Quản lý rủi ro
 
