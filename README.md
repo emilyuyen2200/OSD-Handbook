@@ -18,12 +18,11 @@ layout:
   actions:
     visible: false
 ---
+![Operation Handbook Banner](.gitbook/assets/ChatGPT Image Jul 25, 2026, 03_22_48 PM.png)
 
 # Operation Handbook
 
 ## Quy trình tổ chức kỳ thi ÖSD
-
-![Operation Handbook Banner](.gitbook/assets/4a8c5a45-9b28-40b7-8a37-95a1dfacedb9.png)
 
 {% hint style="success" %}
 ### Chào mừng đến với Operation Handbook
