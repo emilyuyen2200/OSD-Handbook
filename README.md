@@ -75,7 +75,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 <tr>
 
-<td>🟢</td>
+<td>🟠</td>
 
 <td>
 
@@ -99,7 +99,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 <tr>
 
-<td>🟠</td>
+<td>🟢</td>
 
 <td>
 
