@@ -27,7 +27,7 @@ Trong mỗi hoạt động:
 
 ## Ma trận phân công
 
-| # | Hoạt động | Exam Director | Exam Coordinator | Exam Operations Team | Giám thị / Giám khảo | Marketing Team |
+| # | Hoạt động | Exam Director | Exam Coordinator | Exam Operations Team | Invigilator / Examiner | Marketing Team |
 | ---: | --- | :---: | :---: | :---: | :---: | :---: |
 | 1 | Lập kế hoạch & đăng ký kỳ thi | A | R | C | I | I |
 | 2.1 | Quản lý đăng ký kỳ thi | A | R | C | I | I |
@@ -49,11 +49,11 @@ Trong mỗi hoạt động:
 <tr><td><h4><strong>Exam Director</strong></h4></td><td>13/13 hoạt động phê duyệt (A)</td><td><a href="../03-roles/exam-director.md">../03-roles/exam-director.md</a></td></tr>
 <tr><td><h4><strong>Exam Coordinator</strong></h4></td><td>8 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-coordinator.md">../03-roles/exam-coordinator.md</a></td></tr>
 <tr><td><h4><strong>Exam Operations Team</strong></h4></td><td>4 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/exam-operations-officer.md">../03-roles/exam-operations-officer.md</a></td></tr>
-<tr><td><h4><strong>Giám thị / Giám khảo</strong></h4></td><td>1 hoạt động phụ trách trực tiếp (R)</td><td><a href="../03-roles/invigilator.md">../03-roles/invigilator.md</a></td></tr>
+<tr><td><h4><strong>Invigilator / Examiner</strong></h4></td><td>1 hoạt động phụ trách trực tiếp (R)</td><td><a href="../03-roles/invigilator.md">../03-roles/invigilator.md</a></td></tr>
 <tr><td><h4><strong>Marketing Team</strong></h4></td><td>1 hoạt động phụ trách chính (R)</td><td><a href="../03-roles/marketing.md">../03-roles/marketing.md</a></td></tr>
 </tbody></table>
 
-*Giám khảo: xem thêm [Vai trò Giám khảo](../03-roles/examiner.md).*
+*Examiner: xem thêm [Vai trò Examiner](../03-roles/examiner.md).*
 
 ## Luồng trách nhiệm chính
 
@@ -74,7 +74,7 @@ Cho đến khi có quyết định chính thức, mô tả chi tiết ở từng
 
 ## Tài liệu liên quan
 
-{% content-ref url="00-tong-quan.md" %}
+{% content-ref url="tong-quan-quy-trinh.md" %}
 [Tổng quan quy trình tổ chức kỳ thi](tong-quan-quy-trinh.md)
 {% endcontent-ref %}
 
