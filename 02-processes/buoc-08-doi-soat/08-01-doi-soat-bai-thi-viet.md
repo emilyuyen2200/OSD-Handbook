@@ -180,8 +180,8 @@ Nếu thí sinh ghi sai hoặc thiếu thông tin trên, dùng bút bi điều c
 
 Sau khi kiểm tra, đóng mộc và sắp xếp xong tập bài thi NDV (Nghe – Đọc – Viết), kiểm tra lại thí sinh có còn thi Nói ở buổi tiếp theo không:
 
-- **Nếu có:** để riêng tập bài thi, đưa trực tiếp cho Giám thị để bàn giao cho các bạn thi Nói sau đó.
-- **Nếu không còn kỹ năng nào khác:** xếp vào chung 1 nhóm hoàn tất kỳ thi, ghi chú lại bằng giấy note.
+- **Nếu thí sinh không còn lịch thi tiếp theo:** chuyển sang lưu trữ bài thi — phân loại bài thi theo từng thùng giấy, cất vào két sắt, kèm giấy ghi chú nếu cần.
+- **Nếu thí sinh còn lịch thi Nói tiếp theo:** xếp tờ bìa xanh của bạn qua hồ sơ của phòng thi Nói, để hôm sau giám khảo note điểm lên bìa xanh.
 {% endstep %}
 
 {% step %}
