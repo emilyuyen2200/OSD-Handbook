@@ -52,8 +52,7 @@ Từ 5 ngày trước kỳ thi
 
 | Vai trò                                                                            | Trách nhiệm                                  |
 | ---------------------------------------------------------------------------------- | -------------------------------------------- |
-| [Exam Operations Officer](../03-roles/exam-operations-officer.md)                      | Quyết định phương án, lập kế hoạch chuẩn bị. |
-| [Exam Coordinator](../03-roles/exam-coordinator.md)                                | Điều phối thực hiện.                         |
+| [Exam Coordinator](../03-roles/exam-coordinator.md)                                | Quyết định phương án, lập kế hoạch chuẩn bị và điều phối thực hiện. |
 | [Technical Team](../03-roles/exam-operations-team/technical-team.md) | Chuẩn bị thiết bị, phần mềm.                 |
 | Các bộ phận liên quan                                                              | Thực hiện theo phân công.                    |
 | [Exam Director](../03-roles/exam-director.md)                                      | Phê duyệt kế hoạch cuối cùng.                |
