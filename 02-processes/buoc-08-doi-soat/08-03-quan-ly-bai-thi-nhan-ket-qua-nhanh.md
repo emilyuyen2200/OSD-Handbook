@@ -174,7 +174,7 @@ Thực hiện scan:
 ### Hoàn thành khi
 
 - Toàn bộ bài thi nhận kết quả nhanh đã được cập nhật lên Tool.
-- Hồ sơ đã được lưu riêng và sẵn sàng cho bước **04. Đóng gói & Lưu trữ bài thi**.
+- Hồ sơ đã được lưu riêng và sẵn sàng cho bước **04. Hoàn tất hồ sơ sau ngày thi cuối**.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
