@@ -147,7 +147,7 @@ Kiểm tra an ninh và vật dụng trước khi thí sinh vào khu vực chờ.
 
 <summary><strong>⑤ Điều phối khu vực chờ</strong></summary>
 
-Điều phối thí sinh theo lịch thi và hướng dẫn đến đúng phòng thi.
+Điều phối thí sinh theo lịch thi đến khu vực chờ hoặc phòng thi tương ứng.
 
 **👤 Phụ trách:** Room Coordinator
 
