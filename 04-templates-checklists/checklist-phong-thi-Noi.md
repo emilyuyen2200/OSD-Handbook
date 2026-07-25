@@ -23,17 +23,32 @@ layout:
 ---
 # Checklist phòng thi Nói
 
-## Mở phòng
+{% tabs %}
+{% tab title="🔓 Mở phòng" %}
 
-### Phòng thi
+{% columns %}
+{% column %}
+#### 🏫 Phòng thi
 
 - [ ] Phòng sạch sẽ, yên tĩnh và đủ ánh sáng.
 - [ ] Đồng hồ hoạt động đúng giờ.
 - [ ] Biển số phòng đúng vị trí.
 - [ ] Bàn ghế được bố trí đúng sơ đồ.
 - [ ] Không có người không phận sự trong phòng.
+{% endcolumn %}
 
-### Hồ sơ & Biểu mẫu
+{% column %}
+#### 👥 Nhân sự
+
+- [ ] Hai Giám khảo đã có mặt.
+- [ ] Lịch thi được xác nhận.
+- [ ] Phòng sẵn sàng đón thí sinh.
+{% endcolumn %}
+{% endcolumns %}
+
+{% columns %}
+{% column %}
+#### 📄 Hồ sơ & Biểu mẫu
 
 - [ ] Danh sách thí sinh.
 - [ ] Lịch thi.
@@ -41,44 +56,49 @@ layout:
 - [ ] Phiếu chấm điểm.
 - [ ] Einzelbewertung.
 - [ ] Bewertungsbogen.
+{% endcolumn %}
 
-### Đề thi
+{% column %}
+#### 📋 Đề thi
 
 - [ ] Đúng trình độ.
 - [ ] Đúng mã đề.
 - [ ] Đủ số lượng.
 - [ ] Có đề dự phòng.
+{% endcolumn %}
+{% endcolumns %}
 
-### Văn phòng phẩm
+#### ✏️ Văn phòng phẩm
 
 - [ ] Bút.
 - [ ] Bút dự phòng.
 - [ ] Giấy ghi chú (nếu cần).
 - [ ] Kẹp giấy.
 
-### Nhân sự
+{% endtab %}
 
-- [ ] Hai Giám khảo đã có mặt.
-- [ ] Lịch thi được xác nhận.
-- [ ] Phòng sẵn sàng đón thí sinh.
+{% tab title="🔒 Đóng phòng" %}
 
-***
-
-## Đóng phòng
-
-### Kiểm tra phòng
+{% columns %}
+{% column %}
+#### 🔍 Kiểm tra phòng
 
 - [ ] Không còn thí sinh trong phòng.
 - [ ] Không còn tài liệu trên bàn.
 - [ ] Phòng được kiểm tra lần cuối trước khi rời.
+{% endcolumn %}
 
-### Kiểm tra hồ sơ
+{% column %}
+#### 📑 Kiểm tra hồ sơ
 
 - [ ] Phiếu chấm điểm đã được ký đầy đủ.
 - [ ] Hồ sơ được sắp xếp đúng thứ tự.
 - [ ] Không còn biểu mẫu hoặc tài liệu trong phòng.
+{% endcolumn %}
+{% endcolumns %}
 
-### Kiểm tra Tờ bìa xanh
+{% hint style="danger" %}
+#### 🟩 Kiểm tra Tờ bìa xanh
 
 - [ ] Đúng họ tên thí sinh.
 - [ ] Đúng ngày sinh.
@@ -88,12 +108,16 @@ layout:
 - [ ] Đúng tên và chữ ký của cả hai Giám khảo.
 - [ ] Không bỏ sót hoặc ghi sai thông tin.
 - [ ] Đã kiểm tra lần cuối trước khi chuyển sang Quy trình Thu bài & Bàn giao.
+{% endhint %}
 
 {% hint style="warning" %}
 **Lưu ý**
 
 Trước khi Giám khảo rời điểm thi, cần đối chiếu kỹ **Tờ bìa xanh** với **Phiếu chấm điểm** để phát hiện và xử lý ngay mọi sai lệch. Sau khi bàn giao hồ sơ, việc điều chỉnh sẽ phức tạp và mất nhiều thời gian hơn.
 {% endhint %}
+
+{% endtab %}
+{% endtabs %}
 
 ## Tài liệu liên quan
 
