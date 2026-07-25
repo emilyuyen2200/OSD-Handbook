@@ -26,15 +26,15 @@ layout:
 
 {% columns %}
 {% column %}
-#### **📅 Thời điểm**&#x20;
+#### **📅 Thời điểm**
 
 Từ 5 ngày trước kỳ thi
 {% endcolumn %}
 
 {% column %}
-#### 👤 **Phụ trách**&#x20;
+#### 👤 **Phụ trách**
 
-[Exam Operations Teams](../03-roles/exam-operations-team/)
+[Exam Operations Team](../03-roles/exam-operations-team/)
 
 [Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
@@ -42,7 +42,7 @@ Từ 5 ngày trước kỳ thi
 {% column %}
 #### ✅ **Phê duyệt**
 
-&#x20;[Exam Director](../03-roles/exam-director.md)
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -66,7 +66,7 @@ Từ 5 ngày trước kỳ thi
 {% hint style="success" %}
 ### Hoàn thành khi
 
-Hoàn thành toàn bộ 5 checklist trên trước khi chuyển sang [Bước 6 — Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md).
+Hoàn thành toàn bộ 2 checklist trên trước khi chuyển sang [Bước 6 — Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md).
 {% endhint %}
 
 ***
