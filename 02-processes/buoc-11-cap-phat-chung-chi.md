@@ -85,3 +85,4 @@ Báo ngay cho Exam Coordinator khi phát sinh các trường hợp sau:
 ## Tài liệu liên quan
 - [Bước 10 — Công bố kết quả thi](buoc-10-cong-bo-ket-qua.md)
 - [Bước 12 — Lưu trữ, tổng kết & cải tiến](buoc-12-luu-tru-tong-ket.md)
+***
