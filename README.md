@@ -21,7 +21,7 @@ layout:
 
 # Operation Handbook
 
-![Operation Handbook Banner](.gitbook/assets/operation-handbook-banner.png)
+![Operation Handbook Banner](.gitbook/assets/6e2819ef-189b-40f1-849c-e29efd69066e.png)
 
 {% hint style="success" %}
 ### Chào mừng đến với Operation Handbook
