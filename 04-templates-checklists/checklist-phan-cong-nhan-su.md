@@ -6,10 +6,6 @@ description: Checklist rà soát phương án phân công nhân sự trước k�
 
 # Checklist Phân công Nhân sự
 
-{% hint style="warning" %}
-Đây là bản nháp — cần Exam Coordinator rà soát và điều chỉnh trước khi áp dụng chính thức.
-{% endhint %}
-
 Hoàn tất checklist trước khi công bố lịch làm việc cho đội ngũ vận hành.
 
 | ✓ | Hạng mục | Tiêu chuẩn kiểm tra |
