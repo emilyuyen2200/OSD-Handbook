@@ -24,19 +24,11 @@ layout:
   <img src=".gitbook/assets/ChatGPT Image Jul 25, 2026, 03_22_48 PM.png" alt="Operation Handbook Banner" width="100%">
 </p>
 
-<div align="center">
+| |
+|---|
+| <div align="center"><h3>Chào mừng đến với Operation Handbook</h3><br>Đây là tài liệu hướng dẫn chính thức về quy trình tổ chức kỳ thi ÖSD tại <b>Phuong Nam Education (PNE)</b>.</div> |
 
-## Chào mừng đến với Operation Handbook
-
-Đây là tài liệu hướng dẫn chính thức về quy trình tổ chức kỳ thi **ÖSD**
-tại **Phuong Nam Education (PNE)**.
-
-Handbook tập trung toàn bộ quy trình, vai trò, biểu mẫu và checklist,
-giúp mọi kỳ thi được triển khai thống nhất theo tiêu chuẩn của PNE và ÖSD.
-
-</div>
-
-# 🚀 Chọn giai đoạn làm việc
+# Chọn giai đoạn làm việc
 
 <table data-view="cards">
 <thead>
@@ -128,7 +120,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 ---
 
-# 👥 Tra cứu theo vai trò
+# Tra cứu theo vai trò
 
 <table data-view="cards">
 <thead>
@@ -183,7 +175,7 @@ Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở 
 
 ---
 
-# 📚 Tài liệu hỗ trợ
+# Tài liệu hỗ trợ
 
 {% columns %}
 
