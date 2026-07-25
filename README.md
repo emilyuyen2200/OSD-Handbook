@@ -21,8 +21,6 @@ layout:
 
 # Operation Handbook
 
-## Quy trình tổ chức kỳ thi ÖSD
-
 ![Operation Handbook Banner](.gitbook/assets/operation-handbook-banner.png)
 
 {% hint style="success" %}
