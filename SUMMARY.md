@@ -29,7 +29,7 @@
   * [08-01. Đối soát bài thi Viết](02-processes/buoc-08-doi-soat/08-01-doi-soat-bai-thi-viet.md)
   * [08-02. Đối soát bài thi Nói](02-processes/buoc-08-doi-soat/08-02-doi-soat-bai-thi-noi.md)
   * [08-03. Quản lý bài thi nhận kết quả nhanh](02-processes/buoc-08-doi-soat/08-03-quan-ly-bai-thi-nhan-ket-qua-nhanh.md)
-  * [08-04. Đóng gói & Lưu trữ bài thi](02-processes/buoc-08-doi-soat/08-04-dong-goi-va-luu-tru-bai-thi.md)
+  * [08-04. Hoàn tất hồ sơ sau ngày thi cuối](02-processes/buoc-08-doi-soat/08-04-dong-goi-va-luu-tru-bai-thi.md)
 * [Bước 9 — Đóng gói & Bàn giao Bài thi](02-processes/buoc-09-dong-goi-ban-giao.md)
 * [Bước 10 — Công bố kết quả thi](02-processes/buoc-10-cong-bo-ket-qua.md)
 * [Bước 11 — Cấp phát chứng chỉ](02-processes/buoc-11-cap-phat-chung-chi.md)
