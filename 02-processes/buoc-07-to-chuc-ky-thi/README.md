@@ -26,15 +26,15 @@ layout:
 
 {% columns %}
 {% column %}
-<h4 align="center">📅 Thời điểm</h4>
+#### 📅 Thời điểm
 
-<p align="center">Trong suốt thời gian diễn ra kỳ thi</p>
+Trong suốt thời gian diễn ra kỳ thi
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">👤 Phụ trách</h4>
+#### 👤 Phụ trách
 
-<p align="center"><a href="../../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
+[Exam Coordinator](../../03-roles/exam-coordinator.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -42,10 +42,10 @@ layout:
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                                | Trách nhiệm                                                                                             |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| [Exam Coordinator](../../03-roles/exam-coordinator.md) | Điều phối toàn bộ hoạt động trong ngày thi; giám sát vận hành và hỗ trợ xử lý các tình huống phát sinh. |
-| Các vị trí vận hành                                    | Thực hiện công việc theo Role Guide và SOP tương ứng — xem mục [Role Guide](./#role-guide) bên dưới.    |
+| Vai trò                                                              | Trách nhiệm                                                                                          |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| [Exam Coordinator](../../03-roles/exam-coordinator.md)               | Điều phối toàn bộ hoạt động trong ngày thi; giám sát vận hành và hỗ trợ xử lý các tình huống phát sinh. |
+| Các vị trí vận hành                                                  | Thực hiện công việc theo Role Guide và SOP tương ứng — xem mục [Role Guide](./#role-guide) bên dưới. |
 
 ### 📋 Chuẩn bị
 
@@ -77,6 +77,7 @@ layout:
 * Thí sinh chỉ được chuyển sang bước tiếp theo sau khi hoàn thành bước hiện tại.
 * Mọi tình huống phát sinh phải được báo ngay cho Exam Coordinator.
 * Mỗi vị trí chỉ thực hiện công việc thuộc phạm vi trách nhiệm của mình.
+* Nếu Exam Coordinator không phản hồi kịp thời, xem quy tắc leo thang tại [Danh bạ liên hệ & Escalation](../../00-overview/danh-ba-lien-he.md).
 {% endhint %}
 
 ***
@@ -144,7 +145,7 @@ flowchart TD
 
 **Role Guide**
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Welcome Officer</h4></td><td><a href="../../03-roles/exam-operations-team/welcome-officer.md">welcome-officer.md</a></td></tr><tr><td><h4>Check-in Officer</h4></td><td><a href="../../03-roles/exam-operations-team/check-in-officer.md">check-in-officer.md</a></td></tr><tr><td><h4>Locker Officer</h4></td><td><a href="../../03-roles/exam-operations-team/locker-officer.md">locker-officer.md</a></td></tr><tr><td><h4>Security Officer</h4></td><td><a href="../../03-roles/exam-operations-team/security-officer.md">security-officer.md</a></td></tr><tr><td><h4>Giám thị</h4></td><td><a href="../../03-roles/invigilator.md">invigilator.md</a></td></tr><tr><td><h4>Giám khảo</h4></td><td><a href="../../03-roles/examiner.md">examiner.md</a></td></tr><tr><td><h4>Room Coordinator</h4></td><td><a href="../../03-roles/exam-operations-team/room-coordinator.md">room-coordinator.md</a></td></tr><tr><td><h4>Exam Coordinator</h4></td><td><a href="../../03-roles/exam-coordinator.md">exam-coordinator.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Welcome Officer</h4></td><td><a href="../../03-roles/exam-operations-team/welcome-officer.md">welcome-officer.md</a></td></tr><tr><td><h4>Check-in Officer</h4></td><td><a href="../../03-roles/exam-operations-team/check-in-officer.md">check-in-officer.md</a></td></tr><tr><td><h4>Locker Officer</h4></td><td><a href="../../03-roles/exam-operations-team/locker-officer.md">locker-officer.md</a></td></tr><tr><td><h4>Security Officer</h4></td><td><a href="../../03-roles/exam-operations-team/security-officer.md">security-officer.md</a></td></tr><tr><td><h4>Giám thị</h4></td><td><a href="../../03-roles/invigilator.md">giam-thi.md</a></td></tr><tr><td><h4>Giám khảo</h4></td><td><a href="../../03-roles/examiner.md">giam-khao.md</a></td></tr><tr><td><h4>Room Coordinator</h4></td><td><a href="../../03-roles/exam-operations-team/room-coordinator.md">room-coordinator.md</a></td></tr><tr><td><h4>Exam Coordinator</h4></td><td><a href="../../03-roles/exam-coordinator.md">exam-coordinator.md</a></td></tr></tbody></table>
 
 **Checklist**
 
