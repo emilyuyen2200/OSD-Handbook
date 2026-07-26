@@ -34,6 +34,20 @@ Tài liệu được xây dựng nhằm chuẩn hóa cách vận hành kỳ thi,
 
 ---
 
+## 🎓 Phạm vi áp dụng
+
+Handbook hiện áp dụng cho các trình độ ÖSD đang được tổ chức tại PNE: **A1, A2, B1, B2**.
+
+{% hint style="info" %}
+### Khi trung tâm mở thêm trình độ mới (ví dụ B2+, C1)
+
+- Khung giờ chuẩn và thời lượng từng kỹ năng cần được ÖSD xác nhận và cập nhật vào [Kế hoạch kỳ thi](../04-templates-checklists/ke-hoach-ky-thi.md).
+- Rà soát lại nguyên tắc sắp xếp lịch thi tại [Bước 3](../02-processes/buoc-03-sap-xep-lich-thi.md) — đặc biệt quy tắc ghép cặp thi Nói (hiện áp dụng theo A1-B2, có thể khác với trình độ cao hơn).
+- Cập nhật số lượng/loại biểu mẫu chấm điểm nếu trình độ mới có cấu trúc bài thi khác.
+{% endhint %}
+
+***
+
 ## 📚 Nội dung của Handbook
 
 <table data-view="cards">
