@@ -21,8 +21,9 @@ layout:
 
 # Trang chủ
 
-<img src=".gitbook/assets/operation_handbook_banner_optionB.svg" alt="Operation Handbook" width="800">
-
+<div align="center">
+  <img src=".gitbook/assets/operation_handbook_banner_optionB.svg" alt="Operation Handbook" width="900">
+</div>
 {% hint style="success" %}
 #### Chào mừng đến với Operation Handbook
 
