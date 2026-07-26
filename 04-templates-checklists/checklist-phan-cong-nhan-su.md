@@ -22,6 +22,6 @@ Nếu không quá thiếu nhân sự, nên chia ca (sáng/chiều) cho mỗi ng�
 
 ## Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-05-phan-cong-va-csvc.md" %}
-[buoc-05-phan-cong-va-csvc.md](../02-processes/buoc-05-phan-cong-va-csvc.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-05-phan-cong-va-csvc.md" %}
+[buoc-05-phan-cong-va-csvc.md](../quy-trinh-to-chuc-thi-osd-1/buoc-05-phan-cong-va-csvc.md)
 {% endcontent-ref %}

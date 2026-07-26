@@ -94,8 +94,8 @@ Tên thí sinh được hiển thị theo đúng Seat Number trên sơ đồ.
 
 ## Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-03-sap-xep-lich-thi.md" %}
-[buoc-03-sap-xep-lich-thi.md](../02-processes/buoc-03-sap-xep-lich-thi.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-03-sap-xep-lich-thi.md" %}
+[buoc-03-sap-xep-lich-thi.md](../quy-trinh-to-chuc-thi-osd-1/buoc-03-sap-xep-lich-thi.md)
 {% endcontent-ref %}
 
 {% content-ref url="so-do-phong-thi.md" %}

@@ -18,7 +18,8 @@ layout:
   actions:
     visible: true
 ---
-# Marketing Team
+
+# Phòng Marketing
 
 Truyền thông thông tin kỳ thi và quản lý cổng đăng ký, đảm bảo thí sinh tiếp cận đầy đủ thông tin và hoàn tất đăng ký đúng hạn.
 
@@ -50,18 +51,18 @@ Marketing Team chịu trách nhiệm truyền thông thông tin kỳ thi và v�
 
 ### Trách nhiệm chính
 
-- Cập nhật thông tin kỳ thi trên website (lịch thi, lệ phí, địa điểm, hạn đăng ký).
-- Mở đăng ký và cổng thanh toán.
-- Triển khai truyền thông (Facebook, Zalo, tin nhắn học viên).
-- Theo dõi số lượng đăng ký, phối hợp báo cáo với Exam Coordinator.
+* Cập nhật thông tin kỳ thi trên website (lịch thi, lệ phí, địa điểm, hạn đăng ký).
+* Mở đăng ký và cổng thanh toán.
+* Triển khai truyền thông (Facebook, Zalo, tin nhắn học viên).
+* Theo dõi số lượng đăng ký, phối hợp báo cáo với Exam Coordinator.
 
 ***
 
 ## 📋 Quy trình tham gia
 
-| Bước | Vai trò |
-| --- | --- |
-| [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](../02-processes/buoc-02-quan-ly-va-truyen-thong.md) | Chủ trì (2.2 — Truyền thông) |
+| Bước                                                                                                                | Vai trò                      |
+| ------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](../quy-trinh-to-chuc-thi-osd-1/buoc-02-quan-ly-va-truyen-thong.md) | Chủ trì (2.2 — Truyền thông) |
 
 ***
 
@@ -75,6 +76,6 @@ Marketing Team chỉ phụ trách truyền thông và cổng đăng ký — khô
 
 ## 📎 Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-02-quan-ly-va-truyen-thong.md" %}
-[buoc-02-quan-ly-va-truyen-thong.md](../02-processes/buoc-02-quan-ly-va-truyen-thong.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-02-quan-ly-va-truyen-thong.md" %}
+[buoc-02-quan-ly-va-truyen-thong.md](../quy-trinh-to-chuc-thi-osd-1/buoc-02-quan-ly-va-truyen-thong.md)
 {% endcontent-ref %}

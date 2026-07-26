@@ -11,7 +11,7 @@ hidden: true
 ## ⏰ Khung giờ thi chuẩn theo trình độ
 
 {% hint style="info" %}
-Đây là khung giờ chuẩn cho từng trình độ, dùng làm cơ sở khi sắp xếp lịch thi chi tiết ở [Bước 3](../02-processes/buoc-03-sap-xep-lich-thi.md). Giờ cụ thể có thể điều chỉnh theo số buổi thi thực tế nhưng cần giữ đúng thời lượng và khoảng cách giữa các kỹ năng.
+Đây là khung giờ chuẩn cho từng trình độ, dùng làm cơ sở khi sắp xếp lịch thi chi tiết ở [Bước 3](../quy-trinh-to-chuc-thi-osd-1/buoc-03-sap-xep-lich-thi.md). Giờ cụ thể có thể điều chỉnh theo số buổi thi thực tế nhưng cần giữ đúng thời lượng và khoảng cách giữa các kỹ năng.
 {% endhint %}
 
 ### Trình độ B1 (Đọc 65' · Nghe 40' · Viết 60')
@@ -56,7 +56,7 @@ Số phòng, số buổi thi và cách phân bổ thí sinh theo từng trình �
 * Với phần thi Nói, tính toán số cặp giám khảo và số phòng cần thiết dựa trên số lượng thí sinh và thời lượng mỗi lượt thi.
 
 {% hint style="info" %}
-Xem đầy đủ nguyên tắc kiểm tra lịch thi (không trùng lịch, không vượt sức chứa, đúng thời lượng...) tại [Bước 3 — Sắp xếp lịch thi chi tiết](../02-processes/buoc-03-sap-xep-lich-thi.md).
+Xem đầy đủ nguyên tắc kiểm tra lịch thi (không trùng lịch, không vượt sức chứa, đúng thời lượng...) tại [Bước 3 — Sắp xếp lịch thi chi tiết](../quy-trinh-to-chuc-thi-osd-1/buoc-03-sap-xep-lich-thi.md).
 {% endhint %}
 
 ### 📐 Mẫu bảng lịch thi chi tiết
@@ -72,12 +72,12 @@ Ví dụ cấu trúc bảng lịch thi theo ngày, dùng để phân bổ phòng
 
 ## Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-01-lap-ke-hoach-dang-ky.md" %}
-[buoc-01-lap-ke-hoach-dang-ky.md](../02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-01-lap-ke-hoach-dang-ky.md" %}
+[buoc-01-lap-ke-hoach-dang-ky.md](../quy-trinh-to-chuc-thi-osd-1/buoc-01-lap-ke-hoach-dang-ky.md)
 {% endcontent-ref %}
 
-{% content-ref url="../02-processes/buoc-03-sap-xep-lich-thi.md" %}
-[buoc-03-sap-xep-lich-thi.md](../02-processes/buoc-03-sap-xep-lich-thi.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-03-sap-xep-lich-thi.md" %}
+[buoc-03-sap-xep-lich-thi.md](../quy-trinh-to-chuc-thi-osd-1/buoc-03-sap-xep-lich-thi.md)
 {% endcontent-ref %}
 
 {% content-ref url="danh-sach-thi-cac-ky-nang.md" %}

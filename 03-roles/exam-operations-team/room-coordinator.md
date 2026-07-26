@@ -65,9 +65,9 @@ Room Coordinator chịu trách nhiệm điều phối toàn bộ hoạt động 
 
 ## 📋 Quy trình tham gia
 
-| Bước                                                                  | Vai trò   |
-| --------------------------------------------------------------------- | --------- |
-| [Bước 7 — Tổ chức kỳ thi](../../02-processes/buoc-07-to-chuc-ky-thi/) | Thực hiện |
+| Bước                                                                                 | Vai trò   |
+| ------------------------------------------------------------------------------------ | --------- |
+| [Bước 7 — Tổ chức kỳ thi](../../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/) | Thực hiện |
 
 ***
 

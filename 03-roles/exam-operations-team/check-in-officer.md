@@ -67,9 +67,9 @@ Check-in Officer chịu trách nhiệm kiểm tra, xác minh và tiếp nhận h
 
 ## 📋 Quy trình tham gia
 
-| Bước                                                                                                                   | Vai trò   |
-| ---------------------------------------------------------------------------------------------------------------------- | --------- |
-| [07-01. Quy trình tiếp nhận thí sinh](../../02-processes/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md) | Thực hiện |
+| Bước                                                                                                                                  | Vai trò   |
+| ------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| [07-01. Quy trình tiếp nhận thí sinh](../../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md) | Thực hiện |
 
 ***
 
@@ -107,8 +107,8 @@ Check-in Officer chịu trách nhiệm kiểm tra, xác minh và tiếp nhận h
 
 ## 📎 Tài liệu liên quan
 
-{% content-ref url="../../02-processes/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md" %}
-[07-01-quy-trinh-tiep-nhan-thi-sinh.md](../../02-processes/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md)
+{% content-ref url="../../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md" %}
+[07-01-quy-trinh-tiep-nhan-thi-sinh.md](../../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../04-templates-checklists/danh-sach-check-in.md" %}

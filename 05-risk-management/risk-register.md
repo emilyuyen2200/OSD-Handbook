@@ -43,7 +43,7 @@ Khi phát hiện sự cố hoặc rủi ro:
 3. Báo ngay cho người có thẩm quyền theo quy định.
 4. Áp dụng phương án xử lý tương ứng (nếu đã ban hành).
 5. Lập biên bản và lưu hồ sơ khi cần thiết.
-6. Tổng hợp vào cuộc họp rút kinh nghiệm sau kỳ thi ([Bước 12](../02-processes/buoc-12-luu-tru-tong-ket.md)) để cập nhật Handbook.
+6. Tổng hợp vào cuộc họp rút kinh nghiệm sau kỳ thi ([Bước 12](../quy-trinh-to-chuc-thi-osd-1/buoc-12-luu-tru-tong-ket.md)) để cập nhật Handbook.
 
 ***
 

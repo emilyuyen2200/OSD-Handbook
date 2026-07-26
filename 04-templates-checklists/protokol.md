@@ -23,10 +23,10 @@ hidden: true
 
 ## Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/" %}
-[buoc-07-to-chuc-ky-thi](../02-processes/buoc-07-to-chuc-ky-thi/)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/" %}
+[buoc-07-to-chuc-ky-thi](../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/)
 {% endcontent-ref %}
 
-{% content-ref url="../02-processes/buoc-09-dong-goi-ban-giao.md" %}
-[buoc-09-dong-goi-ban-giao.md](../02-processes/buoc-09-dong-goi-ban-giao.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-09-dong-goi-ban-giao.md" %}
+[buoc-09-dong-goi-ban-giao.md](../quy-trinh-to-chuc-thi-osd-1/buoc-09-dong-goi-ban-giao.md)
 {% endcontent-ref %}

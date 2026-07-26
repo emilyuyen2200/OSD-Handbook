@@ -28,6 +28,6 @@ layout:
 
 <p align="center"><a href="https://docs.google.com/document/d/1dZY8WxwL1rNBY4em1jEkYn-vxXPmaLAG92u9HRdz274/edit?usp=sharing">Link</a></p>
 
-{% content-ref url="../02-processes/buoc-06-chuan-bi-de-thi.md" %}
-[buoc-06-chuan-bi-de-thi.md](../02-processes/buoc-06-chuan-bi-de-thi.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-06-chuan-bi-de-thi.md" %}
+[buoc-06-chuan-bi-de-thi.md](../quy-trinh-to-chuc-thi-osd-1/buoc-06-chuan-bi-de-thi.md)
 {% endcontent-ref %}

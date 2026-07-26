@@ -1,37 +1,68 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Trang chủ](README.md)
 
 ## Tổng quan
 
-* [Giới thiệu Handbook](00-overview/muc-tieu-va-cach-su-dung.md)
-* [Danh bạ liên hệ & Escalation](00-overview/danh-ba-lien-he.md)
-* [Nhật ký cập nhật Handbook](00-overview/nhat-ky-cap-nhat.md)
+## Quy trình Tổ chức thi ÖSD
+
+* [Tổng quan quy trình](quy-trinh-to-chuc-thi-osd/tong-quan-quy-trinh.md)
+* [Bảng phân công](quy-trinh-to-chuc-thi-osd/bang-phan-cong.md)
+* [Bước 1 — Lập kế hoạch & đăng ký](quy-trinh-to-chuc-thi-osd/buoc-01-lap-ke-hoach-dang-ky.md)
+* [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](quy-trinh-to-chuc-thi-osd/buoc-02-quan-ly-va-truyen-thong.md)
+* [Bước 3 — Sắp xếp lịch thi chi tiết](quy-trinh-to-chuc-thi-osd/buoc-03-sap-xep-lich-thi.md)
+* [Bước 4 — Tiếp nhận đề thi](quy-trinh-to-chuc-thi-osd/buoc-04-tiep-nhan-de-thi.md)
+* [Bước 5 — Phân công nhân sự & CSVC](quy-trinh-to-chuc-thi-osd/buoc-05-phan-cong-va-csvc.md)
+* [Bước 6 — Chuẩn bị đề thi](quy-trinh-to-chuc-thi-osd/buoc-06-chuan-bi-de-thi.md)
+* [Bước 7 — Tổ chức Kỳ thi](quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/README.md)
+  * [07-01. Quy trình tiếp nhận thí sinh](quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md)
+  * [07-02. Quy trình phòng thi Viết](quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-viet.md)
+  * [07-03. Quy trình phòng thi Nói](quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-noi.md)
+  * [07-04. Quy trình Thu bài & Bàn giao](quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md)
+* [Bước 8 — Đối soát](quy-trinh-to-chuc-thi-osd/buoc-08-doi-soat/README.md)
+  * [08-01. Đối soát bài thi Viết](quy-trinh-to-chuc-thi-osd/buoc-08-doi-soat/08-01-doi-soat-bai-thi-viet.md)
+  * [08-02. Đối soát bài thi Nói](quy-trinh-to-chuc-thi-osd/buoc-08-doi-soat/08-02-doi-soat-bai-thi-noi.md)
+  * [08-03. Quản lý bài thi nhận kết quả nhanh](quy-trinh-to-chuc-thi-osd/buoc-08-doi-soat/08-03-quan-ly-bai-thi-nhan-ket-qua-nhanh.md)
+  * [08-04. Hoàn tất hồ sơ sau ngày thi cuối](quy-trinh-to-chuc-thi-osd/buoc-08-doi-soat/08-04-dong-goi-va-luu-tru-bai-thi.md)
+* [Bước 9 — Đóng gói & Bàn giao Bài thi](quy-trinh-to-chuc-thi-osd/buoc-09-dong-goi-ban-giao.md)
+* [Bước 10 — Công bố kết quả thi](quy-trinh-to-chuc-thi-osd/buoc-10-cong-bo-ket-qua.md)
+* [Bước 11 — Cấp phát chứng chỉ](quy-trinh-to-chuc-thi-osd/buoc-11-cap-phat-chung-chi.md)
+* [Bước 12 — Lưu trữ, tổng kết & cải tiến](quy-trinh-to-chuc-thi-osd/buoc-12-luu-tru-tong-ket.md)
+
+***
+
+* [Welcome](readme-1.md)
+
+## Tổng quan
+
+* [Giới thiệu Handbook](tong-quan-1/muc-tieu-va-cach-su-dung.md)
+* [Danh bạ liên hệ & Escalation](tong-quan-1/danh-ba-lien-he.md)
+* [Nhật ký cập nhật Handbook](tong-quan-1/nhat-ky-cap-nhat.md)
 
 ## Quy trình Tổ chức thi ÖSD
 
-* [Tổng quan quy trình](02-processes/tong-quan-quy-trinh.md)
-* [Bảng phân công](02-processes/bang-phan-cong.md)
-* [Bước 1 — Lập kế hoạch & đăng ký](02-processes/buoc-01-lap-ke-hoach-dang-ky.md)
-* [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](02-processes/buoc-02-quan-ly-va-truyen-thong.md)
-* [Bước 3 — Sắp xếp lịch thi chi tiết](02-processes/buoc-03-sap-xep-lich-thi.md)
-* [Bước 4 — Tiếp nhận đề thi](02-processes/buoc-04-tiep-nhan-de-thi.md)
-* [Bước 5 — Phân công nhân sự & CSVC](02-processes/buoc-05-phan-cong-va-csvc.md)
-* [Bước 6 — Chuẩn bị đề thi](02-processes/buoc-06-chuan-bi-de-thi.md)
-* [Bước 7 — Tổ chức Kỳ thi](02-processes/buoc-07-to-chuc-ky-thi/README.md)
-  * [07-01. Quy trình tiếp nhận thí sinh](02-processes/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md)
-  * [07-02. Quy trình phòng thi Viết](02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-Viet.md)
-  * [07-03. Quy trình phòng thi Nói](02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md)
-  * [07-04. Quy trình Thu bài & Bàn giao](02-processes/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md)
-* [Bước 8 — Đối soát](02-processes/buoc-08-doi-soat/README.md)
-  * [08-01. Đối soát bài thi Viết](02-processes/buoc-08-doi-soat/08-01-doi-soat-bai-thi-viet.md)
-  * [08-02. Đối soát bài thi Nói](02-processes/buoc-08-doi-soat/08-02-doi-soat-bai-thi-noi.md)
-  * [08-03. Quản lý bài thi nhận kết quả nhanh](02-processes/buoc-08-doi-soat/08-03-quan-ly-bai-thi-nhan-ket-qua-nhanh.md)
-  * [08-04. Hoàn tất hồ sơ sau ngày thi cuối](02-processes/buoc-08-doi-soat/08-04-dong-goi-va-luu-tru-bai-thi.md)
-* [Bước 9 — Đóng gói & Bàn giao Bài thi](02-processes/buoc-09-dong-goi-ban-giao.md)
-* [Bước 10 — Công bố kết quả thi](02-processes/buoc-10-cong-bo-ket-qua.md)
-* [Bước 11 — Cấp phát chứng chỉ](02-processes/buoc-11-cap-phat-chung-chi.md)
-* [Bước 12 — Lưu trữ, tổng kết & cải tiến](02-processes/buoc-12-luu-tru-tong-ket.md)
+* [Tổng quan quy trình](quy-trinh-to-chuc-thi-osd-1/tong-quan-quy-trinh.md)
+* [Bảng phân công](quy-trinh-to-chuc-thi-osd-1/bang-phan-cong.md)
+* [Bước 1 — Lập kế hoạch & đăng ký](quy-trinh-to-chuc-thi-osd-1/buoc-01-lap-ke-hoach-dang-ky.md)
+* [Bước 2 — Quản lý đăng ký & Truyền thông kỳ thi](quy-trinh-to-chuc-thi-osd-1/buoc-02-quan-ly-va-truyen-thong.md)
+* [Bước 3 — Sắp xếp lịch thi chi tiết](quy-trinh-to-chuc-thi-osd-1/buoc-03-sap-xep-lich-thi.md)
+* [Bước 4 — Tiếp nhận đề thi](quy-trinh-to-chuc-thi-osd-1/buoc-04-tiep-nhan-de-thi.md)
+* [Bước 5 — Phân công nhân sự & CSVC](quy-trinh-to-chuc-thi-osd-1/buoc-05-phan-cong-va-csvc.md)
+* [Bước 6 — Chuẩn bị đề thi](quy-trinh-to-chuc-thi-osd-1/buoc-06-chuan-bi-de-thi.md)
+* [Bước 7 — Tổ chức Kỳ thi](quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/README.md)
+  * [07-01. Quy trình tiếp nhận thí sinh](quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-01-quy-trinh-tiep-nhan-thi-sinh.md)
+  * [07-02. Quy trình phòng thi Viết](quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-viet.md)
+  * [07-03. Quy trình phòng thi Nói](quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-noi.md)
+  * [07-04. Quy trình Thu bài & Bàn giao](quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md)
+* [Bước 8 — Đối soát](quy-trinh-to-chuc-thi-osd-1/buoc-08-doi-soat/README.md)
+  * [08-01. Đối soát bài thi Viết](quy-trinh-to-chuc-thi-osd-1/buoc-08-doi-soat/08-01-doi-soat-bai-thi-viet.md)
+  * [08-02. Đối soát bài thi Nói](quy-trinh-to-chuc-thi-osd-1/buoc-08-doi-soat/08-02-doi-soat-bai-thi-noi.md)
+  * [08-03. Quản lý bài thi nhận kết quả nhanh](quy-trinh-to-chuc-thi-osd-1/buoc-08-doi-soat/08-03-quan-ly-bai-thi-nhan-ket-qua-nhanh.md)
+  * [08-04. Hoàn tất hồ sơ sau ngày thi cuối](quy-trinh-to-chuc-thi-osd-1/buoc-08-doi-soat/08-04-dong-goi-va-luu-tru-bai-thi.md)
+* [Bước 9 — Đóng gói & Bàn giao Bài thi](quy-trinh-to-chuc-thi-osd-1/buoc-09-dong-goi-ban-giao.md)
+* [Bước 10 — Công bố kết quả thi](quy-trinh-to-chuc-thi-osd-1/buoc-10-cong-bo-ket-qua.md)
+* [Bước 11 — Cấp phát chứng chỉ](quy-trinh-to-chuc-thi-osd-1/buoc-11-cap-phat-chung-chi.md)
+* [Bước 12 — Lưu trữ, tổng kết & cải tiến](quy-trinh-to-chuc-thi-osd-1/buoc-12-luu-tru-tong-ket.md)
 
 ## Vai trò & Phân quyền
 

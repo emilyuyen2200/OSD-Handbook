@@ -64,10 +64,10 @@ Invigilator chịu trách nhiệm điều hành toàn bộ hoạt động bên t
 
 ## 📋 Quy trình tham gia
 
-| Bước                                                               | Vai trò   |
-| ------------------------------------------------------------------ | --------- |
-| [Bước 7 — Tổ chức kỳ thi](../02-processes/buoc-07-to-chuc-ky-thi/) | Thực hiện |
-| [Bước 8 — Đối soát](../02-processes/buoc-08-doi-soat/)             | Phối hợp  |
+| Bước                                                                              | Vai trò   |
+| --------------------------------------------------------------------------------- | --------- |
+| [Bước 7 — Tổ chức kỳ thi](../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/) | Thực hiện |
+| [Bước 8 — Đối soát](../quy-trinh-to-chuc-thi-osd-1/buoc-08-doi-soat/)             | Phối hợp  |
 
 ***
 
@@ -103,14 +103,14 @@ Invigilator chịu trách nhiệm điều hành toàn bộ hoạt động bên t
 
 ## 📎 Tài liệu liên quan
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-Viet.md" %}
-[07-02-quy-trinh-phong-thi-Viet.md](../02-processes/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-Viet.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-viet.md" %}
+[07-02-quy-trinh-phong-thi-viet.md](../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-02-quy-trinh-phong-thi-viet.md)
 {% endcontent-ref %}
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md" %}
-[07-03-quy-trinh-phong-thi-Noi.md](../02-processes/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-Noi.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-noi.md" %}
+[07-03-quy-trinh-phong-thi-noi.md](../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-03-quy-trinh-phong-thi-noi.md)
 {% endcontent-ref %}
 
-{% content-ref url="../02-processes/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md" %}
-[07-04-quy-trinh-thu-bai-va-ban-giao.md](../02-processes/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md)
+{% content-ref url="../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md" %}
+[07-04-quy-trinh-thu-bai-va-ban-giao.md](../quy-trinh-to-chuc-thi-osd-1/buoc-07-to-chuc-ky-thi/07-04-quy-trinh-thu-bai-va-ban-giao.md)
 {% endcontent-ref %}

@@ -19,7 +19,7 @@ layout:
     visible: false
 ---
 
-# Welcome
+# Trang chủ
 
 <figure><img src=".gitbook/assets/operation_handbook_banner_optionB (2).svg" alt="Operation Handbook"><figcaption></figcaption></figure>
 
@@ -33,13 +33,13 @@ layout:
 
 ### 🚀 Chọn giai đoạn làm việc
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🔵</td><td><strong>Trước kỳ thi</strong></td><td>Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở vật chất.</td><td><a href="02-processes/buoc-01-lap-ke-hoach-dang-ky.md">buoc-01-lap-ke-hoach-dang-ky.md</a></td></tr><tr><td>🟢</td><td><strong>Trong kỳ thi</strong></td><td>Điều phối và vận hành toàn bộ hoạt động trong ngày thi.</td><td><a href="02-processes/buoc-07-to-chuc-ky-thi/">buoc-07-to-chuc-ky-thi</a></td></tr><tr><td>🟠</td><td><strong>Sau kỳ thi</strong></td><td>Đối soát, bàn giao, công bố kết quả và tổng kết kỳ thi.</td><td><a href="02-processes/buoc-08-doi-soat/">buoc-08-doi-soat</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🔵</td><td><strong>Trước kỳ thi</strong></td><td>Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở vật chất.</td><td><a href="quy-trinh-to-chuc-thi-osd/buoc-01-lap-ke-hoach-dang-ky.md">buoc-01-lap-ke-hoach-dang-ky.md</a></td></tr><tr><td>🟢</td><td><strong>Trong kỳ thi</strong></td><td>Điều phối và vận hành toàn bộ hoạt động trong ngày thi.</td><td><a href="quy-trinh-to-chuc-thi-osd/buoc-07-to-chuc-ky-thi/">buoc-07-to-chuc-ky-thi</a></td></tr><tr><td>🟠</td><td><strong>Sau kỳ thi</strong></td><td>Đối soát, bàn giao, công bố kết quả và tổng kết kỳ thi.</td><td><a href="quy-trinh-to-chuc-thi-osd/buoc-08-doi-soat/">buoc-08-doi-soat</a></td></tr></tbody></table>
 
 ***
 
 ### 👥 Tra cứu theo vai trò
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>👨‍💼</td><td>Exam Director</td><td>Phê duyệt và giám sát toàn bộ kỳ thi.</td><td><a href="03-roles/exam-director.md">exam-director.md</a></td></tr><tr><td>📋</td><td>Exam Coordinator</td><td>Điều phối xuyên suốt quy trình.</td><td><a href="03-roles/exam-coordinator.md">exam-coordinator.md</a></td></tr><tr><td>👥</td><td>Exam Operations Team</td><td>Đội ngũ vận hành tại điểm thi.</td><td><a href="03-roles/exam-operations-team/">exam-operations-team</a></td></tr><tr><td>📝</td><td>Invigilator</td><td>Giám sát phòng thi.</td><td><a href="03-roles/invigilator.md">invigilator.md</a></td></tr><tr><td>🎓</td><td>Examiner</td><td>Đánh giá phần thi Nói.</td><td><a href="03-roles/examiner.md">examiner.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>👨‍💼</td><td>Exam Director</td><td>Phê duyệt và giám sát toàn bộ kỳ thi.</td><td><a href="/broken/pages/eNKAY8zUuZpklDTzVZGk">Broken link</a></td></tr><tr><td>📋</td><td>Exam Coordinator</td><td>Điều phối xuyên suốt quy trình.</td><td><a href="/broken/pages/qwZS8hnouW3dRzcVRl3p">Broken link</a></td></tr><tr><td>👥</td><td>Exam Operations Team</td><td>Đội ngũ vận hành tại điểm thi.</td><td><a href="/broken/pages/vjeCx6w56xFh0UbTHTlR">Broken link</a></td></tr><tr><td>📝</td><td>Invigilator</td><td>Giám sát phòng thi.</td><td><a href="/broken/pages/eIPZcZAbo38jX79bfoPa">Broken link</a></td></tr><tr><td>🎓</td><td>Examiner</td><td>Đánh giá phần thi Nói.</td><td><a href="/broken/pages/NDw37w8OAlRxjIvK47Go">Broken link</a></td></tr></tbody></table>
 
 ***
 
@@ -47,26 +47,26 @@ layout:
 
 {% columns %}
 {% column %}
-{% content-ref url="04-templates-checklists/bieu-mau.md" %}
-[bieu-mau.md](04-templates-checklists/bieu-mau.md)
+{% content-ref url="/broken/pages/exkDAgSWYR50B3zurLYz" %}
+[Broken link](/broken/pages/exkDAgSWYR50B3zurLYz)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="04-templates-checklists/checklist.md" %}
-[checklist.md](04-templates-checklists/checklist.md)
+{% content-ref url="/broken/pages/DzCNOGflLEgqvMJcYfkZ" %}
+[Broken link](/broken/pages/DzCNOGflLEgqvMJcYfkZ)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="04-templates-checklists/tai-lieu-ho-tro.md" %}
-[tai-lieu-ho-tro.md](04-templates-checklists/tai-lieu-ho-tro.md)
+{% content-ref url="/broken/pages/dp5LPGreepFguXsNIbt4" %}
+[Broken link](/broken/pages/dp5LPGreepFguXsNIbt4)
 {% endcontent-ref %}
 {% endcolumn %}
 
 {% column %}
-{% content-ref url="05-risk-management/risk-register.md" %}
-[risk-register.md](05-risk-management/risk-register.md)
+{% content-ref url="/broken/pages/vuSkrIGh1UJgIvYrqnKI" %}
+[Broken link](/broken/pages/vuSkrIGh1UJgIvYrqnKI)
 {% endcontent-ref %}
 {% endcolumn %}
 {% endcolumns %}
@@ -79,13 +79,13 @@ layout:
 {% step %}
 **1. Xem Vai trò & Phân quyền**
 
-Hiểu rõ trách nhiệm của từng vị trí. [Vai trò & Phân quyền](03-roles/)
+Hiểu rõ trách nhiệm của từng vị trí. [Vai trò & Phân quyền](/broken/pages/Qoui7EQ3X3i1RTh9yPXO)
 {% endstep %}
 
 {% step %}
 **2. Đọc Tổng quan quy trình**
 
-Nắm toàn bộ 12 bước tổ chức kỳ thi. [Tổng quan quy trình](02-processes/tong-quan-quy-trinh.md)
+Nắm toàn bộ 12 bước tổ chức kỳ thi. [Tổng quan quy trình](quy-trinh-to-chuc-thi-osd/tong-quan-quy-trinh.md)
 {% endstep %}
 
 {% step %}
@@ -106,5 +106,5 @@ Sử dụng **Ctrl + K** hoặc **⌘ + K** để tìm kiếm.
 {% hint style="info" %}
 **💡 Lần đầu sử dụng Handbook?**
 
-Xem [Giới thiệu Handbook](00-overview/muc-tieu-va-cach-su-dung.md) để hiểu cấu trúc tài liệu, quy ước và cách tra cứu hiệu quả.
+Xem [Giới thiệu Handbook](tong-quan-1/muc-tieu-va-cach-su-dung.md) để hiểu cấu trúc tài liệu, quy ước và cách tra cứu hiệu quả.
 {% endhint %}
