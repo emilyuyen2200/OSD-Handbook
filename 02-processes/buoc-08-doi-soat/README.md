@@ -1,7 +1,4 @@
 ---
-description: >-
-  Đối soát toàn bộ bài thi, hồ sơ và đề thi sau khi kết thúc kỳ thi, đảm bảo đầy
-  đủ, chính xác trước khi đóng gói và gửi về ÖSD.
 layout:
   width: wide
   title:
@@ -22,25 +19,27 @@ layout:
     visible: true
 ---
 
-# Bước 8 — Đối soát
+# Bước 8 — Đối soát bài thi & Đề thi
+
+Đối soát toàn bộ bài thi, hồ sơ và đề thi sau khi kết thúc kỳ thi, đảm bảo đầy đủ, chính xác trước khi đóng gói và gửi về ÖSD.
 
 {% columns %}
 {% column %}
-<h4 align="center">📅 Thời điểm</h4>
+#### 📅 Thời điểm
 
-<p align="center">Sau mỗi buổi thi và sau khi kết thúc ngày thi cuối cùng.</p>
+Sau mỗi buổi thi và sau khi kết thúc ngày thi cuối cùng.
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">👤 Phụ trách</h4>
+#### 👤 Phụ trách
 
-<p align="center">Exam Coordinator</p>
+Exam Coordinator
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">✅ Phê duyệt</h4>
+#### ✅ Phê duyệt
 
-<p align="center">Exam Director</p>
+Exam Director
 {% endcolumn %}
 {% endcolumns %}
 
@@ -48,20 +47,20 @@ layout:
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò          | Trách nhiệm                                               |
-| ---------------- | --------------------------------------------------------- |
+| Vai trò | Trách nhiệm |
+| --- | --- |
 | Exam Coordinator | Đối soát bài thi, hồ sơ và đề thi; hoàn tất hồ sơ kỳ thi. |
-| Exam Director    | Kiểm tra và phê duyệt trước khi đóng gói gửi ÖSD.         |
+| Exam Director | Kiểm tra và phê duyệt trước khi đóng gói gửi ÖSD. |
 
 ### 📋 Chuẩn bị
 
-* 📄 Bài thi từ các phòng thi.
-* 📄 Attendance List.
-* 📄 Protokoll.
-* 📄 Phiếu đánh giá Speaking.
-* 💾 USB và file ghi âm Speaking.
-* 📦 Đề thi còn dư.
-* 📋 Danh sách thí sinh đăng ký nhận kết quả nhanh (nếu có).
+- 📄 Bài thi từ các phòng thi.
+- 📄 Attendance List.
+- 📄 Protokoll.
+- 📄 Phiếu đánh giá Speaking.
+- 💾 USB và file ghi âm Speaking.
+- 📦 Đề thi còn dư.
+- 📋 Danh sách thí sinh đăng ký nhận kết quả nhanh (nếu có).
 
 ***
 
@@ -70,15 +69,15 @@ layout:
 {% hint style="danger" %}
 ### Đối soát
 
-* Kiểm tra đầy đủ bài thi, hồ sơ và đề thi trước khi đóng gói.
-* Mọi sai lệch phải được xác minh và xử lý trước khi chuyển sang bước tiếp theo.
+- Kiểm tra đầy đủ bài thi, hồ sơ và đề thi trước khi đóng gói.
+- Mọi sai lệch phải được xác minh và xử lý trước khi chuyển sang bước tiếp theo.
 {% endhint %}
 
 {% hint style="danger" %}
 ### Bảo mật
 
-* Bài thi và hồ sơ luôn được quản lý trong khu vực kiểm soát.
-* Không tự ý tách, bổ sung hoặc thay đổi hồ sơ sau khi đã hoàn tất đối soát.
+- Bài thi và hồ sơ luôn được quản lý trong khu vực kiểm soát.
+- Không tự ý tách, bổ sung hoặc thay đổi hồ sơ sau khi đã hoàn tất đối soát.
 {% endhint %}
 
 ***
@@ -86,6 +85,7 @@ layout:
 ## 📖 Quy trình
 
 {% stepper %}
+
 {% step %}
 ### Đối soát bài thi Written
 
@@ -109,6 +109,7 @@ Scan và upload bài thi của các thí sinh đăng ký nhận kết quả nhan
 
 Thống kê bài thi, hoàn thiện tờ bìa thông tin, nhập liệu hệ thống và thống kê đề thi còn thừa trước khi chuyển sang Bước 9.
 {% endstep %}
+
 {% endstepper %}
 
 ***
@@ -118,11 +119,11 @@ Thống kê bài thi, hoàn thiện tờ bìa thông tin, nhập liệu hệ th�
 {% hint style="info" %}
 ### Checklist hoàn thành
 
-* [ ] Đã đối soát bài thi Written.
-* [ ] Đã đối soát bài thi Speaking.
-* [ ] Đã xử lý bài thi nhận kết quả nhanh (nếu có).
-* [ ] Đã đóng gói và niêm phong bài thi.
-* [ ] Hồ sơ đã sẵn sàng gửi ÖSD.
+- [ ] Đã đối soát bài thi Written.
+- [ ] Đã đối soát bài thi Speaking.
+- [ ] Đã xử lý bài thi nhận kết quả nhanh (nếu có).
+- [ ] Đã đóng gói và niêm phong bài thi.
+- [ ] Hồ sơ đã sẵn sàng gửi ÖSD.
 {% endhint %}
 {% endcolumn %}
 
@@ -130,9 +131,9 @@ Thống kê bài thi, hoàn thiện tờ bìa thông tin, nhập liệu hệ th�
 {% hint style="success" %}
 ### Hoàn thành khi
 
-* Toàn bộ bài thi và hồ sơ đã được đối soát.
-* Hồ sơ được Exam Director phê duyệt.
-* Bài thi đã sẵn sàng để gửi về ÖSD.
+- Toàn bộ bài thi và hồ sơ đã được đối soát.
+- Hồ sơ được Exam Director phê duyệt.
+- Bài thi đã sẵn sàng để gửi về ÖSD.
 {% endhint %}
 {% endcolumn %}
 {% endcolumns %}
@@ -140,9 +141,10 @@ Thống kê bài thi, hoàn thiện tờ bìa thông tin, nhập liệu hệ th�
 {% hint style="warning" %}
 ### Lưu ý
 
-* Chỉ scan bài thi của các thí sinh đăng ký **nhận kết quả nhanh (Fast Result)**.
-* Các bài thi còn lại được sắp xếp theo đúng thứ tự quy định để đóng gói gửi ÖSD.
-* Hướng dẫn thao tác chi tiết được trình bày trong các quy trình thành phần của Bước 8.
+- Chỉ scan bài thi của các thí sinh đăng ký **nhận kết quả nhanh (Fast Result)**.
+- Các bài thi còn lại được sắp xếp theo đúng thứ tự quy định để đóng gói gửi ÖSD.
+- Hướng dẫn thao tác chi tiết được trình bày trong các quy trình thành phần của Bước 8.
+- Nếu không liên lạc được với người phê duyệt khi phát hiện sai lệch, xem [Danh bạ liên hệ & Escalation](../../00-overview/danh-ba-lien-he.md).
 {% endhint %}
 
 ***
