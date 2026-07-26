@@ -53,6 +53,7 @@
 
 * [Biểu mẫu](04-templates-checklists/bieu-mau.md)
   * [Kế hoạch kỳ thi](04-templates-checklists/ke-hoach-ky-thi.md)
+  * [Bảng phân ca nhân sự theo ngày thi](04-templates-checklists/bang-phan-ca-nhan-su.md)
   * [Danh sách check-in](04-templates-checklists/danh-sach-check-in.md)
   * [Danh sách giữ đồ](04-templates-checklists/danh-sach-giu-do.md)
   * [Danh sách thi](04-templates-checklists/danh-sach-thi-cac-ky-nang.md)
