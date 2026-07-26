@@ -2,7 +2,7 @@
 layout:
   width: wide
   title:
-    visible: false
+    visible: true
   description:
     visible: false
   tableOfContents:
@@ -19,7 +19,7 @@ layout:
     visible: false
 ---
 
-# Untitled
+# Welcome
 
 <figure><img src=".gitbook/assets/operation_handbook_banner_optionB (2).svg" alt="Operation Handbook"><figcaption></figcaption></figure>
 
