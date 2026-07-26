@@ -149,6 +149,10 @@ flowchart TD
 
 **Checklist**
 
+{% content-ref url="../../04-templates-checklists/bang-phan-ca-nhan-su.md" %}
+[bang-phan-ca-nhan-su.md](../../04-templates-checklists/bang-phan-ca-nhan-su.md)
+{% endcontent-ref %}
+
 {% columns %}
 {% column %}
 {% content-ref url="../../04-templates-checklists/checklist-check-in.md" %}
