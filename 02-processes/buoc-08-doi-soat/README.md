@@ -82,6 +82,10 @@ Exam Director
 
 ***
 
+<figure><img src="../../.gitbook/assets/buoc08-quy-trinh-flow.svg" alt=""><figcaption><p>Luồng đối soát và xử lý sai lệch</p></figcaption></figure>
+
+***
+
 ## 📖 Quy trình
 
 {% stepper %}
