@@ -21,9 +21,11 @@ layout:
 
 # Trang chủ
 
-<div align="center">
-  <img src=".gitbook/assets/operation_handbook_banner_optionB.svg" alt="Operation Handbook" width="900">
-</div>
+<figure>
+  <img src=".gitbook/assets/operation_handbook_banner_optionB.svg" alt="Operation Handbook">
+  <figcaption><p>Quy trình tổ chức kỳ thi ÖSD</p></figcaption>
+</figure>
+
 {% hint style="success" %}
 #### Chào mừng đến với Operation Handbook
 
