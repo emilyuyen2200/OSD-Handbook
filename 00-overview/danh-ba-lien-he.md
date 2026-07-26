@@ -44,6 +44,10 @@ Mỗi trang vai trò cũng có sẵn khối "📞 Liên hệ" riêng — bấm v
 
 ## ⏱️ Quy tắc leo thang (đề xuất)
 
+<figure><img src="../.gitbook/assets/escalation-staircase.svg" alt=""><figcaption><p>3 mức độ leo thang</p></figcaption></figure>
+
+Chi tiết từng mức:
+
 {% hint style="danger" %}
 ### 🔴 Khẩn cấp — đang trong ca thi
 
