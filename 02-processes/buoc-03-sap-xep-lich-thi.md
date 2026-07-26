@@ -1,7 +1,4 @@
 ---
-description: >-
-  Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và phát hành lịch
-  thi cho thí sinh trước ngày thi.
 layout:
   width: wide
   title:
@@ -24,23 +21,25 @@ layout:
 
 # Bước 3 — Sắp xếp lịch thi chi tiết
 
+Lập lịch thi chi tiết cho từng kỹ năng, phân công nhân sự và phát hành lịch thi cho thí sinh trước ngày thi.
+
 {% columns %}
 {% column %}
-<h4 align="center">📅 <strong>Thời điểm</strong></h4>
+#### 📅 **Thời điểm**&#x20;
 
-<p align="center">Trước ngày thi 5–7 ngày</p>
+Trước ngày thi 5–7 ngày
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">👤 <strong>Phụ trách</strong></h4>
+#### 👤 **Phụ trách**&#x20;
 
-<p align="center"><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
+[Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">✅ <strong>Phê duyệt</strong></h4>
+#### ✅ **Phê duyệt**&#x20;
 
-<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -104,6 +103,10 @@ layout:
 | 12    | Viết           |
 | 14    | Nói            |
 | 15    | Phòng chuẩn bị |
+
+***
+
+<figure><img src="../.gitbook/assets/buoc03-quy-trinh-flow.svg" alt=""><figcaption><p>Luồng sắp xếp lịch thi chi tiết</p></figcaption></figure>
 
 ***
 
