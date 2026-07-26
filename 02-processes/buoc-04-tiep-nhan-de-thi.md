@@ -26,21 +26,21 @@ layout:
 
 {% columns %}
 {% column width="33.33333333333333%" %}
-<h4 align="center">📅 <strong>Thời điểm</strong></h4>
+#### 📅 **Thời điểm**&#x20;
 
-<p align="center">Trước ngày thi 2–3 tuần</p>
+Trước ngày thi 2–3 tuần
 {% endcolumn %}
 
 {% column width="33.33333333333333%" %}
-<h4 align="center">👤 <strong>Phụ trách</strong></h4>
+#### 👤 **Phụ trách**&#x20;
 
-<p align="center"><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
+[Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">✅ <strong>Phê duyệt</strong></h4>
+#### ✅ **Phê duyệt**&#x20;
 
-<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -48,13 +48,13 @@ layout:
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                             | Trách nhiệm                                                                       |
-| --------------------------------------------------- | --------------------------------------------------------------------------------- |
+| Vai trò                                                       | Trách nhiệm                                                                       |
+| ------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | [Exam Coordinator](../03-roles/exam-coordinator.md) | Theo dõi, tiếp nhận và lưu trữ lô đề thi.                                         |
-| [Exam Director](../03-roles/exam-director.md)       | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
+| [Exam Director](../03-roles/exam-director.md)                 | Theo dõi tiến độ, phê duyệt việc mở niêm phong và xử lý các tình huống phát sinh. |
 
 {% hint style="info" %}
-### Chuẩn bị
+### Chuẩn bị&#x20;
 {% endhint %}
 
 {% columns %}
@@ -175,6 +175,7 @@ Nếu phát hiện bất thường, thực hiện theo hướng dẫn tại mụ
 * Không mở niêm phong trước thời điểm được phép.
 * Không để người không có thẩm quyền tiếp cận lô đề thi.
 * Báo ngay cho Exam Director nếu phát hiện bất kỳ bất thường nào trong quá trình vận chuyển hoặc lưu trữ.
+* Nếu không liên lạc được, xem quy tắc leo thang tại [Danh bạ liên hệ & Escalation](../00-overview/danh-ba-lien-he.md).
 {% endhint %}
 
 ***
