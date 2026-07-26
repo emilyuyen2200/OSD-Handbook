@@ -33,8 +33,6 @@ layout:
 
 ### 🚀 Chọn giai đoạn làm việc
 
->
-
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🔵</td><td><strong>Trước kỳ thi</strong></td><td>Lập kế hoạch, đăng ký, chuẩn bị đề thi, nhân sự và cơ sở vật chất.</td><td><a href="02-processes/buoc-01-lap-ke-hoach-dang-ky.md">buoc-01-lap-ke-hoach-dang-ky.md</a></td></tr><tr><td>🟢</td><td><strong>Trong kỳ thi</strong></td><td>Điều phối và vận hành toàn bộ hoạt động trong ngày thi.</td><td><a href="02-processes/buoc-07-to-chuc-ky-thi/">buoc-07-to-chuc-ky-thi</a></td></tr><tr><td>🟠</td><td><strong>Sau kỳ thi</strong></td><td>Đối soát, bàn giao, công bố kết quả và tổng kết kỳ thi.</td><td><a href="02-processes/buoc-08-doi-soat/">buoc-08-doi-soat</a></td></tr></tbody></table>
 
 ***
