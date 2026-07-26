@@ -86,18 +86,7 @@ Trong suốt thời gian diễn ra kỳ thi
 
 Ngày thi được triển khai theo 4 quy trình chính:
 
-```mermaid
-flowchart TD
-    A["Thí sinh đến điểm thi"] --> B["07-01. Tiếp nhận thí sinh"]
-    B --> C["Giám thị điều phối vào phòng thi"]
-    C --> D["07-02. Thi Viết"]
-    C --> E["07-03. Thi Nói"]
-    D --> F["07-04. Thu bài & Bàn giao"]
-    E --> F
-
-    classDef step fill:#EEF2FF,stroke:#4F46E5,color:#312E81
-    class A,B,C,D,E,F step
-```
+<figure><img src="../../.gitbook/assets/buoc07-quy-trinh-flow.svg" alt=""><figcaption><p>Luồng tổ chức kỳ thi trong ngày</p></figcaption></figure>
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>🪪</h3></td><td><h4><strong>07-01. Tiếp nhận thí sinh</strong></h4></td><td>Welcome · Check-in · Gửi đồ · An ninh · Khu vực chờ · Vào phòng thi</td><td><a href="07-01-quy-trinh-tiep-nhan-thi-sinh.md">07-01-quy-trinh-tiep-nhan-thi-sinh.md</a></td></tr><tr><td><h3>✍️</h3></td><td><h4><strong>07-02. Phòng thi Viết</strong></h4></td><td>Điều phối và tổ chức phòng thi Viết theo đúng quy chế</td><td><a href="07-02-quy-trinh-phong-thi-Viet.md">07-02-quy-trinh-phong-thi-Viet.md</a></td></tr><tr><td><h3>🎙️</h3></td><td><h4><strong>07-03. Phòng thi Nói</strong></h4></td><td>Điều phối và tổ chức phòng thi Nói theo từng ca thi</td><td><a href="07-03-quy-trinh-phong-thi-Noi.md">07-03-quy-trinh-phong-thi-Noi.md</a></td></tr><tr><td><h3>📦</h3></td><td><h4><strong>07-04. Thu bài &#x26; Bàn giao</strong></h4></td><td>Thu bài, kiểm đếm, đối soát và bàn giao hồ sơ sau mỗi buổi thi</td><td><a href="07-04-quy-trinh-thu-bai-va-ban-giao.md">07-04-quy-trinh-thu-bai-va-ban-giao.md</a></td></tr></tbody></table>
 
