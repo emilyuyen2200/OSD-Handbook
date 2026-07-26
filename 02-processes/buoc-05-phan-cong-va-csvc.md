@@ -97,12 +97,12 @@ Thu hồi thiết bị và vật dụng, kiểm kê đối chiếu danh mục, t
 
 ## 📋 Các hạng mục cần chuẩn bị
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>👥</h3></td><td><h4><strong>1. Nhân sự</strong></h4></td><td>Phân công nhiệm vụ · Xác nhận lịch làm việc · Thông báo nhân sự</td><td><a href="../04-templates-checklists/checklist-phan-cong-nhan-su.md">checklist-phan-cong-nhan-su.md</a></td></tr><tr><td><h3>🏫</h3></td><td><h4><strong>2. Chuẩn bị phòng thi</strong></h4></td><td>Laptop · Tai nghe · Internet · iPad · Setup · Layout · Biển chỉ dẫn</td><td><a href="../04-templates-checklists/checklist-chuan-bi-phong-thi.md">checklist-chuan-bi-phong-thi.md</a></td></tr><tr><td><h3>📦</h3></td><td><h4><strong>3. CSVC &#x26; Thiết bị chi tiết</strong></h4></td><td>Danh mục chi tiết theo mốc thời gian · Hồ sơ · In ấn · Văn phòng phẩm · Vật dụng</td><td><a href="../04-templates-checklists/checklist-chuan-bi-csvc-thiet-bi.md">checklist-chuan-bi-csvc-thiet-bi.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>👥</h3></td><td><h4><strong>1. Nhân sự</strong></h4></td><td>Phân công nhiệm vụ · Xác nhận lịch làm việc · Thông báo nhân sự</td><td><a href="../04-templates-checklists/checklist-phan-cong-nhan-su.md">checklist-phan-cong-nhan-su.md</a></td></tr><tr><td><h3>🗓️</h3></td><td><h4><strong>2. Phân ca theo ngày thi</strong></h4></td><td>Lịch phân ca chi tiết theo từng buổi thi, phòng thi và vị trí</td><td><a href="../04-templates-checklists/bang-phan-ca-nhan-su.md">bang-phan-ca-nhan-su.md</a></td></tr><tr><td><h3>🏫</h3></td><td><h4><strong>3. Chuẩn bị phòng thi</strong></h4></td><td>Laptop · Tai nghe · Internet · iPad · Setup · Layout · Biển chỉ dẫn</td><td><a href="../04-templates-checklists/checklist-chuan-bi-phong-thi.md">checklist-chuan-bi-phong-thi.md</a></td></tr><tr><td><h3>📦</h3></td><td><h4><strong>4. CSVC &#x26; Thiết bị chi tiết</strong></h4></td><td>Danh mục chi tiết theo mốc thời gian · Hồ sơ · In ấn · Văn phòng phẩm · Vật dụng</td><td><a href="../04-templates-checklists/checklist-chuan-bi-csvc-thiet-bi.md">checklist-chuan-bi-csvc-thiet-bi.md</a></td></tr></tbody></table>
 
 {% hint style="success" %}
 ### Hoàn thành khi
 
-Hoàn thành toàn bộ 3 checklist trên trước khi chuyển sang [Bước 6 — Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md).
+Hoàn thành toàn bộ 4 mục trên trước khi chuyển sang [Bước 6 — Chuẩn bị đề thi](buoc-06-chuan-bi-de-thi.md).
 {% endhint %}
 
 ***
