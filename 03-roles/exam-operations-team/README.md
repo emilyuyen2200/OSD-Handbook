@@ -1,7 +1,4 @@
 ---
-description: >-
-  Đội ngũ vận hành trực tiếp tại điểm thi, chịu trách nhiệm chuẩn bị cơ sở vật
-  chất, hỗ trợ thí sinh và phối hợp triển khai các hoạt động trong ngày thi.
 layout:
   width: wide
   title:
@@ -21,16 +18,15 @@ layout:
   actions:
     visible: true
 ---
-
 # Exam Operations Team
 
-Mỗi thành viên đảm nhiệm một vai trò riêng và phối hợp chặt chẽ để đảm bảo kỳ thi diễn ra đúng quy trình, đúng thời gian và an toàn.
+Đội ngũ phụ trách hậu cần của kỳ thi: tiếp nhận đề thi, chuẩn bị cơ sở vật chất và đề thi, hỗ trợ vận hành tại điểm thi trong suốt kỳ thi.
 
 {% columns %}
 {% column %}
 #### 👤 Vị trí
 
-Đội ngũ vận hành tại điểm thi.
+Phụ trách chính công tác hậu cần của kỳ thi.
 {% endcolumn %}
 
 {% column %}
@@ -50,23 +46,59 @@ Examiner
 
 ***
 
-## 👥 Các vị trí trong Exam Operations Team
+## 📞 Liên hệ
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>👋</td><td><strong>Welcome Officer</strong></td><td>Đón tiếp, hướng dẫn và điều phối thí sinh tại khu vực tiếp nhận.</td><td><a href="welcome-officer.md">welcome-officer.md</a></td></tr><tr><td>🪪</td><td><strong>Check-in Officer</strong></td><td>Kiểm tra hồ sơ, xác minh thông tin và hoàn tất thủ tục check-in.</td><td><a href="check-in-officer.md">check-in-officer.md</a></td></tr><tr><td>🎒</td><td><strong>Locker Officer</strong></td><td>Quản lý khu vực gửi đồ và hỗ trợ thí sinh cất giữ tài sản cá nhân.</td><td><a href="locker-officer.md">locker-officer.md</a></td></tr><tr><td>🛡️</td><td><strong>Security Officer</strong></td><td>Kiểm tra an ninh, kiểm soát vật dụng và đảm bảo tuân thủ quy chế.</td><td><a href="security-officer.md">security-officer.md</a></td></tr><tr><td>🚪</td><td><strong>Room Coordinator</strong></td><td>Điều phối thí sinh, lịch thi và hoạt động tại khu vực phòng thi.</td><td><a href="room-coordinator.md">room-coordinator.md</a></td></tr><tr><td>💻</td><td><strong>Technical Team</strong></td><td>Chuẩn bị hạ tầng kỹ thuật, thiết bị và hỗ trợ xử lý sự cố trong kỳ thi.</td><td><a href="technical-team.md">technical-team.md</a></td></tr></tbody></table>
+| Kênh | Thông tin |
+| --- | --- |
+| Nhóm liên lạc chung | _(placeholder — điền tên nhóm Zalo/kênh liên lạc)_ |
+
+{% hint style="info" %}
+Xem đầy đủ danh bạ liên hệ và quy tắc leo thang tại [Danh bạ liên hệ & Escalation](../../00-overview/danh-ba-lien-he.md).
+{% endhint %}
 
 ***
 
-{% hint style="info" %}
-### Nguyên tắc làm việc
+## 👥 Vai trò & Trách nhiệm
 
-* Mỗi thành viên chịu trách nhiệm đối với vị trí được phân công.
-* Chủ động phối hợp với các vị trí khác để đảm bảo hoạt động tại điểm thi diễn ra thông suốt.
-* Báo ngay cho Exam Coordinator khi phát sinh sự cố hoặc tình huống vượt thẩm quyền xử lý.
-* Thực hiện công việc theo đúng quy trình và hướng dẫn của từng vai trò.
-{% endhint %}
+Exam Operations Team chịu trách nhiệm toàn bộ công tác hậu cần từ trước đến trong kỳ thi, đảm bảo đề thi, cơ sở vật chất và các vị trí hỗ trợ tại điểm thi sẵn sàng đúng tiến độ.
+
+### Gồm các vị trí
+
+* [Technical Team](technical-team.md)
+* [Welcome Officer](welcome-officer.md)
+* [Check-in Officer](check-in-officer.md)
+* [Locker Officer](locker-officer.md)
+* [Security Officer](security-officer.md)
+* [Room Coordinator](room-coordinator.md)
+
+***
+
+## 📋 Quy trình tham gia
+
+| Bước | Vai trò |
+| --- | --- |
+| [Bước 4 — Tiếp nhận đề thi](../../02-processes/buoc-04-tiep-nhan-de-thi.md) | Tiếp nhận, bảo mật và lưu trữ đề thi |
+| [Bước 5 — Phân công nhân sự & CSVC](../../02-processes/buoc-05-phan-cong-va-csvc.md) | Chuẩn bị cơ sở vật chất, thiết bị, phần mềm thi, sơ đồ phòng thi |
+| [Bước 6 — Chuẩn bị đề thi](../../02-processes/buoc-06-chuan-bi-de-thi.md) | Phân loại, đóng gói đề thi theo ngày/buổi/phòng |
+| [Bước 7 — Tổ chức kỳ thi](../../02-processes/buoc-07-to-chuc-ky-thi/README.md) | Hỗ trợ check-in thí sinh cùng Invigilator |
+| [Bước 8 — Đối soát](../../02-processes/buoc-08-doi-soat/README.md) | Hỗ trợ đối soát bài thi/đề thi |
+| [Bước 11 — Cấp phát chứng chỉ](../../02-processes/buoc-11-cap-phat-chung-chi.md) | Cấp phát chứng chỉ cho thí sinh |
+
+***
+
+### 🔑 Trách nhiệm chính
+
+- Tiếp nhận, bảo mật và lưu trữ đề thi.
+- Chuẩn bị cơ sở vật chất, thiết bị, phần mềm thi, sơ đồ phòng thi.
+- Phân loại, đóng gói đề thi theo ngày/buổi/phòng.
+- Hỗ trợ check-in thí sinh cùng Invigilator.
+- Hỗ trợ đối soát bài thi/đề thi.
+- Cấp phát chứng chỉ cho thí sinh.
+
+***
 
 {% hint style="warning" %}
 ### Lưu ý
 
-Exam Operations Team là lực lượng hỗ trợ vận hành tại điểm thi. Mỗi vị trí có phạm vi công việc và hướng dẫn thực hiện riêng. Khi được phân công nhiệm vụ, luôn tham khảo tài liệu của đúng vai trò trước khi thực hiện.
+Exam Operations Team báo cáo tiến độ nhận đề thi cho Exam Director thông qua Exam Coordinator.
 {% endhint %}
