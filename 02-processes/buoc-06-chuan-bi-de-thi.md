@@ -26,21 +26,21 @@ layout:
 
 {% columns %}
 {% column %}
-<h4 align="center">📅 Thời điểm</h4>
+#### 📅 Thời điểm
 
-<p align="center">Thực hiện 1 ngày trước kỳ thi</p>
+Thực hiện 1 ngày trước kỳ thi
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">👤 Phụ trách</h4>
+#### 👤 Phụ trách
 
-<p align="center"><a href="../03-roles/exam-coordinator.md">Exam Coordinator</a></p>
+[Exam Coordinator](../03-roles/exam-coordinator.md)
 {% endcolumn %}
 
 {% column %}
-<h4 align="center">✅ Phê duyệt</h4>
+#### ✅ Phê duyệt
 
-<p align="center"><a href="../03-roles/exam-director.md">Exam Director</a></p>
+[Exam Director](../03-roles/exam-director.md)
 {% endcolumn %}
 {% endcolumns %}
 
@@ -48,10 +48,10 @@ layout:
 
 ### 👥 Vai trò & Trách nhiệm
 
-| Vai trò                                             | Trách nhiệm                                                               |
-| --------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Exam Coordinator](../03-roles/exam-coordinator.md) | Lập kế hoạch, giám sát, kiểm tra, phân loại, đóng gói và chuẩn bị đề thi. |
-| [Exam Director](../03-roles/exam-director.md)       | Giám sát việc mở niêm phong đề thi theo quy định.                         |
+| Vai trò                                                       | Trách nhiệm                                        |
+| ------------------------------------------------------------- | -------------------------------------------------- |
+| [Exam Coordinator](../03-roles/exam-coordinator.md)           | Lập kế hoạch, giám sát, kiểm tra, phân loại, đóng gói và chuẩn bị đề thi.  |
+| [Exam Director](../03-roles/exam-director.md)                 | Giám sát việc mở niêm phong đề thi theo quy định.  |
 
 ### 📋 Chuẩn bị
 
@@ -155,11 +155,11 @@ layout:
 {% step %}
 ### 4. Đóng gói đề thi
 
-* Chuẩn bị riêng cho từng phòng thi.
-* Mỗi bộ đề gồm:
+* Chuẩn bị riêng cho từng phòng thi.&#x20;
+* Mỗi bộ đề gồm:&#x20;
   * Đề thi
   * file nghe tương ứng (nếu có)
-  * Tài liệu đi kèm theo quy định.
+  * Tài liệu đi kèm theo quy định.&#x20;
 * Dán nhãn và niêm phong sau khi hoàn tất.
 {% endstep %}
 
@@ -220,6 +220,7 @@ Sau khi hoàn tất, chuyển toàn bộ đề thi về khu vực lưu trữ an 
 * Luôn đối chiếu số lượng đề với danh sách thí sinh trước khi đóng gói.
 * Kiểm tra lại toàn bộ nhãn trên từng bộ đề trước khi niêm phong.
 * Sau khi hoàn tất, đưa đề thi về khu vực lưu trữ và tiếp tục bảo quản theo quy định bảo mật.
+* Nếu không liên lạc được với Exam Director khi cần giám sát mở niêm phong, xem [Danh bạ liên hệ & Escalation](../00-overview/danh-ba-lien-he.md).
 {% endhint %}
 
 ***
