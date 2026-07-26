@@ -22,7 +22,7 @@ layout:
 # Trang chủ
 
 <figure>
-  <img src=".gitbook/assets/operation_handbook_banner_optionB (2).svg" alt="Operation Handbook">
+  <img src=".gitbook/assets/operation_handbook_banner_optionB (3).svg" alt="Operation Handbook">
   <figcaption><p>Quy trình tổ chức kỳ thi ÖSD</p></figcaption>
 </figure>
 
