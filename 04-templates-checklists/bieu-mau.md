@@ -24,6 +24,11 @@ Các biểu mẫu sử dụng xuyên suốt quy trình tổ chức kỳ thi ÖSD
 [ke-hoach-ky-thi.md](ke-hoach-ky-thi.md)
 {% endcontent-ref %}
 Mẫu kế hoạch tổ chức kỳ thi trình Exam Director phê duyệt — Bước 1.
+
+{% content-ref url="bang-phan-ca-nhan-su.md" %}
+[bang-phan-ca-nhan-su.md](bang-phan-ca-nhan-su.md)
+{% endcontent-ref %}
+Biểu mẫu lập lịch phân ca nhân sự và giám thị theo từng buổi thi — Bước 5, Bước 7.
 {% content-ref url="danh-sach-thi-cac-ky-nang.md" %}
 [danh-sach-thi-cac-ky-nang.md](danh-sach-thi-cac-ky-nang.md)
 {% endcontent-ref %}
